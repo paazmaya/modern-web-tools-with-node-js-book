@@ -36,6 +36,8 @@ members, depending on the total amount of course participants.
 Presentation subjects are divided according to the themes of each lesson and assigned to groups
 by their own criteria.
 
+[Subjects, presenters and dates.](presentations.md)
+
 ## Targets defined as course delivery
 
 * The student is able to recognise the possibilities available via Node.js in a user interface development.
