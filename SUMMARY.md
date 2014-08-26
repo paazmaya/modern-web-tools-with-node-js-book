@@ -1,15 +1,22 @@
 # Summary
 
-Book for the Node.js course help in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014. Developed during the course, by all course participants.
+Book for the Node.js course help in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014. 
+Developed during the course, by all course participants.
 
 * [Source project documentation](README.md)
+* [Questions, issues][issue]
 
 ## Lectures
 
-1. [Introduction to Node.js and JavaScript](lessons/2014-08-26.md)
-2. [Modules, Github, npm](lessons/2014-09-02.md)
-3. [Forking, pull request](lessons/2014-09-09.md)
-4. [Code validation, conventions, linting](lessons/2014-09-16.md)
+Lectures are held in Bulevardi Campus, class room U423, every Tuesday at 16:40 - 20:45.
+
+Any questions that might come up during or between the lectures, please open an [issue][] if you feel
+that the subject would be useful for everyone.
+
+1. [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
+2. [Modules, Github, npm](lectures/2014-09-02.md)
+3. [Forking, pull request](lectures/2014-09-09.md)
+4. [Code validation, conventions, linting](lectures/2014-09-16.md)
 
 ## Assignments
 
@@ -63,3 +70,6 @@ and other studying activities during the lessons.
 - The student is able to update their own tools via version control system
 - The student can grasp what third party plugins can achieve and can use them efficiently in their own project
 - The student is able to participate the development of other tools via pull requests
+
+
+[issue]: https://github.com/paazmaya/modern-web-tools-with-node-js-book/issues "Course book issues"
