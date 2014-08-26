@@ -25,8 +25,8 @@ that the subject would be useful for everyone.
 
 ## Assignments
 
-The course contains four assignments, which are given in four week cycles. Each assignment should be returned in a week
-when it has been given, preferably via Github.
+The course contains four assignments, which are given in four week cycles. 
+Each assignment should be returned in a week when it has been given, preferably via Github.
 
 1. [First](assignments/2014-09-16.md)
 2. [Second](assignments/2014-10-14.md)
@@ -35,13 +35,14 @@ when it has been given, preferably via Github.
 
 ## Presentations
 
-Each lecture contains two presentations made by student groups. Each student groups consists of two to three
-members, depending on the total amount of course participants.
+Each lecture contains two presentations made by student. Each presentation can last about ~15 minutes.
 
-Presentation subjects are divided according to the themes of each lesson and assigned to groups
-by their own criteria.
+Presentation subjects are divided according to the themes of each lesson and assigned to the given
+students accoring to their own wishes. Please open a pull request for marking your presentation.
 
 [Subjects, presenters and dates.](presentations.md)
+
+Once a presentation has been held, the material should be linked in the above list.
 
 ## Targets defined as course delivery
 
