@@ -8,6 +8,8 @@ Held on every Tuesday at 16:40 - 20:45, class room U423 in Bulevard Campus of
 
 Lecturer Jukka Paasonen, `<first name . last name @ school name . country ISO code>`.
 
+Please see [SUMMARY.md](SUMMARY.md) for further contents.
+
 ## Gitbook publish
 
 [![Build Status](https://www.gitbook.io/button/status/book/paazmaya/modern-web-tools-with-node-js)](https://www.gitbook.io/book/paazmaya/modern-web-tools-with-node-js/activity)
@@ -20,4 +22,5 @@ git remote add https://push.gitbook.io/paazmaya/modern-web-tools-with-node-js.gi
 git push book master
 ```
 
-Credentials are asked, so unless you are a registered contributor, please register yourself first to the lecturer.
+Credentials are asked, so unless you are a registered contributor, 
+please register yourself first to the lecturer.

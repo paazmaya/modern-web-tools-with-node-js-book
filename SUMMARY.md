@@ -8,20 +8,21 @@ Developed during the course, by all course participants.
 
 ## Lectures
 
-Lectures are held in Bulevardi Campus, class room U423, every Tuesday at 16:40 - 20:45.
+Lectures are held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 20:45.
 
 Any questions that might come up during or between the lectures, please open an [issue][] if you feel
 that the subject would be useful for everyone.
 
 1. [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
-2. [Modules, Github, npm](lectures/2014-09-02.md)
-3. [Forking, pull request](lectures/2014-09-09.md)
+2. [Github forks and pull requests](lectures/2014-09-02.md)
+3. [Modules and npm](lectures/2014-09-09.md)
 4. [Code validation, conventions, linting](lectures/2014-09-16.md)
+5. 
 
 ## Assignments
 
 The course contains four assignments, which are given in four week cycles. Each assignment should be returned in a week
-when it has been given, preferrably via Github.
+when it has been given, preferably via Github.
 
 1. [First](assignments/2014-09-16.md)
 2. [Second](assignments/2014-10-14.md)
@@ -49,7 +50,7 @@ by their own criteria.
 
 ## Evaluation criteria
 
-Each student is evaluated according to the following criterias, based on their returned assignments, presentations
+Each student is evaluated according to the following criteria, based on their returned assignments, presentations
 and other studying activities during the lessons.
 
 ### Modest
@@ -68,7 +69,7 @@ and other studying activities during the lessons.
 
 ### Brilliant
 
-- The tools that the student has published have continuout automated testing
+- The tools that the student has published have continuous automated testing
 - The student is able to update their own tools via version control system
 - The student can grasp what third party plugins can achieve and can use them efficiently in their own project
 - The student is able to participate the development of other tools via pull requests
