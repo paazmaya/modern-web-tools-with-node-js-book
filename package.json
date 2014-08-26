@@ -1,0 +1,10 @@
+{
+  "name": "modern-web-tools-with-node-js-book",
+  "version": "0.1.0",
+  "description": "Modern Web tools with Node.js - Course book",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paazmaya/modern-web-tools-with-node-js-book.git"
+  },
+  "author": "Juga Paazmaya <paazmaya@yahoo.com>"
+}
