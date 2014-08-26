@@ -1,10 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
+* [Broilerplate](README.md)
 
 ## Lectures
 
-* [Introduction](lessons/01-Introduction.md)
+* [Introduction](lessons/2014-08-26.md)
 
 ## Assignments
 
