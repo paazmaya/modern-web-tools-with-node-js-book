@@ -10,6 +10,8 @@ Lecturer Jukka Paasonen, `<first name . last name @ school name . country ISO co
 
 ## Gitbook publish
 
+[![Build Status](https://www.gitbook.io/button/status/book/paazmaya/modern-web-tools-with-node-js)](https://www.gitbook.io/book/paazmaya/modern-web-tools-with-node-js/activity)
+
 This project is a Gitbook, which can be published to 
 [Modern Web tools with Node.js](https://www.gitbook.io/book/paazmaya/modern-web-tools-with-node-js "Modern Web tools with Node.js").
 
