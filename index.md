@@ -5,6 +5,8 @@ Developed during the course, by all course participants.
 
 * [Questions, issues][issue]
 
+It should be noted that throughout this course, the Node.js version in question is `0.10.x`.
+
 ## Lectures
 
 Lectures are held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 20:45.
@@ -16,10 +18,10 @@ that the subject would be useful for everyone.
 2. [02/09 - Github forks and pull requests](lectures/2014-09-02.md)
 3. [09/09 - Modules and npm](lectures/2014-09-09.md)
 4. [16/09 - Code validation, conventions, linting](lectures/2014-09-16.md)
-5. [23/09 - ](lectures/2014-09-23.md)
-6. [30/09 - ](lectures/2014-09-30.md)
-7. [07/10 - ](lectures/2014-10-07.md)
-8. [14/10 - ](lectures/2014-10-14.md)
+5. [23/09 - HTTP, Connect, Express](lectures/2014-09-23.md)
+6. [30/09 - Unit testing, Jasmine, PhantomJS](lectures/2014-09-30.md)
+7. [07/10 - Common task runners](lectures/2014-10-07.md)
+8. [14/10 - Automation and continuous integration](lectures/2014-10-14.md)
 9. [21/10 - ](lectures/2014-10-21.md)
 10. [28/10 - ](lectures/2014-10-28.md)
 11. [04/11 - ](lectures/2014-11-04.md)
