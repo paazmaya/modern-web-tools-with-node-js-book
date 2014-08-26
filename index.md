@@ -1,7 +1,9 @@
-# Course Book
+# Course Definition
 
 Book for the Node.js course help in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014. 
 Developed during the course, by all course participants.
+
+* [Questions, issues][issue]
 
 ## Lectures
 
@@ -10,11 +12,16 @@ Lectures are held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 
 Any questions that might come up during or between the lectures, please open an [issue][] if you feel
 that the subject would be useful for everyone.
 
-1. [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
-2. [Github forks and pull requests](lectures/2014-09-02.md)
-3. [Modules and npm](lectures/2014-09-09.md)
-4. [Code validation, conventions, linting](lectures/2014-09-16.md)
-5. 
+1. [26/08 - Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
+2. [02/09 - Github forks and pull requests](lectures/2014-09-02.md)
+3. [09/09 - Modules and npm](lectures/2014-09-09.md)
+4. [16/09 - Code validation, conventions, linting](lectures/2014-09-16.md)
+5. 23/09
+6. 30/09
+7. 07/10
+8. 14/10
+9. 24/10
+10. 31/10
 
 ## Assignments
 
