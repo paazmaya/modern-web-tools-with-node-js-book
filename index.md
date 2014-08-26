@@ -16,12 +16,19 @@ that the subject would be useful for everyone.
 2. [02/09 - Github forks and pull requests](lectures/2014-09-02.md)
 3. [09/09 - Modules and npm](lectures/2014-09-09.md)
 4. [16/09 - Code validation, conventions, linting](lectures/2014-09-16.md)
-5. 23/09
-6. 30/09
-7. 07/10
-8. 14/10
-9. 24/10
-10. 31/10
+5. [23/09 - ](lectures/2014-09-23.md)
+6. [30/09 - ](lectures/2014-09-30.md)
+7. [07/10 - ](lectures/2014-10-07.md)
+8. [14/10 - ](lectures/2014-10-14.md)
+9. [24/10 - ](lectures/2014-10-24.md)
+10. [31/10 - ](lectures/2014-10-31.md)
+11. [04/11 - ](lectures/2014-11-04.md)
+12. [11/11 - ](lectures/2014-11-11.md)
+13. [18/11 - ](lectures/2014-11-18.md)
+14. [25/11 - ](lectures/2014-11-25.md)
+15. [02/12 - ](lectures/2014-12-02.md)
+16. [09/12 - ](lectures/2014-12-09.md)
+17. [16/12 - ](lectures/2014-12-16.md)
 
 ## Assignments
 
