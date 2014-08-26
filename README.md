@@ -24,3 +24,5 @@ git push book master
 
 Credentials are asked, so unless you are a registered contributor, 
 please register yourself first to the lecturer.
+
+
