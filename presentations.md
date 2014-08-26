@@ -10,7 +10,7 @@ List of possible subjects, with approximate chronological order:
 
 - Github forks and pull request
 - npm
-- ESLint
+- ESLint (16.9.2014/Heikki Alanen)
 - Connect
 - Express
 - Jasmine
