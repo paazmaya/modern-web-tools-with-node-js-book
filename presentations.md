@@ -8,7 +8,7 @@ Each lesson should have two to three presentations.
 
 List of possible subjects, with approximate chronological order:
 
-- Github forks and pull request
+- Github forks and pull request - 2/9/2014 jhaap
 - npm
 - ESLint (16.9.2014/Heikki Alanen)
 - Connect
