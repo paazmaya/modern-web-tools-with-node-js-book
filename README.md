@@ -25,4 +25,9 @@ git push book master
 Credentials are asked, so unless you are a registered contributor,
 please register yourself first to the lecturer.
 
+Build locally, the `LC` variable needed in Mac:
 
+```sh
+sudo npm i -g gitbook
+LC_CTYPE=en_US.UTF-8 gitbook build
+```
