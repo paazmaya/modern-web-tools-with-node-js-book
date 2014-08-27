@@ -4,6 +4,7 @@ Book for the Node.js course help in the Metropolia University of Applied Science
 Developed during the course, by all course participants.
 
 * [Questions, issues][issue]
+* [Tieto- ja viestintätekniikan tutkinto-ohjelman avoimen opintotarjonta Helsingin toimipisteessä](http://www.metropolia.fi/koulutusohjelmat/tieto-ja-viestintateknologia/avoin-amk/tietotekniikka-helsinki/)
 
 It should be noted that throughout this course, the Node.js version in question is `0.10.x`.
 

@@ -1,26 +1,24 @@
 {
-  "plugins": [
-    "autocover",
-    "exercises"
-  ],
-  "pluginsConfig": {
-    "autocover": {
-      {
-        "title": "Modern Web tools with Node.js",
-        "author": "Jukka Paasonen & Co",
-        "font": {
-          "size": 28,
-          "family": "Lato",
-          "color": '#FFF'
-        },
-        "size": {
-          "w": 1800,
-          "h": 2360
-        },
-        "background": {
-          "color": '#663399'
+    "plugins": [
+        "autocover",
+        "exercises"
+    ],
+    "pluginsConfig": {
+        "autocover": {
+            "title": "Modern Web tools with Node.js",
+            "author": "Jukka Paasonen & Co",
+            "font": {
+                "size": 28,
+                "family": "Comic Sans",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#663399"
+            }
         }
-      }
     }
-  }
 }
