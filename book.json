@@ -3,11 +3,11 @@
   "pluginsConfig": {
     "autocover": {
       {
-        "title": "My Book",
-        "author": "Author",
+        "title": "Modern Web tools with Node.js",
+        "author": "Jukka Paasonen & Others",
         "font": {
           "size": null,
-          "family": "Impact",
+          "family": "Lato",
           "color": '#FFF'
         },
         "size": {
@@ -15,7 +15,7 @@
           "h": 2360
         },
         "background": {
-          "color": '#09F'
+          "color": '#663399'
         }
       }
     }
