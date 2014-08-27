@@ -8,7 +8,8 @@
   },
   "author": "Juga Paazmaya <paazmaya@yahoo.com>",
   "dependencies": {
-    "gitbook-plugin-autocover": "~1.2",
-    "gitbook-plugin-exercises": "~1.0"
+    "gitbook-plugin-anchors": "^0.3",
+    "gitbook-plugin-autocover": "^1.2",
+    "gitbook-plugin-exercises": "^1.0"
   }
 }

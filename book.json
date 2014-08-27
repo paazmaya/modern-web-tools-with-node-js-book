@@ -1,7 +1,8 @@
 {
     "plugins": [
         "autocover",
-        "exercises"
+        "exercises",
+	"anchors"
     ],
     "pluginsConfig": {
         "autocover": {
