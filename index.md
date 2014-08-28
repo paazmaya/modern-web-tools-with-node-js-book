@@ -28,20 +28,20 @@ that the subject would be useful for everyone.
 11. [04/11 - Web performance](lectures/2014-11-04.md)
 12. [11/11 - Code coverage](lectures/2014-11-11.md)
 13. [18/11 - ](lectures/2014-11-18.md)
-14. [25/11 - ](lectures/2014-11-25.md)
+14. [25/11 - Load balancing](lectures/2014-11-25.md)
 15. [02/12 - ](lectures/2014-12-02.md)
 16. [09/12 - ](lectures/2014-12-09.md)
-17. [16/12 - ](lectures/2014-12-16.md)
+17. [16/12 - Feedback on the projects](lectures/2014-12-16.md)
 
 ## Assignments
 
-The course contains four assignments, which are given in four week cycles. 
-Each assignment should be returned in a week when it has been given, preferably via Github.
+The course contains four assignments, which are given in three weeks cycles. 
+Each assignment should be returned in two weeks when it has been given, preferably via Github.
 
-1. [First](assignments/2014-09-16.md)
-2. [Second](assignments/2014-10-14.md)
-3. [Third](assignments/2014-11-11.md)
-4. [Fourth](assignments/2014-12-09.md)
+1. [First assignment, given in 16th Sep](assignments/2014-09-16.md)
+2. [Second assignment, given in 7th Oct](assignments/2014-10-07.md)
+3. [Third assignment, given in 28th Oct](assignments/2014-10-28.md)
+4. [Fourth assignment, given in 18th Nov](assignments/2014-11-18.md)
 
 ## Presentations
 
