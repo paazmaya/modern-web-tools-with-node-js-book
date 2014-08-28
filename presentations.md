@@ -10,24 +10,38 @@ List of possible subjects, with approximate chronological order:
 
 - Github forks and pull request - 2/9/2014 jhaap
 - npm
+
+- jslint
 - ESLint (16.9.2014/Heikki Alanen)
+
 - Connect
 - Express
+
 - Jasmine
 - Mocha
 - Qunit
 - nodeunit
 - PhantomJS
+
 - Grunt
 - Gulp
 - Broccoli
+
 - Travis CI
+- Wercker
+
 - Gemnasium 
 - VersionEye
+
 - Bower 
 - Component
+
 - UglifyJS
 - CSSmin
-- Coveralls
+- Sitespeed.io
+
+- Coveralls.io
+
 - CouchDB
+
 - Crypto
