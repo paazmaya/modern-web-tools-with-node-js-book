@@ -1,25 +1,6 @@
 {
   "plugins": [
-    "autocover",
     "exercises",
     "anchors"
-  ],
-  "pluginsConfig": {
-    "autocover": {
-      "title": "Modern Web tools with Node.js",
-      "author": "Jukka Paasonen & Co",
-      "font": {
-        "size": 28,
-        "family": "Lato Black",
-        "color": "#FFF"
-      },
-      "size": {
-        "w": 1800,
-        "h": 2360
-      },
-      "background": {
-        "color": "#663399"
-      }
-    }
-  }
+  ]
 }
