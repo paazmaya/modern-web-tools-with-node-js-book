@@ -23,3 +23,5 @@ Build locally, the `LC` variable needed in Mac:
 sudo npm i -g gitbook gitbook-plugin-anchors gitbook-plugin-exercises
 LC_CTYPE=en_US.UTF-8 gitbook build
 ```
+
+Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96/583/97).
