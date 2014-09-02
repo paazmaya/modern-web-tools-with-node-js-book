@@ -24,7 +24,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - nodeunit
 - PhantomJS
 
-- Grunt
+- Grunt (7.10.2014 / Oscar Lemström)
 - Gulp
 - Broccoli
 
