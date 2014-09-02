@@ -1,4 +1,4 @@
-# Presentations
+﻿# Presentations
 
 Each presentation should be about 15 minutes, going through briefly one tool or functionality related to Node.js.
 
