@@ -15,7 +15,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - jslint (16.9.2014/Maxim Dolgobrod)
 - ESLint (16.9.2014/Heikki Alanen)
 
-- Connect
+- Connect (Aki Mäkynen - 23.9.2014)
 - Express (Sopheak Kong - 23.9.2014)
 
 - Jasmine
