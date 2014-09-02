@@ -1,4 +1,4 @@
-# Presentations
+﻿# Presentations
 
 Each presentation should be about 15 minutes, going through briefly one tool or functionality related to Node.js.
 
@@ -16,12 +16,6 @@ List of possible subjects, with approximate chronological order and grouped by s
 - ESLint (16.9.2014/Heikki Alanen)
 
 - Connect
-<<<<<<< HEAD
-- Express
-- Jasmine (tuukkalai)
-- PhantomJS
-- Grunt
-=======
 - Express (Sopheak Kong - 23.9.2014)
 
 - Jasmine
@@ -31,7 +25,6 @@ List of possible subjects, with approximate chronological order and grouped by s
 - PhantomJS (Jarno Laine)
 
 - Grunt (7.10.2014 / Oscar Lemström)
->>>>>>> upstream/master
 - Gulp
 - Broccoli
 
