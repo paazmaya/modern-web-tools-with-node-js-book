@@ -39,7 +39,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - UglifyJS
 - CSSmin
-- Sitespeed.io
+- Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
 
 - Coveralls.io
 
