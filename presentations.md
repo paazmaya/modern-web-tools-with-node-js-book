@@ -18,7 +18,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Connect (Aki Mäkynen - 23.9.2014)
 - Express (Sopheak Kong - 23.9.2014)
 
-- Jasmine
+- Jasmine (30.9.2014 - Tuukka Laitinen)
 - Mocha
 - Qunit
 - nodeunit
