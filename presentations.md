@@ -10,7 +10,8 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - Github forks and pull request - 2/9/2014 jhaap
 
-- npm
+- npm Markus, Marko 8/9/2014
+- MongoDB / Mongoose Markus, Marko Joskus tulevaisuudessa.
 
 - jslint
 - ESLint (16.9.2014/Heikki Alanen)
