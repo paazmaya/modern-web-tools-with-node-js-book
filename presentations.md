@@ -22,7 +22,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Mocha
 - Qunit
 - nodeunit
-- PhantomJS
+- PhantomJS (Jarno Laine)
 
 - Grunt
 - Gulp
