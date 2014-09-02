@@ -13,7 +13,7 @@ List of possible subjects, with approximate chronological order:
 - ESLint
 - Connect
 - Express
-- Jasmine
+- Jasmine (tuukkalai)
 - PhantomJS
 - Grunt
 - Gulp
