@@ -12,7 +12,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - npm
 
-- jslint
+- jslint (16.9.2014/Maxim Dolgobrod)
 - ESLint (16.9.2014/Heikki Alanen)
 
 - Connect
