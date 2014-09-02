@@ -10,8 +10,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - Github forks and pull request - 2/9/2014 jhaap
 
-- npm Markus, Marko 8/9/2014
-- MongoDB / Mongoose Markus, Marko Joskus tulevaisuudessa.
+- npm
 
 - jslint
 - ESLint (16.9.2014/Heikki Alanen)
@@ -35,7 +34,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Gemnasium 
 - VersionEye
 
-- Bower 
+- Bower Markus, Marko
 - Component
 
 - UglifyJS
@@ -45,5 +44,5 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Coveralls.io
 
 - CouchDB
-
+- MongoDB / Mongoose Markus, Marko Joskus tulevaisuudessa.
 - Crypto
