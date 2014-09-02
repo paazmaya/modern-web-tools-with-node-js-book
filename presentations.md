@@ -6,9 +6,10 @@ Please mark your name next to the subject you wish to present. In case the "thin
 list, feel free to add it.
 Each lesson should have two to three presentations.
 
-List of possible subjects, with approximate chronological order:
+List of possible subjects, with approximate chronological order and grouped by subject:
 
 - Github forks and pull request - 2/9/2014 jhaap
+
 - npm
 
 - jslint
