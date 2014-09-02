@@ -16,7 +16,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - ESLint (16.9.2014/Heikki Alanen)
 
 - Connect
-- Express
+- Express (Sopheak Kong - 23.9.2014)
 
 - Jasmine
 - Mocha
