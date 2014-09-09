@@ -34,7 +34,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Gemnasium 
 - VersionEye
 
-- Bower Markus, Marko
+- Bower Markus, Marko 28.10.2014
 - Component
 
 - UglifyJS
@@ -44,5 +44,5 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Coveralls.io
 
 - CouchDB
-- MongoDB / Mongoose Markus, Marko Joskus tulevaisuudessa.
+- MongoDB / Mongoose Markus, Marko 18.11.2014.
 - Crypto
