@@ -1,6 +1,7 @@
 {
   "plugins": [
     "exercises",
-    "anchors"
+    "anchors",
+    "quizzes"
   ]
 }
