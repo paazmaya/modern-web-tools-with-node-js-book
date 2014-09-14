@@ -39,6 +39,6 @@ How do you list packages?
 | npm -l           |  [ ]   |  [x]   |
 | npm list -g      |  [x]   |  [ ]   |
 
-> Adding the "g" flag after "list" or "ls" will show you globally installed packages.
+> Adding the "g" flag after "list" or "ls" will show you globally installed packages: **npm list -g** or **npm ls -g**
 
 ---
