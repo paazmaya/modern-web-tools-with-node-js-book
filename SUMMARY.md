@@ -25,3 +25,5 @@
   * [Third assignment](assignments/2014-10-28.md)
   * [Fourth assignment](assignments/2014-11-18.md)
 * [Presentations](presentations.md)
+* Quizzes
+  * [JavaScript type quiz](quizzes/javascript-types.md)
