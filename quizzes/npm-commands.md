@@ -6,9 +6,9 @@ Which command creates the package.json file interactively?
 
 |                  | true   | false  |
 | ---------------- | ------ | ------ |
-| npm install      |  ( )   |  (x)   |
-| npm init         |  (x)   |  ( )   |
-| npm package.json |  ( )   |  (x)   |
+| npm install      |  [ ]   |  [x]   |
+| npm init         |  [x]   |  [ ]   |
+| npm package.json |  [ ]   |  [x]   |
 
 > If you already have a package.json file, it'll read that first, and default to the options in there.
 
