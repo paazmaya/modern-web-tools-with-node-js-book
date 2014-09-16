@@ -13,7 +13,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - npm - 9/9/2014 Oona
 
 - jslint (16.9.2014/Maxim Dolgobrod)
-- ESLint (16.9.2014/Heikki Alanen)
+- ESLint https://speakerdeck.com/heikkialanen/eslint-presentation (16.9.2014/Heikki Alanen)
 
 - Connect (Aki Mäkynen - 23.9.2014)
 - Express (Sopheak Kong - 23.9.2014)
