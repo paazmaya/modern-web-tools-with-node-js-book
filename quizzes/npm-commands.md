@@ -22,7 +22,7 @@ How do you install a package and save it as a dependency in the package.json fil
 | ------------------------------------ | ------ | ------ |
 | `npm install <package name> --save`  |  [x]   |  [ ]   |
 | `npm install <package name> --s`     |  [ ]   |  [x]   |
-| `npm install <package name> --S`     |  [x]   |  [ ]   |
+| `npm install <package name> -S`      |  [x]   |  [ ]   |
 
 > When uninstalling a package "save" flag will also update the dependency to package.json file: `npm uninstall <package name> --save`
 
