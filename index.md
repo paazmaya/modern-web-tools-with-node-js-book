@@ -43,6 +43,8 @@ Each assignment should be returned in two weeks when it has been given, preferab
 3. [Third assignment, given in 28th Oct](assignments/2014-10-28.md)
 4. [Fourth assignment, given in 18th Nov](assignments/2014-11-18.md)
 
+[The projects which are used for completing the assignments, are listed here.](assignments/assignment-projects.md)
+
 ## Presentations
 
 Each lecture contains two presentations made by student. Each presentation can last about ~15 minutes.

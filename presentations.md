@@ -1,4 +1,4 @@
-# Presentations
+﻿# Presentations
 
 Each presentation should be about 15 minutes, going through briefly one tool or functionality related to Node.js.
 
@@ -10,39 +10,39 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - Github forks and pull request - 2/9/2014 jhaap
 
-- npm
+- npm - 9/9/2014 Oona
 
-- jslint
+- jslint (16.9.2014/Maxim Dolgobrod)
 - ESLint (16.9.2014/Heikki Alanen)
 
-- Connect
+- Connect (Aki Mäkynen - 23.9.2014)
 - Express (Sopheak Kong - 23.9.2014)
 
-- Jasmine
+- Jasmine (30.9.2014 - Tuukka Laitinen)
 - Mocha
 - Qunit
-- nodeunit
-- PhantomJS
+- nodeunit (Ville & Antte 30.9)
+- PhantomJS (Jarno Laine)
 
-- Grunt
-- Gulp
+- Grunt (7.10.2014 / Oscar Lemström)
+- Gulp (7.10.2014 / Joonas Meriläinen)
 - Broccoli
 
-- Travis CI
+- Travis CI (Ville & Antte 14.10)
 - Wercker
 
 - Gemnasium 
 - VersionEye
 
-- Bower 
+- Bower Markus, Marko 28.10.2014
 - Component
 
 - UglifyJS
 - CSSmin
-- Sitespeed.io
+- Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
 
 - Coveralls.io
 
 - CouchDB
-
+- MongoDB / Mongoose Markus, Marko 18.11.2014.
 - Crypto

@@ -9,6 +9,7 @@
   "author": "Juga Paazmaya <paazmaya@yahoo.com>",
   "dependencies": {
     "gitbook-plugin-anchors": "^0.3",
-    "gitbook-plugin-exercises": "^1.0"
+    "gitbook-plugin-exercises": "^1.0",
+    "gitbook-plugin-quizzes": "^1.0"
   }
 }
