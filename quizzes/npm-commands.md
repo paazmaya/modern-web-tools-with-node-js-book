@@ -4,7 +4,7 @@
 
 Which command creates the package.json file interactively?
 
-|                    | `yes`  | `no`   |
+|                    | yes    | no     |
 | ------------------ | ------ | ------ |
 | `npm install`      |  [ ]   |  [x]   |
 | `npm init`         |  [x]   |  [ ]   |
@@ -18,7 +18,7 @@ Which command creates the package.json file interactively?
 
 How do you install a package and save it as a dependency in the package.json file?
 
-|                                      | `yes`  | `no`   |
+|                                      | yes    | no     |
 | ------------------------------------ | ------ | ------ |
 | `npm install <package name> --save`  |  [x]   |  [ ]   |
 | `npm install <package name> --s`     |  [ ]   |  [x]   |
@@ -32,7 +32,7 @@ How do you install a package and save it as a dependency in the package.json fil
 
 How do you list packages?
 
-|                  | `yes`  | `no`   |
+|                  | yes    | no     |
 | ---------------- | ------ | ------ |
 | `npm list`       |  [x]   |  [ ]   |
 | `npm ls`         |  [x]   |  [ ]   |
