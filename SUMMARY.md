@@ -28,3 +28,4 @@
 * [Presentations](presentations.md)
 * Quizzes
   * [JavaScript type quiz](quizzes/javascript-types.md)
+  * [npm basics](quizzes/npm-commands.md)
