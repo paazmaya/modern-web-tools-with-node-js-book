@@ -33,7 +33,7 @@ For example the first one would be executed as `typeof "Hello"` and would return
 |  `undefined`  | [ ]        | [ ]        | [ ]       | [ ]        | [ ]          | [x]           | [ ]         |
 |  `"true"`     | [ ]        | [ ]        | [ ]       | [x]        | [ ]          | [ ]           | [ ]         |
 |  `12.8`       | [ ]        | [x]        | [ ]       | [ ]        | [ ]          | [ ]           | [ ]         |
-|  `alert`      | [ ]        | [x]        | [ ]       | [ ]        | [x]          | [ ]           | [ ]         |
+|  `alert`      | [ ]        | [ ]        | [ ]       | [ ]        | [x]          | [ ]           | [ ]         |
 
 
 > How about trying it in the console of your browser?
