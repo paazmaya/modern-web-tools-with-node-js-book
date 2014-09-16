@@ -38,7 +38,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Component
 
 - UglifyJS
-- CSSmin
+- CSSmin (Jukka Rautanen - 4.11.2014)
 - Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
 
 - Coveralls.io
