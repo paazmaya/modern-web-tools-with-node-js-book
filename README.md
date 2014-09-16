@@ -3,7 +3,7 @@
 > Nykyaikaiset Node.js työkalut tehokkaaseen Web työskentelyyn TT00CC06-3001
 
 A course of using [Node.js](http://nodejs.org/) and related tools in Web development.
-Held on every Tuesday at 16:40 - 20:45, class room U423 in Bulevard Campus of
+Held on every Tuesday at 16:40 - 20:15, class room U423 in Bulevard Campus of
 [Metropolia University of Applied Sciences](http://www.metropolia.fi/en/ "Metropolia"), Helsinki, Finland.
 
 Lecturer [Jukka Paasonen](http://paazmaya.com), `<first name . last name @ school name . country ISO code>`.
