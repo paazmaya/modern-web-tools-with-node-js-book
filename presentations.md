@@ -12,8 +12,8 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - npm - 9/9/2014 Oona
 
-- jslint (16.9.2014/Maxim Dolgobrod)
-- ESLint https://speakerdeck.com/heikkialanen/eslint-presentation (16.9.2014/Heikki Alanen)
+- [JSLint & JSHint](https://speakerdeck.com/tariel/jslint-and-jslint) (16.9.2014/Maxim Dolgobrod)
+- [ESLint] (https://speakerdeck.com/heikkialanen/eslint-presentation) (16.9.2014/Heikki Alanen)
 
 - Connect (Aki Mäkynen - 23.9.2014)
 - Express (Sopheak Kong - 23.9.2014)
@@ -38,7 +38,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Component
 
 - UglifyJS
-- CSSmin
+- CSSmin (Jukka Rautanen - 4.11.2014)
 - Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
 
 - Coveralls.io

@@ -55,7 +55,25 @@ What are the output values of the following expressions?
 - [ ] `3`
 - [ ] `"3"`
 
-> String always wins!
+`+"1" + 2`
+- [ ] `12`
+- [ ] `"12"`
+- [x] `3`
+- [ ] `"3"`
+
+`1 + "2"`
+- [ ] `12`
+- [x] `"12"`
+- [ ] `3`
+- [ ] `"3"`
+
+`1+ +"2"`
+- [ ] `12`
+- [ ] `"12"`
+- [x] `3`
+- [ ] `"3"`
+
+> String always wins! ...unless it is turned to a number first.
 
 ---
 
