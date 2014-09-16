@@ -10,7 +10,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - Github forks and pull request - 2/9/2014 jhaap
 
-- npm - 9/9/2014 Oona
+- npm - 9/9/2014 Oona [npm basics](https://speakerdeck.com/oona/npm-basics)
 
 - [JSLint & JSHint](https://speakerdeck.com/tariel/jslint-and-jslint) (16.9.2014/Maxim Dolgobrod)
 - ESLint (16.9.2014/Heikki Alanen)
