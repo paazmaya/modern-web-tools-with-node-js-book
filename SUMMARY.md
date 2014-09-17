@@ -14,7 +14,7 @@
   * [Front end third party dependencies](lectures/2014-10-28.md)
   * [Web performance](lectures/2014-11-04.md)
   * [Code coverage](lectures/2014-11-11.md)
-  * [](lectures/2014-11-18.md)
+  * [Security](lectures/2014-11-18.md)
   * [Load balancing](lectures/2014-11-25.md)
   * [](lectures/2014-12-02.md)
   * [](lectures/2014-12-09.md)
