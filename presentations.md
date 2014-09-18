@@ -1,4 +1,4 @@
-﻿# Presentations
+# Presentations
 
 Each presentation should be about 15 minutes, going through briefly one tool or functionality related to Node.js.
 
@@ -11,6 +11,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Github forks and pull request - 2/9/2014 jhaap
 
 - npm - 9/9/2014 Oona [npm basics](https://speakerdeck.com/oona/npm-basics)
+  - [Name expansions of `npm`](https://github.com/npm/npm-expansions/blob/master/index.json)
 
 - [JSLint & JSHint](https://speakerdeck.com/tariel/jslint-and-jslint) (16.9.2014/Maxim Dolgobrod)
 - [ESLint](https://speakerdeck.com/heikkialanen/eslint-presentation) (16.9.2014/Heikki Alanen)
