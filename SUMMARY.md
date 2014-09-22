@@ -30,3 +30,4 @@
   * [JavaScript type quiz](quizzes/javascript-types.md)
   * [npm basic commands quiz](quizzes/npm-commands.md)
   * [ESLint quiz](quizzes/eslint.md)
+* [Participation](participation.md)
