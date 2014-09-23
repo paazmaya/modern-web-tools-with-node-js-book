@@ -89,9 +89,9 @@ var getAllNames = function () {
 var generateMarkdown = function () {
   var md = '';
   var names = getAllNames();
-  Object.keys(names).forEach(function (name) {
+  Object.keys(names).sort().forEach(function (name) {
     var url = names[name];
-    md += '[' + name + '](' + url + ')\n';
+    md += '[' + name + ']: ' + url + '\n';
   });
   return md;
 };
