@@ -22,13 +22,12 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Grunt (30.9.2014 / Oscar Lemström)
 - Gulp (30.9.2014 / Joonas Meriläinen)
 - Broccoli
-- 
+ 
 - Jasmine (7.10.2014 - Tuukka Laitinen)
 - Mocha
 - Qunit
 - nodeunit (Ville & Antte7.10.2014)
 - PhantomJS (Jarno Laine)
-
 
 - Travis CI (Ville & Antte 14.10)
 - Wercker
