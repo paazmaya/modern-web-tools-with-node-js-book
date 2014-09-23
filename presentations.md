@@ -17,7 +17,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - [ESLint](https://speakerdeck.com/heikkialanen/eslint-presentation) (16.9.2014/Heikki Alanen)
 
 - Connect (Aki Mäkynen - 23.9.2014)
-- Express (Sopheak Kong - 23.9.2014)
+- [Express](https://speakerdeck.com/skyfire/express-dot-js) (Sopheak Kong - 23.9.2014)
 
 - Jasmine (30.9.2014 - Tuukka Laitinen)
 - Mocha
