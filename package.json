@@ -6,10 +6,16 @@
     "type": "git",
     "url": "https://github.com/paazmaya/modern-web-tools-with-node-js-book.git"
   },
+  "scripts": {
+    "participants": "scripts/participants.js"
+  },
   "author": "Juga Paazmaya <paazmaya@yahoo.com>",
   "dependencies": {
     "gitbook-plugin-anchors": "^0.3",
     "gitbook-plugin-exercises": "^1.0",
     "gitbook-plugin-quizzes": "^1.0"
+  },
+  "devDependencies": {
+    "github": "^0.2.2"
   }
 }

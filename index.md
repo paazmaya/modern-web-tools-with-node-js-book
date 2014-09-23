@@ -27,7 +27,7 @@ that the subject would be useful for everyone.
 10. [28/10 - Front end third party dependencies](lectures/2014-10-28.md)
 11. [04/11 - Web performance](lectures/2014-11-04.md)
 12. [11/11 - Code coverage](lectures/2014-11-11.md)
-13. [18/11 - ](lectures/2014-11-18.md)
+13. [18/11 - Security](lectures/2014-11-18.md)
 14. [25/11 - Load balancing](lectures/2014-11-25.md)
 15. [02/12 - ](lectures/2014-12-02.md)
 16. [09/12 - ](lectures/2014-12-09.md)
@@ -69,6 +69,8 @@ Once a presentation has been held, the material should be linked in the above li
 
 Each student is evaluated according to the following criteria, based on their returned assignments, presentations
 and other studying activities during the lessons.
+
+[Student participation matrix](participation.md) should contain links to the relevant activities.
 
 ### Modest
 
