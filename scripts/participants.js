@@ -9,6 +9,7 @@
 
 // https://github.com/mikedeboer/node-github
 var github = require('github'),
+  objectMerge = require('object-merge'),
   fs = require('fs');
 
 var pkg = JSON.parse(fs.readFileSync('package.json'));
@@ -29,8 +30,6 @@ var options = {
   state: 'all',
   per_page: 100
 };
-
-var names = [];
 
 
 var fetchIssueComment = function () {
@@ -61,63 +60,42 @@ var fetchPullRequests = function () {
 };
 
 /**
- * Get list of unique usernames
- * @param {array} data
+ * Get list of unique usernames with link to profile
+ * @param {string} filename
+ * @returns {object} data
  */
-var prUsers = function () {
-  var filename = 'pull-requests.json';
+var getNamelist = function (filename) {
+  if (typeof filename !== 'string' || !fs.existsSync(filename)) {
+    return {};
+  }
   var data = JSON.parse(fs.readFileSync(filename));
 
   var list = {};
   data.forEach(function (item) {
     list[item.user.login] = item.user.html_url;
   });
-  return Object.keys(list);
+  return list;
 };
 
-
-/**
- * Get list of unique usernames
- * @param {array} data
- */
-var issueUsers = function () {
-  var filename = 'issues.json';
-  var data = JSON.parse(fs.readFileSync(filename));
-
-  var list = {};
-  data.forEach(function (item) {
-    list[item.user.login] = item.user.html_url;
-  });
-  return Object.keys(list);
-};
-
-/**
- * Get list of unique usernames
- * @param {array} data
- */
-var issueCommentUsers = function () {
-  var filename = 'issue-comments.json';
-  var data = JSON.parse(fs.readFileSync(filename));
-
-  var list = {};
-  data.forEach(function (item) {
-    list[item.user.login] = item.user.html_url;
-  });
-  return Object.keys(list);
-};
-
-
-var mergeNames = function () {
-  var names = [].concat(
-    prUsers(),
-    issueUsers(),
-    issueCommentUsers()
+var getAllNames = function () {
+  var lists = objectMerge(
+    getNamelist('pull-requests.json'),
+    getNamelist('issues.json'),
+    getNamelist('issue-comments.json')
   );
-
-  return names.filter(function (item, index, list) {
-    return list.lastIndexOf(item) > index;
-  });
+  return lists;
 };
 
-names = mergeNames();
-console.log(names.length);
+var generateMarkdown = function () {
+  var md = '';
+  var names = getAllNames();
+  Object.keys(names).forEach(function (name) {
+    var url = names[name];
+    md += '[' + name + '](' + url + ')\n';
+  });
+  return md;
+};
+
+var md = generateMarkdown();
+console.log(md);
+
