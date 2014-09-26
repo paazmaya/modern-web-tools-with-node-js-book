@@ -20,14 +20,14 @@ that the subject would be useful for everyone.
 3. [09/09 - Modules and npm](lectures/2014-09-09.md)
 4. [16/09 - Code validation, conventions, linting](lectures/2014-09-16.md)
 5. [23/09 - HTTP, Connect, Express](lectures/2014-09-23.md)
-6. [30/09 - Unit testing, Jasmine, PhantomJS](lectures/2014-09-30.md)
-7. [07/10 - Common task runners](lectures/2014-10-07.md)
+7. [30/09 - Common task runners](lectures/2014-09-30.md)
+6. [07/10 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
 8. [14/10 - Automation and continuous integration](lectures/2014-10-14.md)
 9. [21/10 - Package dependencies](lectures/2014-10-21.md)
 10. [28/10 - Front end third party dependencies](lectures/2014-10-28.md)
 11. [04/11 - Web performance](lectures/2014-11-04.md)
 12. [11/11 - Code coverage](lectures/2014-11-11.md)
-13. [18/11 - ](lectures/2014-11-18.md)
+13. [18/11 - Security](lectures/2014-11-18.md)
 14. [25/11 - Load balancing](lectures/2014-11-25.md)
 15. [02/12 - ](lectures/2014-12-02.md)
 16. [09/12 - ](lectures/2014-12-09.md)
@@ -42,6 +42,8 @@ Each assignment should be returned in two weeks when it has been given, preferab
 2. [Second assignment, given in 7th Oct](assignments/2014-10-07.md)
 3. [Third assignment, given in 28th Oct](assignments/2014-10-28.md)
 4. [Fourth assignment, given in 18th Nov](assignments/2014-11-18.md)
+
+[The projects which are used for completing the assignments, are listed here.](assignments/assignment-projects.md)
 
 ## Presentations
 
@@ -67,6 +69,8 @@ Once a presentation has been held, the material should be linked in the above li
 
 Each student is evaluated according to the following criteria, based on their returned assignments, presentations
 and other studying activities during the lessons.
+
+[Student participation matrix](participation.md) should contain links to the relevant activities.
 
 ### Modest
 
