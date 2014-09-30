@@ -29,7 +29,7 @@ Github username | Presented | Material linked | Quiz done
 [jarnolai][]    | [ ]       | [ ]             | [ ] 
 [jhaap][]       | [x]       | [ ]             | [ ] 
 [jukra][]       | [ ]       | [ ]             | [ ] 
-[merilainen-metropolia][] | [ ] | [ ]         | [ ] 
+[merilainen-metropolia][] | [ ] | [x]         | [ ] 
 [minnahin][]    | [ ]       | [ ]             | [ ] 
 [mpiivonen][]   | [ ]       | [ ]             | [ ] 
 [olemstrom][]   | [ ]       | [ ]             | [ ] 
