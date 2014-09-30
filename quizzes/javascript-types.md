@@ -33,7 +33,7 @@ For example the first one would be executed as `typeof "Hello"` and would return
 |  `undefined`  | [ ]        | [ ]        | [ ]       | [ ]        | [ ]          | [x]           | [ ]         |
 |  `"true"`     | [ ]        | [ ]        | [ ]       | [x]        | [ ]          | [ ]           | [ ]         |
 |  `12.8`       | [ ]        | [x]        | [ ]       | [ ]        | [ ]          | [ ]           | [ ]         |
-|  `alert`      | [ ]        | [x]        | [ ]       | [ ]        | [x]          | [ ]           | [ ]         |
+|  `alert`      | [ ]        | [ ]        | [ ]       | [ ]        | [x]          | [ ]           | [ ]         |
 
 
 > How about trying it in the console of your browser?
@@ -55,7 +55,25 @@ What are the output values of the following expressions?
 - [ ] `3`
 - [ ] `"3"`
 
-> String always wins!
+`+"1" + 2`
+- [ ] `12`
+- [ ] `"12"`
+- [x] `3`
+- [ ] `"3"`
+
+`1 + "2"`
+- [ ] `12`
+- [x] `"12"`
+- [ ] `3`
+- [ ] `"3"`
+
+`1+ +"2"`
+- [ ] `12`
+- [ ] `"12"`
+- [x] `3`
+- [ ] `"3"`
+
+> String always wins! ...unless it is turned to a number first.
 
 ---
 
