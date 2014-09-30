@@ -15,6 +15,10 @@ JavaScript code linters are used to
 | check for outdated third party dependencies               |        |  [x]    |
 | enforce common code style                                 |  [x]   |  [ ]    |
 
+---
+
+---
+
 Which of these statements are true or false about JSLint?
 
 |                                                                                                | `true` | `false` |
@@ -26,6 +30,9 @@ Which of these statements are true or false about JSLint?
 | JSLint doesn't expect that every statement to be followed by `;`.                              |  [ ]   |  [x]    |
 | JSLint performs a flow analysis to determine that variables are assigned values before used.   |  [ ]   |  [x]    |
 
+---
+
+---
 
 Which of these statements are true or false about JSHint?
 
