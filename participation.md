@@ -147,7 +147,7 @@ Github username | Task
 
 Github username | Task 1 | Task 2
 ----------------|--------|---------
-[HeikkiAlanen][] |  |
+[HeikkiAlanen][] | [x](https://github.com/nchaulet/node-geocoder/pull/51) |
 [Markoham][] |  |
 [Oona][] |  |
 [SkyFire-][] |  |
