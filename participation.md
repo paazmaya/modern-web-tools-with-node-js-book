@@ -88,6 +88,56 @@ Github username | Task 1 | Task 2
 [tuunanen][] |  | 
 
 
+## [Lecture 5](lectures/2014-09-23.md)
+
+
+Github username | Task 
+----------------|-------
+[HeikkiAlanen][] |  
+[Markoham][] |  | 
+[Oona][] |  | 
+[SkyFire-][] |  | 
+[akimaky][] |  | 
+[anttev][] |  | 
+[arsi70][] |  | 
+[jarnolai][] |  | 
+[jhaap][] |  | 
+[jukra][] |  | 
+[merilainen-metropolia][] |  | 
+[minnahin][] |  | 
+[mpiivonen][] |  | 
+[olemstrom][] |  | 
+[rafuke][] |  | 
+[tariel][] |  | 
+[tuukkalai][] |  | 
+[tuunanen][] |  | 
+
+
+## [Lecture 6](lectures/2014-09-30.md)
+
+
+Github username | Task 1 | Task 2
+----------------|--------|---------
+[HeikkiAlanen][] |  | 
+[Markoham][] |  | 
+[Oona][] |  | 
+[SkyFire-][] |  | 
+[akimaky][] |  | 
+[anttev][] |  | 
+[arsi70][] |  | 
+[jarnolai][] |  | 
+[jhaap][] |  | 
+[jukra][] |  | 
+[merilainen-metropolia][] |  | 
+[minnahin][] |  | 
+[mpiivonen][] |  | 
+[olemstrom][] |  | 
+[rafuke][] |  | 
+[tariel][] |  | 
+[tuukkalai][] |  | 
+[tuunanen][] |  | 
+
+
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
