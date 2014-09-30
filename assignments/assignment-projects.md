@@ -13,3 +13,4 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 `[Jukka P](https://github.com/paazmaya/matsumura-rohai "Translate PO files with the help of Microsoft Translate API")`
 
 *
+[Markus I](https://github.com/mpiivonen/twitter-data "Connect to twitter stream API and process stream")
