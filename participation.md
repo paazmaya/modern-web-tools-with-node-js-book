@@ -9,6 +9,35 @@ current state for each student.
 The tables are prefilled with the Github usernames of those who have so far participated in this repository by 
 commenting or creating issues and pull requests.
 
+## Presentations
+
+This table is for marking if a given presentation related task has been done.
+Each presentation includes presetnting it, linking the presentation material in 
+the [presentations list](presentations.md), 
+and finally creating a quiz of the presentation subject.
+
+
+Github username | Presented | Material linked | Quiz done
+----------------|-----------|-----------------|------------
+[HeikkiAlanen][] | [x]      | [x]             | [x]
+[Markoham][]    | [ ]       | [ ]             | [ ] 
+[Oona][]        | [x]       | [x]             | [x]
+[SkyFire-][]    | [x]       | [x]             | [ ] 
+[akimaky][]     | [ ]       | [ ]             | [ ] 
+[anttev][]      | [ ]       | [ ]             | [ ] 
+[arsi70][]      | [ ]       | [ ]             | [ ]  
+[jarnolai][]    | [ ]       | [ ]             | [ ] 
+[jhaap][]       | [x]       | [ ]             | [ ] 
+[jukra][]       | [ ]       | [ ]             | [ ] 
+[merilainen-metropolia][] | [ ] | [ ]         | [ ] 
+[minnahin][]    | [ ]       | [ ]             | [ ] 
+[mpiivonen][]   | [ ]       | [ ]             | [ ] 
+[olemstrom][]   | [ ]       | [ ]             | [ ] 
+[rafuke][]      | [ ]       | [ ]             | [ ] 
+[tariel][]      | [x]       | [x]             | [ ] 
+[tuukkalai][]   | [ ]       | [ ]             | [ ]       
+[tuunanen][]    | [ ]       | [ ]             | [ ] 
+
 
 ## [Lecture 2](lectures/2014-09-02.md)
 
