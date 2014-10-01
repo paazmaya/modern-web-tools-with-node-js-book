@@ -44,7 +44,7 @@ Github username | Presented | Material linked | Quiz done
 
 Github username | Task 1-2 | Task 3-4 | Task 5, 7
 ----------------|----------|----------|------------
-[HeikkiAlanen][] |  |  | 
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/testing-git/commit/dbff67452331b9255e280f79f72a466a34e4b10d) | [X](https://github.com/HeikkiAlanen/testing-git-2/releases/tag/v0.1.0) | [X](https://github.com/metgitao/nodeKurssi/commit/18dbcbdb47a9b4a54bcf99a7c8c66745a8338992)
 [Markoham][] |  |  |
 [Oona][] |  |  |
 [SkyFire-][] |  |  |
@@ -147,7 +147,7 @@ Github username | Task
 
 Github username | Task 1 | Task 2
 ----------------|--------|---------
-[HeikkiAlanen][] | [x](https://github.com/nchaulet/node-geocoder/pull/51) |
+[HeikkiAlanen][] | [X](https://github.com/nchaulet/node-geocoder/pull/51) | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/49484aa873864663e42a7ceec51f690fe1c6dce3)
 [Markoham][] |  |
 [Oona][] |  |
 [SkyFire-][] |  |
