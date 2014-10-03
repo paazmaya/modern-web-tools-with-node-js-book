@@ -16,3 +16,4 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 
 
 [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
+[Heikki A](https://github.com/HeikkiAlanen/hal-image-optimizer "Application to optimize images for web usage")
