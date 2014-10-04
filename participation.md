@@ -44,7 +44,7 @@ Github username | Presented | Material linked | Quiz done
 
 Github username | Task 1-2 | Task 3-4 | Task 5, 7
 ----------------|----------|----------|------------
-[HeikkiAlanen][] |  |  | 
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/testing-git/commit/dbff67452331b9255e280f79f72a466a34e4b10d) | [X](https://github.com/HeikkiAlanen/testing-git-2/releases/tag/v0.1.0) | [X](https://github.com/metgitao/nodeKurssi/commit/18dbcbdb47a9b4a54bcf99a7c8c66745a8338992)
 [Markoham][] |  |  |
 [Oona][] |  |  |
 [SkyFire-][] |  |  |
@@ -71,7 +71,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 
 Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 ----------------|--------|--------|--------|--------|----------
-[HeikkiAlanen][] |    |    |    |    |
+[HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js-1/commit/07c88202fb238dba720f0143e0a1579afba580cb)  |  [X](https://github.com/HeikkiAlanen/create-thumbnails)
 [Markoham][] |  |    |    |    |
 [Oona][] |  |    |    |    |
 [SkyFire-][] |  |    |    |    |
@@ -97,7 +97,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 
 Github username | Task 1 | Task 2
 ----------------|--------|---------
-[HeikkiAlanen][] |  |
+[HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/c8921ff6670904357745a92af0283713de4a3b32) |  [X](https://github.com/hacksparrow/node-easyimage/pull/39)
 [Markoham][] |  |
 [Oona][] |  |
 [SkyFire-][] |  |
@@ -122,7 +122,7 @@ Github username | Task 1 | Task 2
 
 Github username | Task
 ----------------|-------
-[HeikkiAlanen][] |
+[HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/node-form-submit)
 [Markoham][] |  
 [Oona][] |  
 [SkyFire-][] |  
@@ -147,7 +147,7 @@ Github username | Task
 
 Github username | Task 1 | Task 2
 ----------------|--------|---------
-[HeikkiAlanen][] |  |
+[HeikkiAlanen][] | [X](https://github.com/nchaulet/node-geocoder/pull/51) | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/49484aa873864663e42a7ceec51f690fe1c6dce3)
 [Markoham][] |  |
 [Oona][] |  |
 [SkyFire-][] |  |
