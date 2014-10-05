@@ -73,7 +73,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 ----------------|--------|--------|--------|--------|----------
 [HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js-1/commit/07c88202fb238dba720f0143e0a1579afba580cb)  |  [X](https://github.com/HeikkiAlanen/create-thumbnails)
 [Markoham][] |  |    |    |    |
-[Oona][] |  |    |    |    |
+[Oona][] |  |  [X](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [X](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [X](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  | [X](https://github.com/tariel/nodejs-session3/commit/dc6202b01c662cd17f8be2ee759b36d7c6cdb6e2)
 [SkyFire-][] |  |    |    |    |
 [akimaky][] |  |    |    |    |
 [anttev][] |  |    |    |    |
