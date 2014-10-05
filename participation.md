@@ -99,7 +99,7 @@ Github username | Task 1 | Task 2
 ----------------|--------|---------
 [HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/c8921ff6670904357745a92af0283713de4a3b32) |  [X](https://github.com/hacksparrow/node-easyimage/pull/39)
 [Markoham][] |  |
-[Oona][] |  |
+[Oona][] | [X](https://github.com/Oona/hello-node-js/commit/4304af106ccf94c0a347682ef6dad7a3e83876ed) | [X](https://github.com/Oona/foundation/commit/1288017e9b32e702d54641eb7eb39e474a2c2f95)
 [SkyFire-][] |  |
 [akimaky][] |  |
 [anttev][] |  |
