@@ -149,7 +149,7 @@ Github username | Task 1 | Task 2
 ----------------|--------|---------
 [HeikkiAlanen][] | [X](https://github.com/nchaulet/node-geocoder/pull/51) | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/49484aa873864663e42a7ceec51f690fe1c6dce3)
 [Markoham][] |  |
-[Oona][] |  |
+[Oona][] | [X](https://github.com/tariel/nodejs-session3/pull/2) | [X](https://github.com/Oona/node-tests/commit/af0a060fc8f28e2adc7218c6b2ec53ecb59cdba3)
 [SkyFire-][] |  |
 [akimaky][] |  |
 [anttev][] |  |
