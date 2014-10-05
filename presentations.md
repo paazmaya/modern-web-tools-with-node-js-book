@@ -24,8 +24,8 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Broccoli
  
 - Jasmine (7.10.2014 - Tuukka Laitinen)
-- Mocha (7.10.2014 - Toomas Tero)
-- Qunit (7.10.2014 - Toomas Tero)
+- [Mocha](https://speakerdeck.com/tomter/mocha-ja-qunit) (7.10.2014 - Toomas Tero)
+- [Qunit](https://speakerdeck.com/tomter/mocha-ja-qunit) (7.10.2014 - Toomas Tero)
 - nodeunit (Ville & Antte7.10.2014)
 - PhantomJS (Jarno Laine)
 
