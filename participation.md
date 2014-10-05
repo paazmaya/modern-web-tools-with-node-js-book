@@ -124,7 +124,7 @@ Github username | Task
 ----------------|-------
 [HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/node-form-submit)
 [Markoham][] |  
-[Oona][] |  
+[Oona][] |  [X](https://github.com/tariel/connect-feedback/)
 [SkyFire-][] |  
 [akimaky][] |  
 [anttev][] |  
