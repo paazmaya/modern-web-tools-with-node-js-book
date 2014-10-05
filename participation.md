@@ -46,7 +46,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 ----------------|----------|----------|------------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/testing-git/commit/dbff67452331b9255e280f79f72a466a34e4b10d) | [X](https://github.com/HeikkiAlanen/testing-git-2/releases/tag/v0.1.0) | [X](https://github.com/metgitao/nodeKurssi/commit/18dbcbdb47a9b4a54bcf99a7c8c66745a8338992)
 [Markoham][] |  |  |
-[Oona][] |  |  |
+[Oona][] | [X](https://github.com/Oona/modern-web-tools-with-node-js/commit/03680c4705df17290418df25f0373befbaef59bf) | [X](https://github.com/Oona/modern-web-tools-with-node-js-lecture02-task-03-04/releases/tag/v0.1.0) |
 [SkyFire-][] |  |  |
 [akimaky][] |  |  |
 [anttev][] |  |  |
