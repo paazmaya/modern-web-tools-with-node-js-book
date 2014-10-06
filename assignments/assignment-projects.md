@@ -12,4 +12,7 @@ This page should contain links to the projects that are made in order to complet
 Write in the format `[First name Last name initial](link-to-repository "Project title")`, for example
 `[Jukka P](https://github.com/paazmaya/matsumura-rohai "Translate PO files with the help of Microsoft Translate API")`
 
-*
+
+* [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
+* [Heikki A](https://github.com/HeikkiAlanen/hal-image-optimizer "Application to optimize images for web usage")
+* [Joonas M](https://github.com/merilainen-metropolia/trelloler "Automatically add necessary tasks into Trello")
