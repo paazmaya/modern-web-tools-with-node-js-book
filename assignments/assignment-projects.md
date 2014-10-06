@@ -17,3 +17,4 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 * [Heikki A](https://github.com/HeikkiAlanen/hal-image-optimizer "Application to optimize images for web usage")
 * [Joonas M](https://github.com/merilainen-metropolia/trelloler "Automatically add necessary tasks into Trello")
 * [Jukka R](https://github.com/jukra/web-tweak-n-optimize "Optimize & tweak your css, js, html and image files")
+* [Onni A](https://github.com/onnia/Local-upload-folder "Image folder that optimizes them to web gallery ")
