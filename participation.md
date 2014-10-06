@@ -53,7 +53,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [arsi70][] |  |  |
 [jarnolai][] |  |  |
 [jhaap][] |  |  |
-[jukra][] |  |  |
+[jukra][] |  [X](https://github.com/jukra/hello-node-js/commit/c4f465f55b4f69a41eb115ceb27335e0e319cc63) | [X](https://github.com/jukra/hello-node-js/releases/tag/0.1.0) | [X](https://github.com/jukra/hello-node-js-1/commit/6dcd7ad3d07474958cb2f8fd51da969ac2f3bb4b)
 [merilainen-metropolia][] |  |  |
 [minnahin][] |  |  |
 [mpiivonen][] |  |  |
@@ -80,7 +80,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [arsi70][] |  |    |    |    |
 [jarnolai][] |  |    |    |    |
 [jhaap][] |  |    |    |    |
-[jukra][] |  |    |    |    |
+[jukra][] |  [X](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [X](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [X](https://github.com/jukra/hello-node-js/commit/afd6bd191dd150d2747314305eef35a50380c854)  |  [X](https://github.com/jukra/hello-node-js/blob/753d66358fae15ca142b670b31a59dcb07cb33ad/task-4.js)  |  [X](https://github.com/jukra/hello-node-js/commit/86bd0140f189eae0520c2c42754a4a1873a0d95e)
 [merilainen-metropolia][] |  |    |    |    |
 [minnahin][] |  |    |    |    |
 [mpiivonen][] |  |    |    |    |
@@ -106,7 +106,7 @@ Github username | Task 1 | Task 2
 [arsi70][] |  |
 [jarnolai][] |  |
 [jhaap][] |  |
-[jukra][] |  |
+[jukra][] |  [X](https://github.com/jukra/hello-node-js) | [X](https://github.com/jukra/gulp-minify-css/commit/f59052132eccd2d85a6140e0c2db3756e8ed1cf2)
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
@@ -131,7 +131,7 @@ Github username | Task
 [arsi70][] | 
 [jarnolai][] |  
 [jhaap][] |  
-[jukra][] |  
+[jukra][] |  [X](https://github.com/jukra/nodejsform/)  
 [merilainen-metropolia][] |  
 [minnahin][] |  
 [mpiivonen][] |  
@@ -156,7 +156,7 @@ Github username | Task 1 | Task 2
 [arsi70][] |  |
 [jarnolai][] |  |
 [jhaap][] |  |
-[jukra][] |  |
+[jukra][] | [X](https://github.com/jukra/hello-node-js-2) | [X](https://github.com/jukra/hello-node-js/commit/74cbe91cfb7ec874e4ce6ac49f87899289512031)
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
