@@ -160,7 +160,7 @@ Github username | Task 1 | Task 2
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |[X]https://github.com/HeikkiAlanen/node-form-submit/pull/8  |[X](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
+[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit/pull/8)  |[X](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
