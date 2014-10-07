@@ -61,7 +61,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [rafuke][] |  |  | 
 [tariel][] |  |  |
 [tuukkalai][] |  |  |
-[tuunanen][] |  |  |
+[tuunanen][] | [X](https://github.com/tuunanen/TT00CC06-3001/commit/486cb56b0e6424b613f32db4a605d1f6512d2463) | [X](https://github.com/tuunanen/TT00CC06-3001/releases/tag/v0.1.0) |
 
 
 
@@ -88,7 +88,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [rafuke][] |  |    |    |    |
 [tariel][] |  |    |    |    |
 [tuukkalai][] |  |    |    |    |
-[tuunanen][] |  |    |    |    |
+[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-1.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-2.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-3.js) | |
 
 
 
@@ -114,7 +114,7 @@ Github username | Task 1 | Task 2
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
-[tuunanen][] |  |
+[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js) | [X](https://github.com/tuunanen/camel-case)
 
 
 ## [Lecture 5 - HTTP, Connect, Express](lectures/2014-09-23.md)
@@ -139,7 +139,7 @@ Github username | Task
 [rafuke][] |  
 [tariel][] |  
 [tuukkalai][] |  
-[tuunanen][] |  
+[tuunanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit)
 
 
 ## [Lecture 6 - Common task runners](lectures/2014-09-30.md)
