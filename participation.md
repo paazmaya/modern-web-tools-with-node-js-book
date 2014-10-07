@@ -32,7 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [minnahin][]    | [ ]       | [ ]             | [ ]
 [mpiivonen][]   | [ ]       | [ ]             | [ ]
-[olemstrom][]   | [ ]       | [ ]             | [ ]
+[olemstrom][]   | [x ]       | [x ]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
 [tariel][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
@@ -57,7 +57,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [merilainen-metropolia][] |  |  |
 [minnahin][] |  |  |
 [mpiivonen][] |  |  |
-[olemstrom][] |  |  |
+[olemstrom][] | [X](https://github.com/olemstrom/node-tyokalut-lect2) |[X](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[X](https://github.com/olemstrom/tunti3) 
 [rafuke][] |  |  | 
 [tariel][] |  |  |
 [tuukkalai][] |  |  |
@@ -84,7 +84,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [merilainen-metropolia][] |  |    |    |    |
 [minnahin][] |  |    |    |    |
 [mpiivonen][] |  |    |    |    |
-[olemstrom][] |  |    |    |    |
+[olemstrom][] |[X](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[X](https://github.com/olemstrom/lect3/blob/master/double.js)    |[X](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[X](https://github.com/olemstrom/tunti3)    |
 [rafuke][] |  |    |    |    |
 [tariel][] |  |    |    |    |
 [tuukkalai][] |  |    |    |    |
@@ -110,7 +110,7 @@ Github username | Task 1 | Task 2
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |  |
+[olemstrom][] |[X](https://github.com/olemstrom/lect4/blob/master/README.md)  |[X](https://github.com/olemstrom/Vocoder)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
@@ -135,7 +135,7 @@ Github username | Task
 [merilainen-metropolia][] |  
 [minnahin][] |  
 [mpiivonen][] |  
-[olemstrom][] |  
+[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit)  
 [rafuke][] |  
 [tariel][] |  
 [tuukkalai][] |  
@@ -160,7 +160,7 @@ Github username | Task 1 | Task 2
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |  |
+[olemstrom][] |[X]https://github.com/HeikkiAlanen/node-form-submit/pull/8  |[X](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
