@@ -167,6 +167,31 @@ Github username | Task 1 | Task 2
 [tuunanen][] |  |
 
 
+## [Lecture 7 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
+
+
+Github username | Task 1-2 
+----------------|----------
+[HeikkiAlanen][] |
+[Markoham][] |
+[Oona][] |
+[SkyFire-][] |
+[akimaky][] |
+[anttev][] |
+[arsi70][] |
+[jarnolai][] |
+[jhaap][] |
+[jukra][] |
+[merilainen-metropolia][] |
+[minnahin][] |
+[mpiivonen][] |
+[olemstrom][] |
+[rafuke][] |
+[tariel][] |
+[tuukkalai][] |
+[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js)
+
+
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
