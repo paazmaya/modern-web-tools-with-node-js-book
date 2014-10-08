@@ -133,14 +133,9 @@ Github username | Task
 [jhaap][] |  
 [jukra][] |  [X](https://github.com/jukra/nodejsform/)  
 [merilainen-metropolia][] |  
-[minnahin][] |  
-<<<<<<< HEAD
-[mpiivonen][] |  
-[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit)  
-=======
-[mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
-[olemstrom][] |  
->>>>>>> c1692ba68c4af577c18b099a774f3f31f3a942cc
+[minnahin][] |    
+[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit)
+[mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)  
 [rafuke][] |  
 [tariel][] |  
 [tuukkalai][] |  
