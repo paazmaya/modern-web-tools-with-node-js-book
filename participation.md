@@ -32,7 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [minnahin][]    | [ ]       | [ ]             | [ ]
 [mpiivonen][]   | [ ]       | [ ]             | [ ]
-[olemstrom][]   | [x ]       | [x ]             | [ ]
+[olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
 [tariel][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
@@ -133,9 +133,9 @@ Github username | Task
 [jhaap][] |  
 [jukra][] |  [X](https://github.com/jukra/nodejsform/)  
 [merilainen-metropolia][] |  
-[minnahin][] |    
-[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit)
-[mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)  
+[minnahin][] |  
+[mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
+[olemstrom][] | [X](https://github.com/HeikkiAlanen/node-form-submit)  
 [rafuke][] |  
 [tariel][] |  
 [tuukkalai][] |  
