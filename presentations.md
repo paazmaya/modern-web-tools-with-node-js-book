@@ -19,7 +19,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Connect
 - [Express](https://speakerdeck.com/skyfire/express-dot-js) (Sopheak Kong - 23.9.2014)
 
-- Grunt (30.9.2014 / Oscar Lemström)
+- [Grunt](https://slides.com/oscarlemstrom/gruntjs/)) (30.9.2014 / Oscar Lemström)
 - [Gulp](https://slides.com/joonasmerilainen/gulp-js/) (30.9.2014 / Joonas Meriläinen)
 - Broccoli
  

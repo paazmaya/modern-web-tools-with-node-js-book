@@ -32,7 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [minnahin][]    | [ ]       | [ ]             | [ ]
 [mpiivonen][]   | [ ]       | [ ]             | [ ]
-[olemstrom][]   | [ ]       | [ ]             | [ ]
+[olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
 [tariel][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
@@ -57,11 +57,11 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [merilainen-metropolia][] |  |  |
 [minnahin][] |  |  |
 [mpiivonen][] |  |  |
-[olemstrom][] |  |  |
+[olemstrom][] | [X](https://github.com/olemstrom/node-tyokalut-lect2) |[X](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[X](https://github.com/olemstrom/tunti3) 
 [rafuke][] |  |  | 
 [tariel][] |  |  |
 [tuukkalai][] |  |  |
-[tuunanen][] |  |  |
+[tuunanen][] | [X](https://github.com/tuunanen/TT00CC06-3001/commit/486cb56b0e6424b613f32db4a605d1f6512d2463) | [X](https://github.com/tuunanen/TT00CC06-3001/releases/tag/v0.1.0) |
 
 
 
@@ -84,11 +84,11 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [merilainen-metropolia][] |  |    |    |    |
 [minnahin][] |  |    |    |    |
 [mpiivonen][] |  |    |    |    |
-[olemstrom][] |  |    |    |    |
+[olemstrom][] |[X](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[X](https://github.com/olemstrom/lect3/blob/master/double.js)    |[X](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[X](https://github.com/olemstrom/tunti3)    |
 [rafuke][] |  |    |    |    |
 [tariel][] |  |    |    |    |
 [tuukkalai][] |  |    |    |    |
-[tuunanen][] |  |    |    |    |
+[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-1.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-2.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-3.js) | |
 
 
 
@@ -110,11 +110,11 @@ Github username | Task 1 | Task 2
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |  |
+[olemstrom][] |[X](https://github.com/olemstrom/lect4/blob/master/README.md)  |[X](https://github.com/olemstrom/Vocoder)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
-[tuunanen][] |  |
+[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js) | [X](https://github.com/tuunanen/camel-case)
 
 
 ## [Lecture 5 - HTTP, Connect, Express](lectures/2014-09-23.md)
@@ -123,7 +123,7 @@ Github username | Task 1 | Task 2
 Github username | Task
 ----------------|-------
 [HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/node-form-submit)
-[Markoham][] |  
+[Markoham][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
 [Oona][] |  [X](https://github.com/tariel/connect-feedback/)
 [SkyFire-][] |  
 [akimaky][] |  
@@ -134,12 +134,12 @@ Github username | Task
 [jukra][] |  [X](https://github.com/jukra/nodejsform/)  
 [merilainen-metropolia][] |  
 [minnahin][] |  
-[mpiivonen][] |  
-[olemstrom][] |  
+[mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
+[olemstrom][] | [X](https://github.com/HeikkiAlanen/node-form-submit)  
 [rafuke][] |  
 [tariel][] |  
 [tuukkalai][] |  
-[tuunanen][] |  
+[tuunanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit)
 
 
 ## [Lecture 6 - Common task runners](lectures/2014-09-30.md)
@@ -160,11 +160,36 @@ Github username | Task 1 | Task 2
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |  |
+[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit/pull/8)  |[X](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
 [tuunanen][] |  |
+
+
+## [Lecture 7 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
+
+
+Github username | Task 1-2 
+----------------|----------
+[HeikkiAlanen][] |
+[Markoham][] |
+[Oona][] |
+[SkyFire-][] |
+[akimaky][] |
+[anttev][] |
+[arsi70][] |
+[jarnolai][] |
+[jhaap][] |
+[jukra][] |
+[merilainen-metropolia][] |
+[minnahin][] |
+[mpiivonen][] |
+[olemstrom][] |
+[rafuke][] |
+[tariel][] |
+[tuukkalai][] |
+[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js)
 
 
 
