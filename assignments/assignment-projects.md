@@ -20,3 +20,4 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 * [Onni A](https://github.com/onnia/Local-upload-folder "Image folder that optimizes them to web gallery ")
 * [Maxim D](https://github.com/tariel/the-noun-sprite "Sprite generator for the Noun Project")
 * [Markus I](https://github.com/mpiivonen/twitter-data "To get twitter streams and preprocess them")
+* [Oscar L](https://github.com/olemstrom/node-htmlbatchedit "Batch edit HTML files")
