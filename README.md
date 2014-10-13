@@ -29,5 +29,6 @@ LC_CTYPE=en_US.UTF-8 gitbook build
 Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96/583/97).
 
 ##Useful links:
+
 - [Awesome list about Node.js things, which most likely will help to find the correct tool any of the tasks in this book.](https://github.com/sindresorhus/awesome-nodejs "A curated list of delightful Node.js packages and resources")
-- [GitHub Student Developer Pack offer](https://education.github.com/pack)
+- [GitHub Student Developer Pack offer](https://education.github.com/pack "GitHub Student Developer Pack offer")
