@@ -56,7 +56,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [jukra][] |  [X](https://github.com/jukra/hello-node-js/commit/c4f465f55b4f69a41eb115ceb27335e0e319cc63) | [X](https://github.com/jukra/hello-node-js/releases/tag/0.1.0) | [X](https://github.com/jukra/hello-node-js-1/commit/6dcd7ad3d07474958cb2f8fd51da969ac2f3bb4b)
 [merilainen-metropolia][] |  |  |
 [minnahin][] |  |  |
-[mpiivonen][] |  |  |
+[mpiivonen][] | [X](https://github.com/mpiivonen/nodejs2/commit/efe8d9804f722c66a1b6192c1e27f87d83fced9e)  |  [X](https://github.com/mpiivonen/nodejs2/releases/tag/v0.1.0)  | [X](https://github.com/Markoham/TestRepo2/pull/1)
 [olemstrom][] | [X](https://github.com/olemstrom/node-tyokalut-lect2) |[X](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[X](https://github.com/olemstrom/tunti3) 
 [rafuke][] |  |  | 
 [tariel][] |  |  |
@@ -83,7 +83,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [jukra][] |  [X](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [X](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [X](https://github.com/jukra/hello-node-js/commit/afd6bd191dd150d2747314305eef35a50380c854)  |  [X](https://github.com/jukra/hello-node-js/blob/753d66358fae15ca142b670b31a59dcb07cb33ad/task-4.js)  |  [X](https://github.com/jukra/hello-node-js/commit/86bd0140f189eae0520c2c42754a4a1873a0d95e)
 [merilainen-metropolia][] |  |    |    |    |
 [minnahin][] |  |    |    |    |
-[mpiivonen][] |  |    |    |    |
+[mpiivonen][] | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-1) | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-2)   | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-3)   | [X](https://github.com/Markoham/hello-node-js/pull/1)   |
 [olemstrom][] |[X](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[X](https://github.com/olemstrom/lect3/blob/master/double.js)    |[X](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[X](https://github.com/olemstrom/tunti3)    |
 [rafuke][] |  |    |    |    |
 [tariel][] |  |    |    |    |
