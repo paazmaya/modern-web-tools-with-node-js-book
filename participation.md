@@ -12,7 +12,7 @@ commenting or creating issues and pull requests.
 ## Presentations
 
 This table is for marking if a given presentation related task has been done.
-Each presentation includes presetnting it, linking the presentation material in
+Each presentation includes presenting it, linking the presentation material in
 the [presentations list](presentations.md),
 and finally creating a quiz of the presentation subject.
 
@@ -23,7 +23,6 @@ Github username | Presented | Material linked | Quiz done
 [Markoham][]    | [ ]       | [ ]             | [ ]
 [Oona][]        | [x]       | [x]             | [x]
 [SkyFire-][]    | [x]       | [x]             | [ ]
-[akimaky][]     | [ ]       | [ ]             | [ ]
 [anttev][]      | [ ]       | [ ]             | [ ]
 [arsi70][]      | [ ]       | [ ]             | [ ]
 [jarnolai][]    | [ ]       | [ ]             | [ ]
@@ -44,24 +43,24 @@ Github username | Presented | Material linked | Quiz done
 
 Github username | Task 1-2 | Task 3-4 | Task 5, 7
 ----------------|----------|----------|------------
-[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/testing-git/commit/dbff67452331b9255e280f79f72a466a34e4b10d) | [X](https://github.com/HeikkiAlanen/testing-git-2/releases/tag/v0.1.0) | [X](https://github.com/metgitao/nodeKurssi/commit/18dbcbdb47a9b4a54bcf99a7c8c66745a8338992)
+[HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/testing-git/commit/dbff67452331b9255e280f79f72a466a34e4b10d) | [x](https://github.com/HeikkiAlanen/testing-git-2/releases/tag/v0.1.0) | [x](https://github.com/metgitao/nodeKurssi/commit/18dbcbdb47a9b4a54bcf99a7c8c66745a8338992)
 [Markoham][] | [x](https://github.com/Markoham/TestRepo1/commit/eed657e0379d4a05159edc123ccc9109685cfdc6) | [x](https://github.com/Markoham/TestRepo2/releases/tag/v0.1.0) | [x](https://github.com/mpiivonen/nodejs2/pull/1)
-[Oona][] | [X](https://github.com/Oona/modern-web-tools-with-node-js/commit/03680c4705df17290418df25f0373befbaef59bf) | [X](https://github.com/Oona/modern-web-tools-with-node-js-lecture02-task-03-04/releases/tag/v0.1.0) |
+[Oona][] | [x](https://github.com/Oona/modern-web-tools-with-node-js/commit/03680c4705df17290418df25f0373befbaef59bf) | [x](https://github.com/Oona/modern-web-tools-with-node-js-lecture02-task-03-04/releases/tag/v0.1.0) |
 [SkyFire-][] |  |  |
 [akimaky][] |  |  |
 [anttev][] |  |  |
 [arsi70][] |  |  |
 [jarnolai][] |  |  |
 [jhaap][] |  |  |
-[jukra][] |  [X](https://github.com/jukra/hello-node-js/commit/c4f465f55b4f69a41eb115ceb27335e0e319cc63) | [X](https://github.com/jukra/hello-node-js/releases/tag/0.1.0) | [X](https://github.com/jukra/hello-node-js-1/commit/6dcd7ad3d07474958cb2f8fd51da969ac2f3bb4b)
+[jukra][] |  [x](https://github.com/jukra/hello-node-js/commit/c4f465f55b4f69a41eb115ceb27335e0e319cc63) | [x](https://github.com/jukra/hello-node-js/releases/tag/0.1.0) | [x](https://github.com/jukra/hello-node-js-1/commit/6dcd7ad3d07474958cb2f8fd51da969ac2f3bb4b)
 [merilainen-metropolia][] |  |  |
 [minnahin][] |  |  |
-[mpiivonen][] | [X](https://github.com/mpiivonen/nodejs2/commit/efe8d9804f722c66a1b6192c1e27f87d83fced9e)  |  [X](https://github.com/mpiivonen/nodejs2/releases/tag/v0.1.0)  | [X](https://github.com/Markoham/TestRepo2/pull/1)
-[olemstrom][] | [X](https://github.com/olemstrom/node-tyokalut-lect2) |[X](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[X](https://github.com/olemstrom/tunti3) 
-[rafuke][] |  |  | 
+[mpiivonen][] | [x](https://github.com/mpiivonen/nodejs2/commit/efe8d9804f722c66a1b6192c1e27f87d83fced9e)  |  [x](https://github.com/mpiivonen/nodejs2/releases/tag/v0.1.0)  | [x](https://github.com/Markoham/TestRepo2/pull/1)
+[olemstrom][] | [x](https://github.com/olemstrom/node-tyokalut-lect2) |[x](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[x](https://github.com/olemstrom/tunti3)
+[rafuke][] |  |  |
 [tariel][] |  |  |
 [tuukkalai][] |  |  |
-[tuunanen][] | [X](https://github.com/tuunanen/TT00CC06-3001/commit/486cb56b0e6424b613f32db4a605d1f6512d2463) | [X](https://github.com/tuunanen/TT00CC06-3001/releases/tag/v0.1.0) |
+[tuunanen][] | [x](https://github.com/tuunanen/TT00CC06-3001/commit/486cb56b0e6424b613f32db4a605d1f6512d2463) | [x](https://github.com/tuunanen/TT00CC06-3001/releases/tag/v0.1.0) |
 
 
 
@@ -71,24 +70,24 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 
 Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 ----------------|--------|--------|--------|--------|----------
-[HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [X](https://github.com/HeikkiAlanen/hello-node-js-1/commit/07c88202fb238dba720f0143e0a1579afba580cb)  |  [X](https://github.com/HeikkiAlanen/create-thumbnails)
+[HeikkiAlanen][] |  [x](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [x](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [x](https://github.com/HeikkiAlanen/hello-node-js/commit/ef9e8791d94ab8bbb791d41bd360bb58530a4c74)  |  [x](https://github.com/HeikkiAlanen/hello-node-js-1/commit/07c88202fb238dba720f0143e0a1579afba580cb)  |  [x](https://github.com/HeikkiAlanen/create-thumbnails)
 [Markoham][] | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-3-Task-1) | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-3-Task-2) | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-3-Task-3) | [x](https://github.com/mpiivonen/hello-node-js/pull/1) |
-[Oona][] |  |  [X](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [X](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [X](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  | [X](https://github.com/tariel/nodejs-session3/commit/dc6202b01c662cd17f8be2ee759b36d7c6cdb6e2)
+[Oona][] |  |  [x](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [x](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [x](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  | [x](https://github.com/tariel/nodejs-session3/commit/dc6202b01c662cd17f8be2ee759b36d7c6cdb6e2)
 [SkyFire-][] |  |    |    |    |
 [akimaky][] |  |    |    |    |
 [anttev][] |  |    |    |    |
 [arsi70][] |  |    |    |    |
 [jarnolai][] |  |    |    |    |
 [jhaap][] |  |    |    |    |
-[jukra][] |  [X](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [X](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [X](https://github.com/jukra/hello-node-js/commit/afd6bd191dd150d2747314305eef35a50380c854)  |  [X](https://github.com/jukra/hello-node-js/blob/753d66358fae15ca142b670b31a59dcb07cb33ad/task-4.js)  |  [X](https://github.com/jukra/hello-node-js/commit/86bd0140f189eae0520c2c42754a4a1873a0d95e)
+[jukra][] |  [x](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [x](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [x](https://github.com/jukra/hello-node-js/commit/afd6bd191dd150d2747314305eef35a50380c854)  |  [x](https://github.com/jukra/hello-node-js/blob/753d66358fae15ca142b670b31a59dcb07cb33ad/task-4.js)  |  [x](https://github.com/jukra/hello-node-js/commit/86bd0140f189eae0520c2c42754a4a1873a0d95e)
 [merilainen-metropolia][] |  |    |    |    |
 [minnahin][] |  |    |    |    |
-[mpiivonen][] | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-1) | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-2)   | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-3)   | [X](https://github.com/Markoham/hello-node-js/pull/1)   |
-[olemstrom][] |[X](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[X](https://github.com/olemstrom/lect3/blob/master/double.js)    |[X](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[X](https://github.com/olemstrom/tunti3)    |
+[mpiivonen][] | [x](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-1) | [x](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-2)   | [x](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-3)   | [x](https://github.com/Markoham/hello-node-js/pull/1)   |
+[olemstrom][] |[x](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[x](https://github.com/olemstrom/lect3/blob/master/double.js)    |[x](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[x](https://github.com/olemstrom/tunti3)    |
 [rafuke][] |  |    |    |    |
 [tariel][] |  |    |    |    |
 [tuukkalai][] |  |    |    |    |
-[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-1.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-2.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-3.js) | |
+[tuunanen][] | [x](https://github.com/tuunanen/hello-node-js/blob/master/task-1.js) | [x](https://github.com/tuunanen/hello-node-js/blob/master/task-2.js) | [x](https://github.com/tuunanen/hello-node-js/blob/master/task-3.js) | |
 
 
 
@@ -97,24 +96,24 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 
 Github username | Task 1 | Task 2
 ----------------|--------|---------
-[HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/hello-node-js/commit/c8921ff6670904357745a92af0283713de4a3b32) |  [X](https://github.com/hacksparrow/node-easyimage/pull/39)
+[HeikkiAlanen][] |  [x](https://github.com/HeikkiAlanen/hello-node-js/commit/c8921ff6670904357745a92af0283713de4a3b32) |  [x](https://github.com/hacksparrow/node-easyimage/pull/39)
 [Markoham][] |  |
-[Oona][] | [X](https://github.com/Oona/hello-node-js/commit/4304af106ccf94c0a347682ef6dad7a3e83876ed) | [X](https://github.com/Oona/foundation/commit/1288017e9b32e702d54641eb7eb39e474a2c2f95)
+[Oona][] | [x](https://github.com/Oona/hello-node-js/commit/4304af106ccf94c0a347682ef6dad7a3e83876ed) | [x](https://github.com/Oona/foundation/commit/1288017e9b32e702d54641eb7eb39e474a2c2f95)
 [SkyFire-][] |  |
 [akimaky][] |  |
 [anttev][] |  |
 [arsi70][] |  |
 [jarnolai][] |  |
 [jhaap][] |  |
-[jukra][] |  [X](https://github.com/jukra/hello-node-js) | [X](https://github.com/jukra/gulp-minify-css/commit/f59052132eccd2d85a6140e0c2db3756e8ed1cf2)
+[jukra][] |  [x](https://github.com/jukra/hello-node-js) | [x](https://github.com/jukra/gulp-minify-css/commit/f59052132eccd2d85a6140e0c2db3756e8ed1cf2)
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |[X](https://github.com/olemstrom/lect4/blob/master/README.md)  |[X](https://github.com/olemstrom/Vocoder)
+[olemstrom][] |[x](https://github.com/olemstrom/lect4/blob/master/README.md)  |[x](https://github.com/olemstrom/Vocoder)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
-[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js) | [X](https://github.com/tuunanen/camel-case)
+[tuunanen][] | [x](https://github.com/tuunanen/hello-node-js) | [x](https://github.com/tuunanen/camel-case)
 
 
 ## [Lecture 5 - HTTP, Connect, Express](lectures/2014-09-23.md)
@@ -122,24 +121,24 @@ Github username | Task 1 | Task 2
 
 Github username | Task
 ----------------|-------
-[HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/node-form-submit)
-[Markoham][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
-[Oona][] |  [X](https://github.com/tariel/connect-feedback/)
-[SkyFire-][] |  
-[akimaky][] |  
-[anttev][] |  
-[arsi70][] | 
-[jarnolai][] |  
-[jhaap][] |  
-[jukra][] |  [X](https://github.com/jukra/nodejsform/)  
-[merilainen-metropolia][] |  
-[minnahin][] |  
-[mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
-[olemstrom][] | [X](https://github.com/HeikkiAlanen/node-form-submit)  
-[rafuke][] |  
-[tariel][] |  
-[tuukkalai][] |  
-[tuunanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit)
+[HeikkiAlanen][] |  [x](https://github.com/HeikkiAlanen/node-form-submit)
+[Markoham][] |  [x](https://github.com/Markoham/Lecture-5-WebServer)
+[Oona][] |  [x](https://github.com/tariel/connect-feedback/)
+[SkyFire-][] |
+[akimaky][] |
+[anttev][] |
+[arsi70][] |
+[jarnolai][] |
+[jhaap][] |
+[jukra][] |  [x](https://github.com/jukra/nodejsform/)
+[merilainen-metropolia][] |
+[minnahin][] |
+[mpiivonen][] |  [x](https://github.com/Markoham/Lecture-5-WebServer)
+[olemstrom][] | [x](https://github.com/HeikkiAlanen/node-form-submit)
+[rafuke][] |
+[tariel][] |
+[tuukkalai][] |
+[tuunanen][] | [x](https://github.com/HeikkiAlanen/node-form-submit)
 
 
 ## [Lecture 6 - Common task runners](lectures/2014-09-30.md)
@@ -147,20 +146,20 @@ Github username | Task
 
 Github username | Task 1 | Task 2
 ----------------|--------|---------
-[HeikkiAlanen][] | [X](https://github.com/nchaulet/node-geocoder/pull/51) | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/49484aa873864663e42a7ceec51f690fe1c6dce3)
+[HeikkiAlanen][] | [x](https://github.com/nchaulet/node-geocoder/pull/51) | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/49484aa873864663e42a7ceec51f690fe1c6dce3)
 [Markoham][] |  |
-[Oona][] | [X](https://github.com/tariel/nodejs-session3/pull/2) | [X](https://github.com/Oona/node-tests/commit/af0a060fc8f28e2adc7218c6b2ec53ecb59cdba3)
+[Oona][] | [x](https://github.com/tariel/nodejs-session3/pull/2) | [x](https://github.com/Oona/node-tests/commit/af0a060fc8f28e2adc7218c6b2ec53ecb59cdba3)
 [SkyFire-][] |  |
 [akimaky][] |  |
 [anttev][] |  |
 [arsi70][] |  |
 [jarnolai][] |  |
 [jhaap][] |  |
-[jukra][] | [X](https://github.com/jukra/hello-node-js-2) | [X](https://github.com/jukra/hello-node-js/commit/74cbe91cfb7ec874e4ce6ac49f87899289512031)
+[jukra][] | [x](https://github.com/jukra/hello-node-js-2) | [x](https://github.com/jukra/hello-node-js/commit/74cbe91cfb7ec874e4ce6ac49f87899289512031)
 [merilainen-metropolia][] |  |
 [minnahin][] |  |
 [mpiivonen][] |  |
-[olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit/pull/8)  |[X](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
+[olemstrom][] |[x](https://github.com/HeikkiAlanen/node-form-submit/pull/8)  |[x](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
 [rafuke][] |  |
 [tariel][] |  |
 [tuukkalai][] |  |
@@ -170,9 +169,9 @@ Github username | Task 1 | Task 2
 ## [Lecture 7 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
 
 
-Github username | Task 1-2 
+Github username | Task 1-2
 ----------------|----------
-[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
+[HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
 [Markoham][] |
 [Oona][] |
 [SkyFire-][] |
@@ -189,7 +188,31 @@ Github username | Task 1-2
 [rafuke][] |
 [tariel][] |
 [tuukkalai][] |
-[tuunanen][] | [X](https://github.com/tuunanen/hello-node-js)
+[tuunanen][] | [x](https://github.com/tuunanen/hello-node-js)
+
+
+## [Lecture 8 - Automation and continuous integration](lectures/2014-10-14.md)
+
+Github username  | Task 1   | Task 2
+-----------------|----------|--------
+[HeikkiAlanen][] |   |
+[Markoham][]     |   |
+[Oona][]         |   |
+[SkyFire-][]     |   |
+[akimaky][]      |   |
+[anttev][]       |   |
+[arsi70][]       |   |
+[jarnolai][]     |   |
+[jhaap][]        |   |
+[jukra][]        |   |
+[merilainen-metropolia][] |   |
+[minnahin][]     |   |
+[mpiivonen][]    |   |
+[olemstrom][]    |   |
+[rafuke][]       |   |
+[tariel][]       |   |
+[tuukkalai][]    |   |
+[tuunanen][]     |   |
 
 
 
