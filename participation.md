@@ -23,9 +23,7 @@ Github username | Presented | Material linked | Quiz done
 [Markoham][]    | [ ]       | [ ]             | [ ]
 [Oona][]        | [x]       | [x]             | [x]
 [SkyFire-][]    | [x]       | [x]             | [ ]
-[anttev][]      | [ ]       | [ ]             | [ ]
 [arsi70][]      | [ ]       | [ ]             | [ ]
-[jarnolai][]    | [ ]       | [ ]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
 [jukra][]       | [ ]       | [ ]             | [ ]
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
@@ -34,6 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
 [tariel][]      | [x]       | [x]             | [ ]
+[tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
 [tuunanen][]    | [ ]       | [ ]             | [ ]
 
@@ -47,10 +46,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [Markoham][] | [x](https://github.com/Markoham/TestRepo1/commit/eed657e0379d4a05159edc123ccc9109685cfdc6) | [x](https://github.com/Markoham/TestRepo2/releases/tag/v0.1.0) | [x](https://github.com/mpiivonen/nodejs2/pull/1)
 [Oona][] | [x](https://github.com/Oona/modern-web-tools-with-node-js/commit/03680c4705df17290418df25f0373befbaef59bf) | [x](https://github.com/Oona/modern-web-tools-with-node-js-lecture02-task-03-04/releases/tag/v0.1.0) |
 [SkyFire-][] |  |  |
-[akimaky][] |  |  |
-[anttev][] |  |  |
 [arsi70][] |  |  |
-[jarnolai][] |  |  |
 [jhaap][] |  |  |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js/commit/c4f465f55b4f69a41eb115ceb27335e0e319cc63) | [x](https://github.com/jukra/hello-node-js/releases/tag/0.1.0) | [x](https://github.com/jukra/hello-node-js-1/commit/6dcd7ad3d07474958cb2f8fd51da969ac2f3bb4b)
 [merilainen-metropolia][] |  |  |
@@ -74,10 +70,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [Markoham][] | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-3-Task-1) | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-3-Task-2) | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-3-Task-3) | [x](https://github.com/mpiivonen/hello-node-js/pull/1) |
 [Oona][] |  |  [x](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [x](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  |  [x](https://github.com/Oona/hello-node-js/commit/1ee88a96b61be64cce50653536d0ada1659ac5fa)  | [x](https://github.com/tariel/nodejs-session3/commit/dc6202b01c662cd17f8be2ee759b36d7c6cdb6e2)
 [SkyFire-][] |  |    |    |    |
-[akimaky][] |  |    |    |    |
-[anttev][] |  |    |    |    |
 [arsi70][] |  |    |    |    |
-[jarnolai][] |  |    |    |    |
 [jhaap][] |  |    |    |    |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [x](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [x](https://github.com/jukra/hello-node-js/commit/afd6bd191dd150d2747314305eef35a50380c854)  |  [x](https://github.com/jukra/hello-node-js/blob/753d66358fae15ca142b670b31a59dcb07cb33ad/task-4.js)  |  [x](https://github.com/jukra/hello-node-js/commit/86bd0140f189eae0520c2c42754a4a1873a0d95e)
 [merilainen-metropolia][] |  |    |    |    |
@@ -101,10 +94,7 @@ Github username | Task 1 | Task 2
 [Markoham][] |  |
 [Oona][] | [x](https://github.com/Oona/hello-node-js/commit/4304af106ccf94c0a347682ef6dad7a3e83876ed) | [x](https://github.com/Oona/foundation/commit/1288017e9b32e702d54641eb7eb39e474a2c2f95)
 [SkyFire-][] |  |
-[akimaky][] |  |
-[anttev][] |  |
 [arsi70][] |  |
-[jarnolai][] |  |
 [jhaap][] |  |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js) | [x](https://github.com/jukra/gulp-minify-css/commit/f59052132eccd2d85a6140e0c2db3756e8ed1cf2)
 [merilainen-metropolia][] |  |
@@ -126,10 +116,7 @@ Github username | Task
 [Markoham][] |  [x](https://github.com/Markoham/Lecture-5-WebServer)
 [Oona][] |  [x](https://github.com/tariel/connect-feedback/)
 [SkyFire-][] |
-[akimaky][] |
-[anttev][] |
 [arsi70][] |
-[jarnolai][] |
 [jhaap][] |
 [jukra][] |  [x](https://github.com/jukra/nodejsform/)
 [merilainen-metropolia][] |
@@ -152,10 +139,7 @@ Github username | Task 1 | Task 2
 [Markoham][] |  |
 [Oona][] | [x](https://github.com/tariel/nodejs-session3/pull/2) | [x](https://github.com/Oona/node-tests/commit/af0a060fc8f28e2adc7218c6b2ec53ecb59cdba3)
 [SkyFire-][] |  |
-[akimaky][] |  |
-[anttev][] |  |
 [arsi70][] |  |
-[jarnolai][] |  |
 [jhaap][] |  |
 [jukra][] | [x](https://github.com/jukra/hello-node-js-2) | [x](https://github.com/jukra/hello-node-js/commit/74cbe91cfb7ec874e4ce6ac49f87899289512031)
 [merilainen-metropolia][] |  |
@@ -178,10 +162,7 @@ Github username | Task 1-2
 [Markoham][] |
 [Oona][] |
 [SkyFire-][] |
-[akimaky][] |
-[anttev][] |
 [arsi70][] |
-[jarnolai][] |
 [jhaap][] |
 [jukra][] |
 [merilainen-metropolia][] |
@@ -202,10 +183,7 @@ Github username  | Task 1   | Task 2
 [Markoham][]     |   |
 [Oona][]         |   |
 [SkyFire-][]     |   |
-[akimaky][]      |   |
-[anttev][]       |   |
 [arsi70][]       |   |
-[jarnolai][]     |   |
 [jhaap][]        |   |
 [jukra][]        |   |
 [merilainen-metropolia][] |   |
@@ -223,10 +201,7 @@ Github username  | Task 1   | Task 2
 [Markoham]: https://github.com/Markoham
 [Oona]: https://github.com/Oona
 [SkyFire-]: https://github.com/SkyFire-
-[akimaky]: https://github.com/akimaky
-[anttev]: https://github.com/anttev
 [arsi70]: https://github.com/arsi70
-[jarnolai]: https://github.com/jarnolai
 [jhaap]: https://github.com/jhaap
 [jukra]: https://github.com/jukra
 [merilainen-metropolia]: https://github.com/merilainen-metropolia
@@ -235,6 +210,7 @@ Github username  | Task 1   | Task 2
 [olemstrom]: https://github.com/olemstrom
 [rafuke]: https://github.com/rafuke
 [tariel]: https://github.com/tariel
+[tomter]: https://github.com/tomter
 [tuukkalai]: https://github.com/tuukkalai
 [tuunanen]: https://github.com/tuunanen
 [onnia]: https://github.com/onnia
