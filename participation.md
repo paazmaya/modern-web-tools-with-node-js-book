@@ -57,8 +57,8 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [merilainen-metropolia][] |  |  |
 [minnahin][] |  |  |
 [mpiivonen][] | [X](https://github.com/mpiivonen/nodejs2/commit/efe8d9804f722c66a1b6192c1e27f87d83fced9e)  |  [X](https://github.com/mpiivonen/nodejs2/releases/tag/v0.1.0)  | [X](https://github.com/Markoham/TestRepo2/pull/1)
-[olemstrom][] | [X](https://github.com/olemstrom/node-tyokalut-lect2) |[X](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[X](https://github.com/olemstrom/tunti3) 
-[rafuke][] |  |  | 
+[olemstrom][] | [X](https://github.com/olemstrom/node-tyokalut-lect2) |[X](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[X](https://github.com/olemstrom/tunti3)
+[rafuke][] |  |  |
 [tariel][] |  |  |
 [tuukkalai][] |  |  |
 [tuunanen][] | [X](https://github.com/tuunanen/TT00CC06-3001/commit/486cb56b0e6424b613f32db4a605d1f6512d2463) | [X](https://github.com/tuunanen/TT00CC06-3001/releases/tag/v0.1.0) |
@@ -86,9 +86,10 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [mpiivonen][] | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-1) | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-2)   | [X](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-3)   | [X](https://github.com/Markoham/hello-node-js/pull/1)   |
 [olemstrom][] |[X](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[X](https://github.com/olemstrom/lect3/blob/master/double.js)    |[X](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[X](https://github.com/olemstrom/tunti3)    |
 [rafuke][] |  |    |    |    |
-[tariel][] |  |    |    |    |
+[tariel][] |  |    | [X](https://github.com/tariel/nodejs-session3/commit/507183bba944aca45adae929f4823bf6e4a3a10e)   |   [X](https://github.com/Oona/hello-node-js/pull/2) |
 [tuukkalai][] |  |    |    |    |
 [tuunanen][] | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-1.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-2.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-3.js) | |
+[onnia][] | [X](https://github.com/onnia/hello-node-js/blob/master/lesson-2014-09-09/task-1.js) | [X](https://github.com/onnia/hello-node-js/blob/master/lesson-2014-09-09/task-2.js) | [X](https://github.com/onnia/hello-node-js/blob/master/lesson-2014-09-09/task-3.js) | |
 
 
 
@@ -112,7 +113,7 @@ Github username | Task 1 | Task 2
 [mpiivonen][] |  |
 [olemstrom][] |[X](https://github.com/olemstrom/lect4/blob/master/README.md)  |[X](https://github.com/olemstrom/Vocoder)
 [rafuke][] |  |
-[tariel][] |  |
+[tariel][] |  | [X](https://github.com/tariel/nodejs-session3/commit/799af7aebecf4b793375cea5adc131bc84e3da3e)
 [tuukkalai][] |  |
 [tuunanen][] | [X](https://github.com/tuunanen/hello-node-js) | [X](https://github.com/tuunanen/camel-case)
 
@@ -125,21 +126,22 @@ Github username | Task
 [HeikkiAlanen][] |  [X](https://github.com/HeikkiAlanen/node-form-submit)
 [Markoham][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
 [Oona][] |  [X](https://github.com/tariel/connect-feedback/)
-[SkyFire-][] |  
-[akimaky][] |  
-[anttev][] |  
-[arsi70][] | 
-[jarnolai][] |  
-[jhaap][] |  
-[jukra][] |  [X](https://github.com/jukra/nodejsform/)  
-[merilainen-metropolia][] |  
-[minnahin][] |  
+[SkyFire-][] |
+[akimaky][] |
+[anttev][] |
+[arsi70][] |
+[jarnolai][] |
+[jhaap][] |
+[jukra][] |  [X](https://github.com/jukra/nodejsform/)
+[merilainen-metropolia][] |
+[minnahin][] |
 [mpiivonen][] |  [X](https://github.com/Markoham/Lecture-5-WebServer)
-[olemstrom][] | [X](https://github.com/HeikkiAlanen/node-form-submit)  
-[rafuke][] |  
-[tariel][] |  
-[tuukkalai][] |  
+[olemstrom][] | [X](https://github.com/HeikkiAlanen/node-form-submit)
+[rafuke][] |
+[tariel][] | [X](https://github.com/tariel/connect-feedback)
+[tuukkalai][] |
 [tuunanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit)
+[onnia][] | [X](https://github.com/heidisar/Lesson5-Form)
 
 
 ## [Lecture 6 - Common task runners](lectures/2014-09-30.md)
@@ -162,15 +164,16 @@ Github username | Task 1 | Task 2
 [mpiivonen][] |  |
 [olemstrom][] |[X](https://github.com/HeikkiAlanen/node-form-submit/pull/8)  |[X](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
 [rafuke][] |  |
-[tariel][] |  |
+[tariel][] | [X](https://github.com/Oona/hello-node-js/pull/3) | [X](https://github.com/tariel/hello-node-js/commit/469b95fd755952917cc8ba9619162bbb732f96e8)
 [tuukkalai][] |  |
 [tuunanen][] |  |
+[onnia][] |[X](https://github.com/LeaVerou/csss/pull/33)  |
 
 
 ## [Lecture 7 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
 
 
-Github username | Task 1-2 
+Github username | Task 1-2
 ----------------|----------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
 [Markoham][] |
@@ -187,7 +190,7 @@ Github username | Task 1-2
 [mpiivonen][] |
 [olemstrom][] |
 [rafuke][] |
-[tariel][] |
+[tariel][] | [X](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
 [tuukkalai][] |
 [tuunanen][] | [X](https://github.com/tuunanen/hello-node-js)
 
@@ -211,3 +214,4 @@ Github username | Task 1-2
 [tariel]: https://github.com/tariel
 [tuukkalai]: https://github.com/tuukkalai
 [tuunanen]: https://github.com/tuunanen
+[onnia]: https://github.com/onnia
