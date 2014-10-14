@@ -89,6 +89,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [tariel][] |  |    | [X](https://github.com/tariel/nodejs-session3/commit/507183bba944aca45adae929f4823bf6e4a3a10e)   |   [X](https://github.com/Oona/hello-node-js/pull/2) |
 [tuukkalai][] |  |    |    |    |
 [tuunanen][] | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-1.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-2.js) | [X](https://github.com/tuunanen/hello-node-js/blob/master/task-3.js) | |
+[onnia][] | [X](https://github.com/onnia/hello-node-js/blob/master/lesson-2014-09-09/task-1.js) | [X](https://github.com/onnia/hello-node-js/blob/master/lesson-2014-09-09/task-2.js) | [X](https://github.com/onnia/hello-node-js/blob/master/lesson-2014-09-09/task-3.js) | |
 
 
 
@@ -140,6 +141,7 @@ Github username | Task
 [tariel][] | [X](https://github.com/tariel/connect-feedback)
 [tuukkalai][] |
 [tuunanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit)
+[onnia][] | [X](https://github.com/heidisar/Lesson5-Form)
 
 
 ## [Lecture 6 - Common task runners](lectures/2014-09-30.md)
@@ -165,6 +167,7 @@ Github username | Task 1 | Task 2
 [tariel][] | [X](https://github.com/Oona/hello-node-js/pull/3) | [X](https://github.com/tariel/hello-node-js/commit/469b95fd755952917cc8ba9619162bbb732f96e8)
 [tuukkalai][] |  |
 [tuunanen][] |  |
+[onnia][] |[X](https://github.com/LeaVerou/csss/pull/33)  |
 
 
 ## [Lecture 7 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
@@ -211,3 +214,4 @@ Github username | Task 1-2
 [tariel]: https://github.com/tariel
 [tuukkalai]: https://github.com/tuukkalai
 [tuunanen]: https://github.com/tuunanen
+[onnia]: https://github.com/onnia
