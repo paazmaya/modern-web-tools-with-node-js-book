@@ -41,8 +41,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - UglifyJS (Onni Aaltonen - 4.11.2014)
 - CSSmin (Jukka Rautanen - 4.11.2014)
 - Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
-
-- Coveralls.io
+- Coveralls.io (Jukka Rautanen - 4.11.2014)
 
 - CouchDB
 - MongoDB / Mongoose Markus, Marko 18.11.2014.
