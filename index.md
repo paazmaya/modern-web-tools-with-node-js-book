@@ -1,6 +1,6 @@
 # Course Definition
 
-Book for the Node.js course help in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014. 
+Book for the Node.js course help in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014.
 Developed during the course, by all course participants.
 
 * [Questions, issues][issue]
@@ -29,13 +29,13 @@ that the subject would be useful for everyone.
 12. [11/11 - Code coverage](lectures/2014-11-11.md)
 13. [18/11 - Security](lectures/2014-11-18.md)
 14. [25/11 - Load balancing](lectures/2014-11-25.md)
-15. [02/12 - ](lectures/2014-12-02.md)
+15. [02/12 - Heroku and other free hosting services](lectures/2014-12-02.md)
 16. [09/12 - ](lectures/2014-12-09.md)
 17. [16/12 - Feedback on the projects](lectures/2014-12-16.md)
 
 ## Assignments
 
-The course contains four assignments, which are given in three weeks cycles. 
+The course contains four assignments, which are given in three weeks cycles.
 Each assignment should be returned in two weeks when it has been given, preferably via Github.
 
 1. [First assignment, given in 16th Sep](assignments/2014-09-16.md)
@@ -59,7 +59,7 @@ Once a presentation has been held, the material should be linked in the above li
 ## Targets defined as course delivery
 
 * The student is able to recognise the possibilities available via Node.js in a user interface development.
-* The student can understand the meaning and reasoning for tools such as Grunt, 
+* The student can understand the meaning and reasoning for tools such as Grunt,
   Gulp, Bower and Jasmine in order to reduce the time used for repetitive tasks and to increase code quality.
 * The student can create small scripts and plugins that can be used via command line.
 * The student can publish their own tools and keep them up to date via version control systems.

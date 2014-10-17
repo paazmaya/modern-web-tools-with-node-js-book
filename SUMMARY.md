@@ -16,7 +16,7 @@
   * [Code coverage](lectures/2014-11-11.md)
   * [Security](lectures/2014-11-18.md)
   * [Load balancing](lectures/2014-11-25.md)
-  * [](lectures/2014-12-02.md)
+  * [Heroku and other free hosting services](lectures/2014-12-02.md)
   * [](lectures/2014-12-09.md)
   * [Feedback on the projects](lectures/2014-12-16.md)
 * Assignments

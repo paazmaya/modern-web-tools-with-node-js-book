@@ -22,23 +22,23 @@ List of possible subjects, with approximate chronological order and grouped by s
 - [Grunt](https://slides.com/oscarlemstrom/gruntjs/)) (30.9.2014 / Oscar Lemström)
 - [Gulp](https://slides.com/joonasmerilainen/gulp-js/) (30.9.2014 / Joonas Meriläinen)
 - Broccoli
- 
+
 - Jasmine (7.10.2014 - Tuukka Laitinen)
 - [Mocha](https://speakerdeck.com/tomter/mocha-ja-qunit) (7.10.2014 - Toomas Tero)
 - [Qunit](https://speakerdeck.com/tomter/mocha-ja-qunit) (7.10.2014 - Toomas Tero)
-- nodeunit (Ville & Antte7.10.2014)
-- PhantomJS (Jarno Laine)
+- nodeunit (Ville 7.10.2014)
+- PhantomJS
 
-- Travis CI (Ville & Antte 14.10)
+- Travis CI (Ville 14.10)
 - Wercker
 
-- Gemnasium 
+- Gemnasium
 - VersionEye
 
 - Bower Markus, Marko 28.10.2014
 - Component
 
-- UglifyJS
+- UglifyJS (Onni Aaltonen - 4.11.2014)
 - CSSmin (Jukka Rautanen - 4.11.2014)
 - Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
 
