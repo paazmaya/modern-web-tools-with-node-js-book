@@ -160,7 +160,7 @@ Github username | Task 1-2
 ----------------|----------
 [HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
 [Markoham][] |
-[Oona][] |
+[Oona][] | [x](https://github.com/Oona/hello-node-js/commit/f7c27f20f4e47a1d6c4e4d467d76580c14bcc6b6)
 [SkyFire-][] |
 [arsi70][] |
 [jhaap][] |
@@ -181,7 +181,7 @@ Github username  | Task 1   | Task 2
 -----------------|----------|--------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/80548bdc6fa7df2b0de60d8b55881dba9c2479bc)  | [X](https://github.com/harthur/nomnom/issues/50)
 [Markoham][]     |   |
-[Oona][]         |   |
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/2673dc4b87b73457e8761f9c7ea9d75321395092)  | [x](https://github.com/atuttle/node-trello-slack/pull/2)
 [SkyFire-][]     |   |
 [arsi70][]       |   |
 [jhaap][]        |   |
