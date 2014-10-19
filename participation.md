@@ -160,7 +160,7 @@ Github username | Task 1-2
 ----------------|----------
 [HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
 [Markoham][] |
-[Oona][] |
+[Oona][] | [x](https://github.com/Oona/hello-node-js/commit/f7c27f20f4e47a1d6c4e4d467d76580c14bcc6b6)
 [SkyFire-][] |
 [arsi70][] |
 [jhaap][] |
