@@ -216,9 +216,6 @@ Github username  | Task 1   | Task 2   | Task 3   | Task 4 (optional)
 [tuunanen][]     |          |          |          |
 
 
-
-https://github.com/Oona/hello-node-js/blob/master/README.md
-
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
 [Oona]: https://github.com/Oona
