@@ -177,8 +177,8 @@ Github username | Task 1-2
 
 ## [Lecture 8 - Automation and continuous integration](lectures/2014-10-14.md)
 
-Github username  | Task 1   | Task 2
------------------|----------|--------
+Github username  | Task 1   | Task 2   
+-----------------|----------|----------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/80548bdc6fa7df2b0de60d8b55881dba9c2479bc)  | [X](https://github.com/harthur/nomnom/issues/50)
 [Markoham][]     |   |
 [Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/2673dc4b87b73457e8761f9c7ea9d75321395092)  | [x](https://github.com/atuttle/node-trello-slack/pull/2)
@@ -195,7 +195,29 @@ Github username  | Task 1   | Task 2
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
 
+## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
 
+Github username  | Task 1   | Task 2   | Task 3   | Task 4 (optional)   
+-----------------|----------|----------|----------|--------------------
+[HeikkiAlanen][] |          |          |          |
+[Markoham][]     |          |          |          |
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/ba62568d93da9ed8fdc041000f9913999e24a454)         | [x](https://github.com/atuttle/node-trello-slack/issues/3)         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)        | [x]
+[SkyFire-][]     |          |          |          |
+[arsi70][]       |          |          |          |
+[jhaap][]        |          |          |          |
+[jukra][]        |          |          |          |
+[merilainen-metropolia][] | |          |          |
+[minnahin][]     |          |          |          |
+[mpiivonen][]    |          |          |          |
+[olemstrom][]    |          |          |          |     
+[rafuke][]       |          |          |          |
+[tariel][]       |          |          |          |
+[tuukkalai][]    |          |          |          |
+[tuunanen][]     |          |          |          |
+
+
+
+https://github.com/Oona/hello-node-js/blob/master/README.md
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
