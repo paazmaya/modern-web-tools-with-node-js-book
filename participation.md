@@ -31,7 +31,7 @@ Github username | Presented | Material linked | Quiz done
 [mpiivonen][]   | [ ]       | [ ]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
-[tariel][]      | [x]       | [x]             | [ ]
+[tariel][]      | [x]       | [x]             | [x]
 [tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
 [tuunanen][]    | [ ]       | [ ]             | [ ]
@@ -191,7 +191,7 @@ Github username  | Task 1   | Task 2
 [mpiivonen][]    |   |
 [olemstrom][]    |   |
 [rafuke][]       |   |
-[tariel][]       |   |
+[tariel][]       | [X](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [X](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
 
