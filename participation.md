@@ -201,7 +201,7 @@ Github username  | Task 1   | Task 2   | Task 3   | Task 4 (optional)
 -----------------|----------|----------|----------|--------------------
 [HeikkiAlanen][] |          |          |          |
 [Markoham][]     |          |          |          |
-[Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/ba62568d93da9ed8fdc041000f9913999e24a454)         | [x](https://github.com/atuttle/node-trello-slack/issues/3)         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)        | [x]
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/ba62568d93da9ed8fdc041000f9913999e24a454)         | [x](https://github.com/atuttle/node-trello-slack/issues/3)         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)        | 
 [SkyFire-][]     |          |          |          |
 [arsi70][]       |          |          |          |
 [jhaap][]        |          |          |          |
