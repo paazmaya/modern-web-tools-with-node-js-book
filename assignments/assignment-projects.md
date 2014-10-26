@@ -22,3 +22,4 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 * [Markus I](https://github.com/mpiivonen/twitter-data "To get twitter streams and preprocess them")
 * [Oscar L](https://github.com/olemstrom/node-htmlbatchedit "Batch edit HTML files")
 * [Jarkko T](https://github.com/tuunanen/camelton "Generate and synchronize data skeletons across files")
+* [Oona L](https://github.com/Oona/image-manager/tree/feature-first-assignment "Image manager - manage images in your project")
