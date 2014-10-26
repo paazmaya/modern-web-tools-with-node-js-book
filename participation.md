@@ -221,7 +221,7 @@ Github username  | Task 1   | Task 2   | Task 3
 -----------------|----------|----------|-------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/b86deeb1e9a67d4ef2fd7f0cb6ec46e0c50d0622)  | [X](https://github.com/nchaulet/node-geocoder/issues/53)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/f81d4a2c5e85a3658962a50ab08aa913a68b8678)
 [Markoham][]     |   |   |
-[Oona][]         |   |   |
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/ba62568d93da9ed8fdc041000f9913999e24a454)  | [x](https://github.com/atuttle/node-trello-slack/issues/3)  | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)
 [SkyFire-][]     |   |   |
 [arsi70][]       |   |   |
 [jhaap][]        |   |   |
