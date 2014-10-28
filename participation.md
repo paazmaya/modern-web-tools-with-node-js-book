@@ -164,7 +164,7 @@ Github username | Task 1-2
 [SkyFire-][] |
 [arsi70][] |
 [jhaap][] |
-[jukra][] |
+[jukra][] | [x](https://github.com/jukra/hello-node-js/commit/ebf71c1145fb524c8b89bf3a27ab39a40c2519f8)
 [merilainen-metropolia][] |
 [minnahin][] |
 [mpiivonen][] |
@@ -185,7 +185,7 @@ Github username  | Task 1   | Task 2
 [SkyFire-][]     |   |
 [arsi70][]       |   |
 [jhaap][]        |   |
-[jukra][]        |   |
+[jukra][]        | [X](https://github.com/jukra/hello-node-js/commit/623f8517d77a5c5d2bb8e7eb1f879650021ed863)   | [X](https://github.com/yuanfang829/html-compress/issues/1)
 [merilainen-metropolia][] |   |
 [minnahin][]     |   |
 [mpiivonen][]    |   |
@@ -195,6 +195,26 @@ Github username  | Task 1   | Task 2
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
 
+
+## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
+
+Github username  | Task 1   | Task 2   | Task 3
+-----------------|----------|----------|-------
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/b86deeb1e9a67d4ef2fd7f0cb6ec46e0c50d0622)  | [X](https://github.com/nchaulet/node-geocoder/issues/53)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/f81d4a2c5e85a3658962a50ab08aa913a68b8678)
+[Markoham][]     |   |   |
+[Oona][]         |   |   |
+[SkyFire-][]     |   |   |
+[arsi70][]       |   |   |
+[jhaap][]        |   |   |
+[jukra][]        | [X](https://github.com/jukra/hello-node-js/commit/a98586743338e6878cba0083487b7a184abc3f31) | [X](https://github.com/justinanastos/staged-github-files/issues/1) | [X](https://github.com/jukra/hello-node-js/commit/157579bacd88f4f330e264dcea3981c8feba41f4)
+[merilainen-metropolia][] |   |   |
+[minnahin][]     |   |   |
+[mpiivonen][]    |   |   |
+[olemstrom][]    |   |   |
+[rafuke][]       |   |   |
+[tariel][]       |   |   |
+[tuukkalai][]    |   |   |
+[tuunanen][]     |   |   |
 
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
