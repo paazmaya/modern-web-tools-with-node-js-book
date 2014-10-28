@@ -26,10 +26,10 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Jasmine (7.10.2014 - Tuukka Laitinen)
 - [Mocha](https://speakerdeck.com/tomter/mocha-ja-qunit) (7.10.2014 - Toomas Tero)
 - [Qunit](https://speakerdeck.com/tomter/mocha-ja-qunit) (7.10.2014 - Toomas Tero)
-- nodeunit (Ville 7.10.2014)
+- nodeunit
 - PhantomJS
 
-- Travis CI (Ville 14.10)
+- Travis CI
 - Wercker
 
 - Gemnasium

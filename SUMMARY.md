@@ -13,7 +13,7 @@
   * [Package dependencies](lectures/2014-10-21.md)
   * [Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
   * [Web performance](lectures/2014-11-04.md)
-  * [Code coverage](lectures/2014-11-11.md)
+  * [More about unit testing and code coverage](lectures/2014-11-11.md)
   * [Security](lectures/2014-11-18.md)
   * [Load balancing](lectures/2014-11-25.md)
   * [Heroku and other free hosting services](lectures/2014-12-02.md)

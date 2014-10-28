@@ -26,7 +26,7 @@ that the subject would be useful for everyone.
 9. [21/10 - Package dependencies](lectures/2014-10-21.md)
 10. [28/10 - Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
 11. [04/11 - Web performance](lectures/2014-11-04.md)
-12. [11/11 - Code coverage](lectures/2014-11-11.md)
+12. [11/11 - More about unit testing and code coverage](lectures/2014-11-11.md)
 13. [18/11 - Security](lectures/2014-11-18.md)
 14. [25/11 - Load balancing](lectures/2014-11-25.md)
 15. [02/12 - Heroku and other free hosting services](lectures/2014-12-02.md)

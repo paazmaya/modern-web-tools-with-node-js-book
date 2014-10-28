@@ -26,7 +26,7 @@ Github username | Presented | Material linked | Quiz done
 [jhaap][]       | [x]       | [ ]             | [ ]
 [jukra][]       | [ ]       | [ ]             | [ ]
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
-[mpiivonen][]   | [ ]       | [ ]             | [ ]
+[mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
 [tariel][]      | [x]       | [x]             | [x]
@@ -200,6 +200,9 @@ Github username  | Task 1   | Task 2   | Task 3
 [onnia][]        |   |   |
 
 ## [Lecture 10 - Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
+
+
+
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
