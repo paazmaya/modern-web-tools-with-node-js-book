@@ -11,7 +11,7 @@
   * [Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
   * [Automation and continuous integration](lectures/2014-10-14.md)
   * [Package dependencies](lectures/2014-10-21.md)
-  * [Front end third party dependencies](lectures/2014-10-28.md)
+  * [Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
   * [Web performance](lectures/2014-11-04.md)
   * [Code coverage](lectures/2014-11-11.md)
   * [Security](lectures/2014-11-18.md)

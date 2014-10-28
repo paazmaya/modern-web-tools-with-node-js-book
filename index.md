@@ -24,7 +24,7 @@ that the subject would be useful for everyone.
 6. [07/10 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
 8. [14/10 - Automation and continuous integration](lectures/2014-10-14.md)
 9. [21/10 - Package dependencies](lectures/2014-10-21.md)
-10. [28/10 - Front end third party dependencies](lectures/2014-10-28.md)
+10. [28/10 - Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
 11. [04/11 - Web performance](lectures/2014-11-04.md)
 12. [11/11 - Code coverage](lectures/2014-11-11.md)
 13. [18/11 - Security](lectures/2014-11-18.md)
