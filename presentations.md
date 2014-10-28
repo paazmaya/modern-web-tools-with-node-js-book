@@ -35,7 +35,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Gemnasium
 - VersionEye
 
-- Bower Markus, Marko 28.10.2014
+- [Bower](http://markoham.github.io/NodeJS-Presentation-Bower/) Markus, Marko 28.10.2014
 - Component
 
 - UglifyJS (Onni Aaltonen - 4.11.2014)
