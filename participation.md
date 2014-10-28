@@ -31,7 +31,7 @@ Github username | Presented | Material linked | Quiz done
 [mpiivonen][]   | [ ]       | [ ]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
-[tariel][]      | [x]       | [x]             | [ ]
+[tariel][]      | [x]       | [x]             | [x]
 [tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
 [tuunanen][]    | [ ]       | [ ]             | [ ]
@@ -160,7 +160,7 @@ Github username | Task 1-2
 ----------------|----------
 [HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
 [Markoham][] |
-[Oona][] |
+[Oona][] | [x](https://github.com/Oona/hello-node-js/commit/f7c27f20f4e47a1d6c4e4d467d76580c14bcc6b6)
 [SkyFire-][] |
 [arsi70][] |
 [jhaap][] |
@@ -181,7 +181,7 @@ Github username  | Task 1   | Task 2
 -----------------|----------|--------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/80548bdc6fa7df2b0de60d8b55881dba9c2479bc)  | [X](https://github.com/harthur/nomnom/issues/50)
 [Markoham][]     |   |
-[Oona][]         |   |
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/2673dc4b87b73457e8761f9c7ea9d75321395092)  | [x](https://github.com/atuttle/node-trello-slack/pull/2)
 [SkyFire-][]     |   |
 [arsi70][]       |   |
 [jhaap][]        |   |
@@ -191,10 +191,30 @@ Github username  | Task 1   | Task 2
 [mpiivonen][]    |   |
 [olemstrom][]    |   |
 [rafuke][]       |   |
-[tariel][]       |   |
+[tariel][]       | [X](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [X](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
 
+
+## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
+
+Github username  | Task 1   | Task 2   | Task 3
+-----------------|----------|----------|-------
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/b86deeb1e9a67d4ef2fd7f0cb6ec46e0c50d0622)  | [X](https://github.com/nchaulet/node-geocoder/issues/53)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/f81d4a2c5e85a3658962a50ab08aa913a68b8678)
+[Markoham][]     |   |   |
+[Oona][]         |   |   |
+[SkyFire-][]     |   |   |
+[arsi70][]       |   |   |
+[jhaap][]        |   |   |
+[jukra][]        |   |   |
+[merilainen-metropolia][] |   |   |
+[minnahin][]     |   |   |
+[mpiivonen][]    |   |   |
+[olemstrom][]    |   |   |
+[rafuke][]       |   |   |
+[tariel][]       |   |   |
+[tuukkalai][]    |   |   |
+[tuunanen][]     |   |   |
 
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
