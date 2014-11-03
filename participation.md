@@ -32,7 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [tariel][]      | [x]       | [x]             | [x]
 [tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
-[tuunanen][]    | [ ]       | [ ]             | [ ]
+[tuunanen][]    | [ ]       | [x]             | [x]
 [onnia][]       | [ ]       | [ ]             | [ ]
 
 ## [Lecture 2 - Github forks and pull requests](lectures/2014-09-02.md)

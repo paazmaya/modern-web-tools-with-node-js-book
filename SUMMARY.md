@@ -30,4 +30,5 @@
   * [JavaScript type quiz](quizzes/javascript-types.md)
   * [npm basic commands quiz](quizzes/npm-commands.md)
   * [ESLint quiz](quizzes/eslint.md)
+  * [Sitespeed.io quiz](quizzes/sitespeedio-webperf.md)
 * [Participation](participation.md)
