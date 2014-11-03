@@ -24,7 +24,7 @@ Github username | Presented | Material linked | Quiz done
 [Oona][]        | [x]       | [x]             | [x]
 [SkyFire-][]    | [x]       | [x]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
-[jukra][]       | [ ]       | [ ]             | [ ]
+[jukra][]       | [ ]       | [x]             | [x]
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
@@ -159,7 +159,7 @@ Github username | Task 1-2
 [tariel][] | [x](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
 [tuukkalai][] |
 [tuunanen][] | [x](https://github.com/tuunanen/hello-node-js)
-[onnia][]  | 
+[onnia][]  |
 
 ## [Lecture 8 - Automation and continuous integration](lectures/2014-10-14.md)
 
@@ -178,7 +178,7 @@ Github username  | Task 1   | Task 2
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [x](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
-[onnia][]  |  | 
+[onnia][]  |  |
 
 ## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
 
@@ -203,20 +203,20 @@ Github username  | Task 1   | Task 2   | Task 3
 
 Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 -----------------|---------------|---------------|---------------|--------------
-[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  |   | 
-[Markoham][]     |   |   |   | 
-[Oona][]         |   |   |   | 
-[SkyFire-][]     |   |   |   | 
-[jhaap][]        |   |   |   | 
-[jukra][]        |   |   |    | 
-[merilainen-metropolia][] |   |   |   | 
-[mpiivonen][]    |   |   |   | 
-[olemstrom][]    |   |   |   | 
-[rafuke][]       |   |   |   | 
-[tariel][]       |   |   |   | 
-[tuukkalai][]    |   |   |   | 
-[tuunanen][]     |   |   |   | 
-[onnia][]        |   |   |   | 
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  |   |
+[Markoham][]     |   |   |   |
+[Oona][]         |   |   |   |
+[SkyFire-][]     |   |   |   |
+[jhaap][]        |   |   |   |
+[jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
+[merilainen-metropolia][] |   |   |   |
+[mpiivonen][]    |   |   |   |
+[olemstrom][]    |   |   |   |
+[rafuke][]       |   |   |   |
+[tariel][]       |   |   |   |
+[tuukkalai][]    |   |   |   |
+[tuunanen][]     |   |   |   |
+[onnia][]        |   |   |   |
 
 
 

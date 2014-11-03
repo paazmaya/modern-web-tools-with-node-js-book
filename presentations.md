@@ -39,9 +39,9 @@ List of possible subjects, with approximate chronological order and grouped by s
 - Component
 
 - UglifyJS (Onni Aaltonen - 4.11.2014)
-- CSSmin (Jukka Rautanen - 4.11.2014)
+- [CSSmin](https://speakerdeck.com/jukra/cssmin) (Jukka Rautanen - 4.11.2014)
 - Sitespeed.io (Jarkko Tuunanen - 4.11.2014)
-- Coveralls.io (Jukka Rautanen - 4.11.2014)
+- [Coveralls.io](https://speakerdeck.com/jukra/coveralls-dot-io) (Jukka Rautanen - 4.11.2014)
 
 - CouchDB
 - MongoDB / Mongoose Markus, Marko 18.11.2014.
