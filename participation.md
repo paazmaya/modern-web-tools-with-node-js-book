@@ -24,7 +24,7 @@ Github username | Presented | Material linked | Quiz done
 [Oona][]        | [x]       | [x]             | [x]
 [SkyFire-][]    | [x]       | [x]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
-[jukra][]       | [ ]       | [ ]             | [ ]
+[jukra][]       | [ ]       | [x]             | [x]
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
@@ -208,7 +208,7 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [Oona][]         |   |   |   | 
 [SkyFire-][]     |   |   |   | 
 [jhaap][]        |   |   |   | 
-[jukra][]        |   |   |    | 
+[jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
 [merilainen-metropolia][] |   |   |   | 
 [mpiivonen][]    |   |   |   | 
 [olemstrom][]    |   |   |   | 
