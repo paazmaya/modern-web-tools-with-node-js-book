@@ -20,7 +20,7 @@ By minimizing your CSS files
 
 |                                                           | `true` | `false` |
 | ----------------------------------------------------------| ------ | ------- |
-| your site loads slower                                    |  [x]   |  [ ]    |
+| your site loads slower                                    |  [ ]   |  [X]    |
 | your site is more secure                                  |  [ ]   |  [X]    |
 | your site looks cooler                                    |  [ ]   |  [X]    |
 
