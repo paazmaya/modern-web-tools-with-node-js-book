@@ -24,7 +24,7 @@ Github username | Presented | Material linked | Quiz done
 [Oona][]        | [x]       | [x]             | [x]
 [SkyFire-][]    | [x]       | [x]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
-[jukra][]       | [ ]       | [ ]             | [ ]
+[jukra][]       | [ ]       | [x]             | [x]
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
@@ -32,7 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [tariel][]      | [x]       | [x]             | [x]
 [tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
-[tuunanen][]    | [ ]       | [ ]             | [ ]
+[tuunanen][]    | [ ]       | [x]             | [x]
 [onnia][]       | [ ]       | [ ]             | [ ]
 
 ## [Lecture 2 - Github forks and pull requests](lectures/2014-09-02.md)
@@ -200,6 +200,22 @@ Github username  | Task 1   | Task 2   | Task 3
 
 ## [Lecture 10 - Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
 
+Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
+-----------------|---------------|---------------|---------------|--------------
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  |   | 
+[Markoham][]     |   |   |   | 
+[Oona][]         |   |   |   | 
+[SkyFire-][]     |   |   |   | 
+[jhaap][]        |   |   |   | 
+[jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
+[merilainen-metropolia][] |   |   |   | 
+[mpiivonen][]    |   |   |   | 
+[olemstrom][]    |   |   |   | 
+[rafuke][]       |   |   |   | 
+[tariel][]       |   |   |   | 
+[tuukkalai][]    |   |   |   | 
+[tuunanen][]     |   |   |   | 
+[onnia][]        |   |   |   | 
 
 
 
