@@ -159,7 +159,7 @@ Github username | Task 1-2
 [tariel][] | [x](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
 [tuukkalai][] |
 [tuunanen][] | [x](https://github.com/tuunanen/hello-node-js)
-[onnia][]  | 
+[onnia][]  |
 
 ## [Lecture 8 - Automation and continuous integration](lectures/2014-10-14.md)
 
@@ -178,7 +178,7 @@ Github username  | Task 1   | Task 2
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [x](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
-[onnia][]  |  | 
+[onnia][]  |  |
 
 ## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
 
@@ -194,7 +194,7 @@ Github username  | Task 1   | Task 2   | Task 3
 [mpiivonen][]    |   |   |
 [olemstrom][]    |   |   |
 [rafuke][]       |   |   |
-[tariel][]       |   |   |
+[tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/1b1616fc051499430d61e8be3763e61a176d0103) | [x](https://github.com/andreareginato/simple-oauth2/pull/27) | [x](https://github.com/tariel/nodejs-session3/commit/56e1a8d7b0e375183da3e76c6d1e779d19832593)
 [tuukkalai][]    |   |   |
 [tuunanen][]     |   |   |
 [onnia][]        |   |   |
@@ -203,20 +203,20 @@ Github username  | Task 1   | Task 2   | Task 3
 
 Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 -----------------|---------------|---------------|---------------|--------------
-[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  |   | 
-[Markoham][]     |   |   |   | 
-[Oona][]         |   |   |   | 
-[SkyFire-][]     |   |   |   | 
-[jhaap][]        |   |   |   | 
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  |   |
+[Markoham][]     |   |   |   |
+[Oona][]         |   |   |   |
+[SkyFire-][]     |   |   |   |
+[jhaap][]        |   |   |   |
 [jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
-[merilainen-metropolia][] |   |   |   | 
-[mpiivonen][]    |   |   |   | 
-[olemstrom][]    |   |   |   | 
-[rafuke][]       |   |   |   | 
-[tariel][]       |   |   |   | 
-[tuukkalai][]    |   |   |   | 
-[tuunanen][]     |   |   |   | 
-[onnia][]        |   |   |   | 
+[merilainen-metropolia][] |   |   |   |
+[mpiivonen][]    |   |   |   |
+[olemstrom][]    |   |   |   |
+[rafuke][]       |   |   |   |
+[tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a18309e5db21dc5b1d5113cb9e1e99e57653abae) | [x](http://tariel.github.io/nodejs-session3/)
+[tuukkalai][]    |   |   |   |
+[tuunanen][]     |   |   |   |
+[onnia][]        |   |   |   |
 
 
 
