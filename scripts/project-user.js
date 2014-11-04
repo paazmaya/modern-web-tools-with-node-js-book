@@ -31,7 +31,7 @@ var readPackages = function (users, baseDir) {
       if (fs.existsSync(meta)) {
         var json = fs.readFileSync(meta, 'utf8');
         var data = JSON.parse(json);
-        packages[data.name] = './' + user + '/' + item;
+        packages[data.name] = baseDir + '/' + user + '/' + item;
       }
     });
   });
@@ -40,20 +40,23 @@ var readPackages = function (users, baseDir) {
 
 var requirePackages = function (packages) {
   Object.keys(packages).forEach(function (key) {
+    util.puts();
     var index = packages[key];
     util.puts(key + ' - ' + index);
 
     try {
       var ins = require(index);
+      util.puts(util.inspect(ins));
     }
     catch (error) {
+      util.puts(key + ' failed');
       util.puts(error);
     }
     util.puts();
   });
 };
 
-var baseDir = String(process.argv.slice(2));
+var baseDir = path.resolve(String(process.argv.slice(2)));
 util.log(baseDir);
 
 var users = getDirs(baseDir);
