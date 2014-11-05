@@ -203,7 +203,7 @@ Github username  | Task 1   | Task 2   | Task 3
 
 Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 -----------------|---------------|---------------|---------------|--------------
-[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  |   | 
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/36a70d28f717a5545c3e0e13973e4724f4ae6817)  | [X](http://heikkialanen.github.io/hello-node-js/)
 [Markoham][]     |   |   |   | 
 [Oona][]         |   |   |   | 
 [SkyFire-][]     |   |   |   | 
