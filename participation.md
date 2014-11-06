@@ -219,6 +219,25 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [onnia][]        |   |   |   | 
 
 
+## [Lecture 11 - Web performance](lectures/2014-11-04.md)
+
+Github username  | Task 1   | Task 2 
+-----------------|----------|---------
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/cfaf1c571f71966aa671aaa301866a156b4fdbf0)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/01746b08c782864a6e6ea02ef7a122816f5dcd59) 
+[Markoham][]     |   | 
+[Oona][]         |   | 
+[SkyFire-][]     |   | 
+[jhaap][]        |   | 
+[jukra][]        |   | 
+[merilainen-metropolia][] |   | 
+[mpiivonen][]    |   | 
+[olemstrom][]    |   | 
+[rafuke][]       |   | 
+[tariel][]       |   | 
+[tuukkalai][]    |   | 
+[tuunanen][]     |   | 
+[onnia][]        |   | 
+
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
