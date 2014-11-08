@@ -178,6 +178,7 @@ Github username  | Task 1   | Task 2
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [x](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
 [tuunanen][]     |   |
+[onnia][]        |   |
 
 ## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
 
@@ -224,7 +225,7 @@ Github username  | Task 1   | Task 2
 -----------------|----------|---------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/cfaf1c571f71966aa671aaa301866a156b4fdbf0)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/01746b08c782864a6e6ea02ef7a122816f5dcd59) 
 [Markoham][]     |   | 
-[Oona][]         |   | 
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)  | 
 [SkyFire-][]     |   | 
 [jhaap][]        |   | 
 [jukra][]        |   | 
