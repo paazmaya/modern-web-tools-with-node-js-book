@@ -38,7 +38,7 @@ List of possible subjects, with approximate chronological order and grouped by s
 - [Bower](http://markoham.github.io/NodeJS-Presentation-Bower/) Markus, Marko 28.10.2014
 - Component
 
-- UglifyJS (Onni Aaltonen - 4.11.2014)
+- [UglifyJS](https://slides.com/onnia/uglifyjs) (Onni Aaltonen - 11.11.2014)
 - [CSSmin](https://speakerdeck.com/jukra/cssmin) (Jukka Rautanen - 4.11.2014)
 - [Sitespeed.io](https://speakerdeck.com/tuunanen/sitespeed-dot-io) (Jarkko Tuunanen - 4.11.2014)
 - [Coveralls.io](https://speakerdeck.com/jukra/coveralls-dot-io) (Jukka Rautanen - 4.11.2014)
