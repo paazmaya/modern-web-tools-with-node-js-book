@@ -194,7 +194,7 @@ Github username  | Task 1   | Task 2   | Task 3
 [mpiivonen][]    |   |   |
 [olemstrom][]    |   |   |
 [rafuke][]       |   |   |
-[tariel][]       |   |   |
+[tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/1b1616fc051499430d61e8be3763e61a176d0103)  | [x](https://github.com/andreareginato/simple-oauth2/pull/27) | [x](https://github.com/tariel/nodejs-session3/commit/56e1a8d7b0e375183da3e76c6d1e779d19832593)
 [tuukkalai][]    |   |   |
 [tuunanen][]     |   |   |
 [onnia][]        |   |   |
@@ -213,7 +213,7 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [mpiivonen][]    |   |   |   | 
 [olemstrom][]    |   |   |   | 
 [rafuke][]       |   |   |   | 
-[tariel][]       |   |   |   | 
+[tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a1830)  | 
 [tuukkalai][]    |   |   |   | 
 [tuunanen][]     |   |   |   | 
 [onnia][]        |   |   |   | 
