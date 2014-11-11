@@ -159,7 +159,7 @@ Github username | Task 1-2
 [tariel][] | [x](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
 [tuukkalai][] |
 [tuunanen][] | [x](https://github.com/tuunanen/hello-node-js)
-[onnia][]  | 
+[onnia][]  |
 
 ## [Lecture 8 - Automation and continuous integration](lectures/2014-10-14.md)
 
@@ -204,39 +204,39 @@ Github username  | Task 1   | Task 2   | Task 3
 Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 -----------------|---------------|---------------|---------------|--------------
 [HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/node-form-submit/pull/11)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/2c89391f6e4dcecd03c848918da69aa80e6d8ad5)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/36a70d28f717a5545c3e0e13973e4724f4ae6817)  | [X](http://heikkialanen.github.io/hello-node-js/)
-[Markoham][]     |   |   |   | 
-[Oona][]         |   |   |   | 
-[SkyFire-][]     |   |   |   | 
-[jhaap][]        |   |   |   | 
+[Markoham][]     |   |   |   |
+[Oona][]         |   |   |   |
+[SkyFire-][]     |   |   |   |
+[jhaap][]        |   |   |   |
 [jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
-[merilainen-metropolia][] |   |   |   | 
-[mpiivonen][]    |   |   |   | 
-[olemstrom][]    |   |   |   | 
-[rafuke][]       |   |   |   | 
-[tariel][]       |   |   |   | 
-[tuukkalai][]    |   |   |   | 
-[tuunanen][]     |   |   |   | 
-[onnia][]        |   |   |   | 
+[merilainen-metropolia][] |   |   |   |
+[mpiivonen][]    |   |   |   |
+[olemstrom][]    |   |   |   |
+[rafuke][]       |   |   |   |
+[tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a1830)
+[tuukkalai][]    |   |   |   |
+[tuunanen][]     |   |   |   |
+[onnia][]        |   |   |   |
 
 
 ## [Lecture 11 - Web performance](lectures/2014-11-04.md)
 
-Github username  | Task 1   | Task 2 
+Github username  | Task 1   | Task 2
 -----------------|----------|---------
-[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/cfaf1c571f71966aa671aaa301866a156b4fdbf0)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/01746b08c782864a6e6ea02ef7a122816f5dcd59) 
-[Markoham][]     |   | 
-[Oona][]         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)  | 
-[SkyFire-][]     |   | 
-[jhaap][]        |   | 
-[jukra][]        |   | 
-[merilainen-metropolia][] |   | 
-[mpiivonen][]    |   | 
-[olemstrom][]    |   | 
-[rafuke][]       |   | 
-[tariel][]       |   | 
-[tuukkalai][]    |   | 
-[tuunanen][]     |   | 
-[onnia][]        |   | 
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/cfaf1c571f71966aa671aaa301866a156b4fdbf0)  | [X](https://github.com/HeikkiAlanen/hello-node-js/commit/01746b08c782864a6e6ea02ef7a122816f5dcd59)
+[Markoham][]     |   |
+[Oona][]         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)  |
+[SkyFire-][]     |   |
+[jhaap][]        |   |
+[jukra][]        |   |
+[merilainen-metropolia][] |   |
+[mpiivonen][]    |   |
+[olemstrom][]    |   |
+[rafuke][]       |   |
+[tariel][]       |   |
+[tuukkalai][]    |   |
+[tuunanen][]     |   |
+[onnia][]        |   |
 
 
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
