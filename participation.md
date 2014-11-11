@@ -126,7 +126,7 @@ Github username | Task
 Github username | Task 1 | Task 2
 ----------------|--------|---------
 [HeikkiAlanen][] | [x](https://github.com/nchaulet/node-geocoder/pull/51) | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/49484aa873864663e42a7ceec51f690fe1c6dce3)
-[Markoham][] |  |
+[Markoham][] |  | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-6-Task-2)
 [Oona][] | [x](https://github.com/tariel/nodejs-session3/pull/2) | [x](https://github.com/Oona/node-tests/commit/af0a060fc8f28e2adc7218c6b2ec53ecb59cdba3)
 [SkyFire-][] |  |
 [jhaap][] |  |
@@ -147,7 +147,7 @@ Github username | Task 1 | Task 2
 Github username | Task 1-2
 ----------------|----------
 [HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/e293c7ad9ffaba033ff55c6aa940a5c5bcfa19a4)
-[Markoham][] |
+[Markoham][] | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-7-Task-2)
 [Oona][] | [x](https://github.com/Oona/hello-node-js/commit/f7c27f20f4e47a1d6c4e4d467d76580c14bcc6b6)
 [SkyFire-][] |
 [jhaap][] |
