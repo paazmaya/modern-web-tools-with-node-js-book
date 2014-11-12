@@ -239,6 +239,26 @@ Github username  | Task 1   | Task 2
 [onnia][]        |   | 
 
 
+## [Lecture 12 - More about unit testing and code coverage](lectures/2014-11-11.md)
+
+Github username  | Task 1   | Task 2  | Task 3
+-----------------|----------|---------|---------
+[HeikkiAlanen][] | [X](https://github.com/HeikkiAlanen/nomnom/commit/112cf0ddf56b0909618c9c33146bcd66f6ea0446)  | [X](https://github.com/HeikkiAlanen/nomnom/commit/8327d8c31e78b334a5b439bfb177e72382adb485)  | [X](https://github.com/HeikkiAlanen/nomnom/commit/ef091ac2ddc3ac9053bf557414d49c13599c8412)
+[Markoham][]     |   |   | 
+[Oona][]         |   |   | 
+[SkyFire-][]     |   |   | 
+[jhaap][]        |   |   | 
+[jukra][]        |   |   | 
+[merilainen-metropolia][] |   |   | 
+[mpiivonen][]    |   |   | 
+[olemstrom][]    |   |   | 
+[rafuke][]       |   |   | 
+[tariel][]       |   |   | 
+[tuukkalai][]    |   |   | 
+[tuunanen][]     |   |   | 
+[onnia][]        |   |   | 
+
+
 [HeikkiAlanen]: https://github.com/HeikkiAlanen
 [Markoham]: https://github.com/Markoham
 [Oona]: https://github.com/Oona
