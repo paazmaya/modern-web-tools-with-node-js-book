@@ -154,7 +154,7 @@ Github username | Task 1-2
 [jukra][] | [x](https://github.com/jukra/hello-node-js/commit/ebf71c1145fb524c8b89bf3a27ab39a40c2519f8)
 [merilainen-metropolia][] |
 [mpiivonen][] |
-[olemstrom][] |
+[olemstrom][] |[x](https://github.com/olemstrom/lect7)
 [rafuke][] |
 [tariel][] | [x](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
 [tuukkalai][] |
@@ -211,7 +211,7 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
 [merilainen-metropolia][] |   |   |   | 
 [mpiivonen][]    |   |   |   | 
-[olemstrom][]    |   |   |   | 
+[olemstrom][]    |   [x](https://github.com/HeikkiAlanen/node-form-submit/pull/9)|   [x](https://github.com/olemstrom/lect3/blob/master/frontend_pkg_managers)|   [x](https://github.com/olemstrom/lect7)|[x](http://olemstrom.github.io/lect7/) 
 [rafuke][]       |   |   |   | 
 [tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a1830)  | 
 [tuukkalai][]    |   |   |   | 
@@ -231,7 +231,7 @@ Github username  | Task 1   | Task 2
 [jukra][]        |   | 
 [merilainen-metropolia][] |   | 
 [mpiivonen][]    |   | 
-[olemstrom][]    |   | 
+[olemstrom][]    |   [x](https://github.com/olemstrom/lect3/blob/master/README.md)|[x](https://github.com/olemstrom/lect11_loadspeed) 
 [rafuke][]       |   | 
 [tariel][]       |   | 
 [tuukkalai][]    |   | 

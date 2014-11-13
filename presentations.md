@@ -45,4 +45,4 @@ List of possible subjects, with approximate chronological order and grouped by s
 
 - CouchDB
 - MongoDB / Mongoose Markus, Marko 18.11.2014.
-- Crypto
+- Crypto (Oscar Lemström 18.11.2014)
