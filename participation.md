@@ -24,7 +24,7 @@ Github username | Presented | Material linked | Quiz done
 [Oona][]        | [x]       | [x]             | [x]
 [SkyFire-][]    | [x]       | [x]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
-[jukra][]       | [ ]       | [x]             | [x]
+[jukra][]       | [x]       | [x]             | [x]
 [merilainen-metropolia][] | [ ] | [x]         | [ ]
 [mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
@@ -228,7 +228,7 @@ Github username  | Task 1   | Task 2
 [Oona][]         | [x](https://github.com/Oona/hello-node-js/blob/master/README.md)  | 
 [SkyFire-][]     |   | 
 [jhaap][]        |   | 
-[jukra][]        |   | 
+[jukra][]        |  [X](https://github.com/jukra/hello-node-js/commit/7c3e34da8cee3af1137ddcf943e4d2ca88229b4a)|[X](https://github.com/jukra/hello-node-js/commit/5dc824f6c0e619ea86ba4197aa8ace8df0ee1eb2) 
 [merilainen-metropolia][] |   | 
 [mpiivonen][]    |   | 
 [olemstrom][]    |   [x](https://github.com/olemstrom/lect3/blob/master/README.md)|[x](https://github.com/olemstrom/lect11_loadspeed) 
@@ -248,7 +248,7 @@ Github username  | Task 1   | Task 2  | Task 3
 [Oona][]         |   |   | 
 [SkyFire-][]     |   |   | 
 [jhaap][]        |   |   | 
-[jukra][]        |   |   | 
+[jukra][]        |  [X](https://github.com/jukra/valid-email/commit/6862365a42915b7ab1beae95fe198f6638d5991a) | [X](https://github.com/jukra/valid-email/commit/6862365a42915b7ab1beae95fe198f6638d5991a)  | [X](https://coveralls.io/r/jukra/valid-email?branch=master)
 [merilainen-metropolia][] |   |   | 
 [mpiivonen][]    |   |   | 
 [olemstrom][]    |   |   | 
