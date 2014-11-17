@@ -7,16 +7,24 @@
  */
 
 var fs = require('fs'),
+  path = require('path'),
   util = require('util'),
   exec = require('child_process').exec,
-  filename = __dirname + '/../assignments/assignment-projects.md';
+  git = require('nodegit'),
+  filename = __dirname + '/../assignments/assignment-projects.md',
+  projectDir = path.normalize(__dirname + '/../../../modern-nodejs-assignment-projects/');
 
 var markdown = fs.readFileSync(filename, 'utf8'),
   lines = markdown.split('\n'),
-  masterTime = '2014-10-08 09:00:00',
+  masterTime = '2014-10-29 09:00:00',
   commands = [],
   expr = /\[(.+?)\]\((http.+?) "(.+?)"\)/,
   projects = []; // directories where projects have been checked out
+
+
+if (!fs.existsSync(projectDir)) {
+  fs.mkdirSync(projectDir);
+}
 
 function iterateLines(line) {
   line = line.trim();
@@ -26,7 +34,7 @@ function iterateLines(line) {
     util.log('URL: ' + matches[2]);
     util.log('Title: ' + matches[3]);
 
-    var cwd = './' + matches[1].replace(/\s/, '-');
+    var cwd = projectDir + '/' + matches[1].replace(/\s/, '-');
     var fbFile = cwd + '/palaute.md';
     var feedback = '# ' + matches[1] + '\n\n' +
       '> ' + matches[3] + '\n\n' +
@@ -46,6 +54,7 @@ function iterateLines(line) {
     commands.push(['npm test --verbose > ../npm-test.txt', cwd + dir]);
     commands.push(['pjv -w >> ../palaute.md', cwd + dir]);
     commands.push(['npm i --verbose > ../npm-install.txt', cwd + dir]);
+    commands.push(['git show-ref --tags >> ../palaute.md', cwd + dir]);
     commands.push([checkout, cwd + dir]);
     commands.push([clone, cwd]);
   }
