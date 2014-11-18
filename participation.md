@@ -32,7 +32,7 @@ Github username | Presented | Material linked | Quiz done
 [tariel][]      | [x]       | [x]             | [x]
 [tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
-[tuunanen][]    | [ ]       | [x]             | [x]
+[tuunanen][]    | [x]       | [x]             | [x]
 [onnia][]       | [ ]       | [ ]             | [ ]
 
 ## [Lecture 2 - Github forks and pull requests](lectures/2014-09-02.md)
@@ -177,7 +177,7 @@ Github username  | Task 1   | Task 2
 [rafuke][]       |   |
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [x](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
-[tuunanen][]     |   |
+[tuunanen][]     | [x](https://github.com/tuunanen/hello-node-js/commit/660c274f4a153bf4a96c232e9f15ce8573f1451f) | [x](https://github.com/matthewkastor/object-merge/pull/4)
 [onnia][]        |   |
 
 ## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
@@ -215,7 +215,7 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [rafuke][]       |   |   |   | 
 [tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a1830)  | 
 [tuukkalai][]    |   |   |   | 
-[tuunanen][]     |   |   |   | 
+[tuunanen][]     | [x](https://github.com/HeikkiAlanen/node-form-submit/pull/10) | [x](https://github.com/tuunanen/hello-node-js/blob/master/README.md) |   | 
 [onnia][]        |   |   |   | 
 
 
@@ -235,7 +235,7 @@ Github username  | Task 1   | Task 2
 [rafuke][]       |   | 
 [tariel][]       |   | 
 [tuukkalai][]    |   | 
-[tuunanen][]     |   | 
+[tuunanen][]     | [x](https://github.com/tuunanen/hello-node-js/blob/master/README.md) | [x](https://github.com/tuunanen/hello-node-js/commit/46d5581ab3b646165f5ebbe7fe1b2e2ccfe7c79e)
 [onnia][]        |   | 
 
 
