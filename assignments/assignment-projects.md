@@ -3,9 +3,12 @@
 This page should contain links to the projects that are made in order to complete the four assignments.
 
 
-## Assignment 1
+## Assignments
 
-[Assignment description](2014-09-16.md)
+* [First assignment description](2014-09-16.md)
+* [Second assignment description](2014-10-07.md)
+* [Third assignment description](2014-10-28.md)
+* [Fourth sssignment description](2014-11-18.md)
 
 ### Projects
 
@@ -13,13 +16,13 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 `[Jukka P](https://github.com/paazmaya/matsumura-rohai "Translate PO files with the help of Microsoft Translate API")`
 
 
-* [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
 * [Heikki A](https://github.com/HeikkiAlanen/hal-image-optimizer "Application to optimize images for web usage")
+* [Jarkko T](https://github.com/tuunanen/camelton "Generate and synchronize data skeletons across files")
 * [Joonas M](https://github.com/merilainen-metropolia/trelloler "Automatically add necessary tasks into Trello")
 * [Jukka R](https://github.com/jukra/web-tweak-n-optimize "Optimize & tweak your css, js, html and image files")
-* [Onni A](https://github.com/onnia/Local-upload-folder "Image folder that optimizes them to web gallery ")
-* [Maxim D](https://github.com/tariel/the-noun-sprite "Sprite generator for the Noun Project")
+* [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
 * [Markus I](https://github.com/mpiivonen/twitter-data "To get twitter streams and preprocess them")
-* [Oscar L](https://github.com/olemstrom/node-htmlbatchedit "Batch edit HTML files")
-* [Jarkko T](https://github.com/tuunanen/camelton "Generate and synchronize data skeletons across files")
+* [Maxim D](https://github.com/tariel/the-noun-sprite "Sprite generator for the Noun Project")
+* [Onni A](https://github.com/onnia/Local-upload-folder "Image folder that optimizes them to web gallery ")
 * [Oona L](https://github.com/Oona/image-manager/tree/feature-first-assignment "Image manager - manage images in your project")
+* [Oscar L](https://github.com/olemstrom/node-htmlbatchedit "Batch edit HTML files")
