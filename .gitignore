@@ -2,3 +2,4 @@ _book
 build
 node_modules
 token
+npm-debug.log
