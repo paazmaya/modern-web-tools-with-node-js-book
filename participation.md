@@ -25,7 +25,7 @@ Github username | Presented | Material linked | Quiz done
 [SkyFire-][]    | [x]       | [x]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
 [jukra][]       | [x]       | [x]             | [x]
-[merilainen-metropolia][] | [x] | [x]         | [ ]
+[merilainen-metropolia][] | [x] | [x]         | [x]
 [mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
@@ -190,7 +190,7 @@ Github username  | Task 1   | Task 2   | Task 3
 [SkyFire-][]     |   |   |
 [jhaap][]        |   |   |
 [jukra][]        | [x](https://github.com/jukra/hello-node-js/commit/a98586743338e6878cba0083487b7a184abc3f31) | [x](https://github.com/justinanastos/staged-github-files/issues/1) | [x](https://github.com/jukra/hello-node-js/commit/157579bacd88f4f330e264dcea3981c8feba41f4)
-[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)  |[x](https://github.com/jonschlinkert/template/issues/7) |
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)  |[x](https://github.com/jonschlinkert/template/issues/7) | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)
 [mpiivonen][]    |   |   |
 [olemstrom][]    |   |   |
 [rafuke][]       |   |   |
@@ -209,7 +209,7 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [SkyFire-][]     |   |   |   | 
 [jhaap][]        |   |   |   | 
 [jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
-[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/nodejsform)  |   | [x](https://github.com/merilainen-metropolia/hello-node-js)  | [x](http://merilainen-metropolia.github.io/hello-node-js/)
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/nodejsform)  | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)  | [x](https://github.com/merilainen-metropolia/hello-node-js)  | [x](http://merilainen-metropolia.github.io/hello-node-js/)
 [mpiivonen][]    |   |   |   | 
 [olemstrom][]    |   [x](https://github.com/HeikkiAlanen/node-form-submit/pull/9)|   [x](https://github.com/olemstrom/lect3/blob/master/frontend_pkg_managers)|   [x](https://github.com/olemstrom/lect7)|[x](http://olemstrom.github.io/lect7/) 
 [rafuke][]       |   |   |   | 
@@ -229,7 +229,7 @@ Github username  | Task 1   | Task 2
 [SkyFire-][]     |   | 
 [jhaap][]        |   | 
 [jukra][]        |  [X](https://github.com/jukra/hello-node-js/commit/7c3e34da8cee3af1137ddcf943e4d2ca88229b4a)|[X](https://github.com/jukra/hello-node-js/commit/5dc824f6c0e619ea86ba4197aa8ace8df0ee1eb2) 
-[merilainen-metropolia][] |   | 
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)  | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/measure-site.js) 
 [mpiivonen][]    |   | 
 [olemstrom][]    |   [x](https://github.com/olemstrom/lect3/blob/master/README.md)|[x](https://github.com/olemstrom/lect11_loadspeed) 
 [rafuke][]       |   | 
@@ -249,7 +249,7 @@ Github username  | Task 1   | Task 2  | Task 3
 [SkyFire-][]     |   |   | 
 [jhaap][]        |   |   | 
 [jukra][]        |  [X](https://github.com/jukra/valid-email/commit/6862365a42915b7ab1beae95fe198f6638d5991a) | [X](https://github.com/jukra/valid-email/commit/6862365a42915b7ab1beae95fe198f6638d5991a)  | [X](https://coveralls.io/r/jukra/valid-email?branch=master)
-[merilainen-metropolia][] |   |   | 
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/json-segment/commit/1ec8ab37e51243e07b76b4b00d5d016828c96efa)  | [x](https://github.com/merilainen-metropolia/json-segment/blob/master/package.json)  | [x](https://coveralls.io/r/merilainen-metropolia/json-segment) 
 [mpiivonen][]    |   |   | 
 [olemstrom][]    |   |   | 
 [rafuke][]       |   |   | 
