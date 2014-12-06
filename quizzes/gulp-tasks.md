@@ -31,9 +31,9 @@ Gulpfile
 
 Using Gulp.js
 
-|                                                      | `true` | `false` |
-| -----------------------------------------------------| ------ | ------- |
-| Plugins can't be download via npm                    |   [ ]  |   [x]   |
-| Gulp.js must be installed globally and locally       |   [x]  |   [ ]   |
-| Running task 'gulp' will run first task              |   [ ]  |   [x]   |
-| It is possible to run multiple taks at the same time |   [x]  |   [ ]   |
+|                                                          | `true` | `false` |
+| ---------------------------------------------------------| ------ | ------- |
+| Plugins can't be downloaded via npm                      |   [ ]  |   [x]   |
+| Gulp.js must be installed globally and locally           |   [x]  |   [ ]   |
+| Running task 'gulp' will run first task on the gulpfile  |   [ ]  |   [x]   |
+| It is possible to run multiple tasks at the same time    |   [x]  |   [ ]   |
