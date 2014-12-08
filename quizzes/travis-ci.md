@@ -12,6 +12,8 @@ What is Travis CI?
 | It fetch repository changes and runs test/build scripts      |   [x]  |   [ ]   |
 | It only works with GitHub                                    |   [x]  |   [ ]   |
 
+> Basics
+
 ---
 
 ---
@@ -24,6 +26,8 @@ How to use it?
 | Insert configurations into travis.json file                        |   [ ]  |   [x]   |
 | You must insert badge to readme.md to get Travis CI working        |   [ ]  |   [x]   |
 
+> Try it yourself
+
 ---
 
 ---
@@ -35,5 +39,7 @@ What is the benefit of using Travis CI?
 | It will automatically run tests and notify if they fail  |   [x]  |   [ ]   |
 | It will fix bugs                                         |   [ ]  |   [x]   |
 | It can save time when building apps                      |   [x]  |   [ ]   |
+
+> It is not magic box...
 
 ---
