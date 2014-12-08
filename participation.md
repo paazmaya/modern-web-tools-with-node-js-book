@@ -25,14 +25,14 @@ Github username | Presented | Material linked | Quiz done
 [SkyFire-][]    | [x]       | [x]             | [ ]
 [jhaap][]       | [x]       | [ ]             | [ ]
 [jukra][]       | [x]       | [x]             | [x]
-[merilainen-metropolia][] | [ ] | [x]         | [ ]
+[merilainen-metropolia][] | [x] | [x]         | [x]
 [mpiivonen][]   | [x]       | [x]             | [ ]
 [olemstrom][]   | [x]       | [x]             | [ ]
 [rafuke][]      | [ ]       | [ ]             | [ ]
 [tariel][]      | [x]       | [x]             | [x]
 [tomter][]      | [x]       | [x]             | [ ]
 [tuukkalai][]   | [ ]       | [ ]             | [ ]
-[tuunanen][]    | [ ]       | [x]             | [x]
+[tuunanen][]    | [x]       | [x]             | [x]
 [onnia][]       | [ ]       | [ ]             | [ ]
 
 ## [Lecture 2 - Github forks and pull requests](lectures/2014-09-02.md)
@@ -46,7 +46,7 @@ Github username | Task 1-2 | Task 3-4 | Task 5, 7
 [SkyFire-][] |  |  |
 [jhaap][] |  |  |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js/commit/c4f465f55b4f69a41eb115ceb27335e0e319cc63) | [x](https://github.com/jukra/hello-node-js/releases/tag/0.1.0) | [x](https://github.com/jukra/hello-node-js-1/commit/6dcd7ad3d07474958cb2f8fd51da969ac2f3bb4b)
-[merilainen-metropolia][] |  |  |
+[merilainen-metropolia][] |[x](https://github.com/merilainen-metropolia/repo/commit/1c8482775d13731f8d0342bdec9bfc649e257ac5) | [x](https://github.com/merilainen-metropolia/repo-2/releases/tag/v0.1.0)  | [x](https://github.com/tuunanen/TT00CC06-3001/pull/1)
 [mpiivonen][] | [x](https://github.com/mpiivonen/nodejs2/commit/efe8d9804f722c66a1b6192c1e27f87d83fced9e)  |  [x](https://github.com/mpiivonen/nodejs2/releases/tag/v0.1.0)  | [x](https://github.com/Markoham/TestRepo2/pull/1)
 [olemstrom][] | [x](https://github.com/olemstrom/node-tyokalut-lect2) |[x](https://github.com/olemstrom/node-tyokalut-lect2/releases)  |[x](https://github.com/olemstrom/tunti3)
 [rafuke][] |  |  |
@@ -68,7 +68,7 @@ Github username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 [SkyFire-][] |  |    |    |    |
 [jhaap][] |  |    |    |    |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [x](https://github.com/jukra/hello-node-js/commit/cc3df9c4fd92d0c0e8be6a639f04f17adef4d810)  |  [x](https://github.com/jukra/hello-node-js/commit/afd6bd191dd150d2747314305eef35a50380c854)  |  [x](https://github.com/jukra/hello-node-js/blob/753d66358fae15ca142b670b31a59dcb07cb33ad/task-4.js)  |  [x](https://github.com/jukra/hello-node-js/commit/86bd0140f189eae0520c2c42754a4a1873a0d95e)
-[merilainen-metropolia][] |  |    |    |    |
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/task-1.js) | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/task-2.js)   | [x](https://github.com/merilainen-metropolia/hello-node-js)   |    |
 [mpiivonen][] | [x](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-1) | [x](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-2)   | [x](https://github.com/mpiivonen/NodeJS-Kurssi/tree/Lecture-3-Task-3)   | [x](https://github.com/Markoham/hello-node-js/pull/1)   |
 [olemstrom][] |[x](https://github.com/olemstrom/lect3/blob/master/hello_world.js) |[x](https://github.com/olemstrom/lect3/blob/master/double.js)    |[x](https://github.com/olemstrom/lect3/blob/master/last_modification_app.js)    |[x](https://github.com/olemstrom/tunti3)    |
 [rafuke][] |  |    |    |    |
@@ -90,7 +90,7 @@ Github username | Task 1 | Task 2
 [SkyFire-][] |  |
 [jhaap][] |  |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js) | [x](https://github.com/jukra/gulp-minify-css/commit/f59052132eccd2d85a6140e0c2db3756e8ed1cf2)
-[merilainen-metropolia][] |  |
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js) | [x](https://github.com/nenv/ncht/pull/1)
 [mpiivonen][] |[x](https://github.com/mpiivonen/hello-node-js/tree/Lecture-4-Task-1)  |
 [olemstrom][] |[x](https://github.com/olemstrom/lect4/blob/master/README.md)  |[x](https://github.com/olemstrom/Vocoder)
 [rafuke][] |  |
@@ -110,7 +110,7 @@ Github username | Task
 [SkyFire-][] |
 [jhaap][] |
 [jukra][] |  [x](https://github.com/jukra/nodejsform/)
-[merilainen-metropolia][] |
+[merilainen-metropolia][] | [x](https://github.com/jukra/nodejsform/)
 [mpiivonen][] |  [x](https://github.com/Markoham/Lecture-5-WebServer)
 [olemstrom][] | [x](https://github.com/HeikkiAlanen/node-form-submit)
 [rafuke][] |
@@ -131,7 +131,7 @@ Github username | Task 1 | Task 2
 [SkyFire-][] |  |
 [jhaap][] |  |
 [jukra][] | [x](https://github.com/jukra/hello-node-js-2) | [x](https://github.com/jukra/hello-node-js/commit/74cbe91cfb7ec874e4ce6ac49f87899289512031)
-[merilainen-metropolia][] |  |
+[merilainen-metropolia][] | [x](https://github.com/FezVrasta/snackbarjs/pull/3) | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/gulp-comparison.js)
 [mpiivonen][] |[x](https://github.com/Markoham/hello-node-js/pull/3)  | [x](https://github.com/mpiivonen/hello-node-js/tree/Lecture-4-Task-1)
 [olemstrom][] |[x](https://github.com/HeikkiAlanen/node-form-submit/pull/8)  |[x](https://github.com/olemstrom/lect6/blob/master/gulp-comparison.js)
 [rafuke][] |  |
@@ -152,7 +152,7 @@ Github username | Task 1-2
 [SkyFire-][] |
 [jhaap][] |
 [jukra][] | [x](https://github.com/jukra/hello-node-js/commit/ebf71c1145fb524c8b89bf3a27ab39a40c2519f8)
-[merilainen-metropolia][] |
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)
 [mpiivonen][] |
 [olemstrom][] |[x](https://github.com/olemstrom/lect7)
 [rafuke][] |
@@ -171,13 +171,13 @@ Github username  | Task 1   | Task 2
 [SkyFire-][]     |   |
 [jhaap][]        |   |
 [jukra][]        | [x](https://github.com/jukra/hello-node-js/commit/623f8517d77a5c5d2bb8e7eb1f879650021ed863)   | [x](https://github.com/yuanfang829/html-compress/issues/1)
-[merilainen-metropolia][] |   |
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)  | [x](https://github.com/chilijung/json-segment/issues/4)
 [mpiivonen][]    |   |
 [olemstrom][]    |   |
 [rafuke][]       |   |
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [x](https://github.com/andreareginato/simple-oauth2/pull/25)
 [tuukkalai][]    |   |
-[tuunanen][]     |   |
+[tuunanen][]     | [x](https://github.com/tuunanen/hello-node-js/commit/660c274f4a153bf4a96c232e9f15ce8573f1451f) | [x](https://github.com/matthewkastor/object-merge/pull/4)
 [onnia][]        |   |
 
 ## [Lecture 9 - Package dependencies](lectures/2014-10-21.md)
@@ -190,7 +190,7 @@ Github username  | Task 1   | Task 2   | Task 3
 [SkyFire-][]     |   |   |
 [jhaap][]        |   |   |
 [jukra][]        | [x](https://github.com/jukra/hello-node-js/commit/a98586743338e6878cba0083487b7a184abc3f31) | [x](https://github.com/justinanastos/staged-github-files/issues/1) | [x](https://github.com/jukra/hello-node-js/commit/157579bacd88f4f330e264dcea3981c8feba41f4)
-[merilainen-metropolia][] |   |   |
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)  |[x](https://github.com/jonschlinkert/template/issues/7) | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)
 [mpiivonen][]    |   |   |
 [olemstrom][]    |   |   |
 [rafuke][]       |   |   |
@@ -209,13 +209,13 @@ Github username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [SkyFire-][]     |   |   |   | 
 [jhaap][]        |   |   |   | 
 [jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
-[merilainen-metropolia][] |   |   |   | 
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/nodejsform)  | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)  | [x](https://github.com/merilainen-metropolia/hello-node-js)  | [x](http://merilainen-metropolia.github.io/hello-node-js/)
 [mpiivonen][]    |   |   |   | 
 [olemstrom][]    |   [x](https://github.com/HeikkiAlanen/node-form-submit/pull/9)|   [x](https://github.com/olemstrom/lect3/blob/master/frontend_pkg_managers)|   [x](https://github.com/olemstrom/lect7)|[x](http://olemstrom.github.io/lect7/) 
 [rafuke][]       |   |   |   | 
 [tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a1830)  | 
 [tuukkalai][]    |   |   |   | 
-[tuunanen][]     |   |   |   | 
+[tuunanen][]     | [x](https://github.com/HeikkiAlanen/node-form-submit/pull/10) | [x](https://github.com/tuunanen/hello-node-js/blob/master/README.md) |   | 
 [onnia][]        |   |   |   | 
 
 
@@ -229,13 +229,13 @@ Github username  | Task 1   | Task 2
 [SkyFire-][]     |   | 
 [jhaap][]        |   | 
 [jukra][]        |  [X](https://github.com/jukra/hello-node-js/commit/7c3e34da8cee3af1137ddcf943e4d2ca88229b4a)|[X](https://github.com/jukra/hello-node-js/commit/5dc824f6c0e619ea86ba4197aa8ace8df0ee1eb2) 
-[merilainen-metropolia][] |   | 
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)  | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/measure-site.js) 
 [mpiivonen][]    |   | 
 [olemstrom][]    |   [x](https://github.com/olemstrom/lect3/blob/master/README.md)|[x](https://github.com/olemstrom/lect11_loadspeed) 
 [rafuke][]       |   | 
 [tariel][]       |   | 
 [tuukkalai][]    |   | 
-[tuunanen][]     |   | 
+[tuunanen][]     | [x](https://github.com/tuunanen/hello-node-js/blob/master/README.md) | [x](https://github.com/tuunanen/hello-node-js/commit/46d5581ab3b646165f5ebbe7fe1b2e2ccfe7c79e)
 [onnia][]        |   | 
 
 
@@ -249,7 +249,7 @@ Github username  | Task 1   | Task 2  | Task 3
 [SkyFire-][]     |   |   | 
 [jhaap][]        |   |   | 
 [jukra][]        |  [X](https://github.com/jukra/valid-email/commit/6862365a42915b7ab1beae95fe198f6638d5991a) | [X](https://github.com/jukra/valid-email/commit/6862365a42915b7ab1beae95fe198f6638d5991a)  | [X](https://coveralls.io/r/jukra/valid-email?branch=master)
-[merilainen-metropolia][] |   |   | 
+[merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/json-segment/commit/1ec8ab37e51243e07b76b4b00d5d016828c96efa)  | [x](https://github.com/merilainen-metropolia/json-segment/blob/master/package.json)  | [x](https://coveralls.io/r/merilainen-metropolia/json-segment) 
 [mpiivonen][]    |   |   | 
 [olemstrom][]    |   |   | 
 [rafuke][]       |   |   | 
