@@ -15,6 +15,7 @@ Gulp.js basics
 | Is website builder                              |   [ ]  |   [x]   |
 
 ---
+
 ---
 
 Gulpfile
@@ -27,6 +28,7 @@ Gulpfile
 | Tasks can be only Gulp plugins                  |   [ ]  |   [x]   |
 
 ---
+
 ---
 
 Using Gulp.js
@@ -37,3 +39,5 @@ Using Gulp.js
 | Gulp.js must be installed globally and locally           |   [x]  |   [ ]   |
 | Running task 'gulp' will run first task on the gulpfile  |   [ ]  |   [x]   |
 | It is possible to run multiple tasks at the same time    |   [x]  |   [ ]   |
+
+---
