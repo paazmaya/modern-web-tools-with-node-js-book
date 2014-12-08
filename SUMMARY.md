@@ -32,6 +32,8 @@
   * [ESLint quiz](quizzes/eslint.md)
   * [Gulp](quizzes/gulp-tasks.md)
   * [JavaScript type quiz](quizzes/javascript-types.md)
+  * [JSLint and JSHint quiz](quizzes/jslint-jshint.md)
   * [npm basic commands quiz](quizzes/npm-commands.md)
   * [Sitespeed.io quiz](quizzes/sitespeedio-webperf.md)
+  * [Travis CI](quizzes/travis-ci.md)
 * [Participation](participation.md)
