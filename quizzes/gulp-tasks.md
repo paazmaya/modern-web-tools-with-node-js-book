@@ -14,6 +14,8 @@ Gulp.js basics
 | `Uses Node.js stream API`                         |   [x]  |   [ ]   |
 | `Is website builder`                              |   [ ]  |   [x]   |
 
+> Basics
+
 ---
 
 ---
@@ -27,6 +29,8 @@ Gulpfile
 | `Gulpfile is like JSON styled file`               |   [ ]  |   [x]   |
 | `Tasks can be only Gulp plugins`                  |   [ ]  |   [x]   |
 
+> Checkout the presentation
+
 ---
 
 ---
@@ -39,5 +43,7 @@ Using Gulp.js
 | `Gulp.js must be installed globally and locally`           |   [x]  |   [ ]   |
 | `Running task 'gulp' will run first task on the gulpfile`  |   [ ]  |   [x]   |
 | `It is possible to run multiple tasks at the same time`    |   [x]  |   [ ]   |
+
+> Try it yourself
 
 ---
