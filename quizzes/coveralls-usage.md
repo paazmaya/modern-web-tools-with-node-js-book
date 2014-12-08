@@ -36,7 +36,7 @@ You can use Coveralls.io for example with..
 
 |                                                           | `true` | `false` |
 | ----------------------------------------------------------| ------ | ------- |
-| `Mocha + JSCoverage`             ´                        |  [x]   |  [ ]    |
+| `Mocha + JSCoverage`                                      |  [x]   |  [ ]    |
 | `Istanbul + Nodeunit`                                     |  [x]   |  [ ]    |
 | `lab`                                                     |  [x]   |  [ ]    |
 
