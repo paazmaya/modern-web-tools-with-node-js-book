@@ -12,6 +12,8 @@ CSSmin can be used to
 | unminify your CSS files                                   |  [ ]   |  [x]    |
 | minimize specific files or all css files                  |  [x]   |  [ ]    |
 
+> Get it right!
+
 ---
 
 ---
@@ -24,6 +26,8 @@ By minimizing your CSS files
 | your site is more secure                                  |  [ ]   |  [x]    |
 | your site looks cooler                                    |  [ ]   |  [x]    |
 
+> Get these right also!
+
 ---
 
 ---
@@ -35,5 +39,7 @@ You can use CSSmin with
 | Gulp                                                      |  [x]   |  [ ]    |
 | Grunt                                                     |  [x]   |  [ ]    |
 | Node.js                                                   |  [x]   |  [ ]    |
+
+> Catch em all!
 
 ---
