@@ -6,10 +6,11 @@ A quiz about continuous integration tool Travis CI
 
 What is Travis CI?
 
-|                                                | `true` | `false` |
-| -----------------------------------------------| ------ | ------- |
-| Integration tool only for Node.js projects     |   [ ]  |   [x]   |
-| It is free for all public repos on GitHub      |   [x]  |   [ ]   |
+|                                                              | `true` | `false` |
+| -------------------------------------------------------------| ------ | ------- |
+| Integration tool only for Node.js projects                   |   [ ]  |   [x]   |
+| It fetch repository changes and runs test/build scripts      |   [x]  |   [ ]   |
+| It only works with GitHub                                    |   [x]  |   [ ]   |
 
 ---
 ---
