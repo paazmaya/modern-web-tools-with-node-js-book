@@ -13,6 +13,7 @@ What is Travis CI?
 | It only works with GitHub                                    |   [x]  |   [ ]   |
 
 ---
+
 ---
 
 How to use it?
@@ -24,6 +25,7 @@ How to use it?
 | You must insert badge to readme.md to get Travis CI working        |   [ ]  |   [x]   |
 
 ---
+
 ---
 
 What is the benefit of using Travis CI?
@@ -33,3 +35,5 @@ What is the benefit of using Travis CI?
 | It will automatically run tests and notify if they fail  |   [x]  |   [ ]   |
 | It will fix bugs                                         |   [ ]  |   [x]   |
 | It can save time when building apps                      |   [x]  |   [ ]   |
+
+---
