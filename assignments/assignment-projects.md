@@ -22,7 +22,7 @@ Write in the format `[First name Last name initial](link-to-repository "Project 
 * [Jukka R](https://github.com/jukra/web-tweak-n-optimize "Optimize & tweak your css, js, html and image files")
 * [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
 * [Markus I](https://github.com/mpiivonen/twitter-data "To get twitter streams and preprocess them")
-* [Maxim D](https://github.com/tariel/the-noun-sprite "Sprite generator for the Noun Project")
+* [Maxim D](https://github.com/tariel/trellotracker "Track time spent on your Trello cards")
 * [Onni A](https://github.com/onnia/Local-upload-folder "Image folder that optimizes them to web gallery ")
 * [Oona L](https://github.com/Oona/image-manager/tree/feature-first-assignment "Image manager - manage images in your project")
 * [Oscar L](https://github.com/olemstrom/node-htmlbatchedit "Batch edit HTML files")
