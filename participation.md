@@ -153,7 +153,7 @@ Github username | Task 1-2
 [jhaap][] |
 [jukra][] | [x](https://github.com/jukra/hello-node-js/commit/ebf71c1145fb524c8b89bf3a27ab39a40c2519f8)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)
-[mpiivonen][] |
+[mpiivonen][] | [x] (https://github.com/mpiivonen/hello-node-js/tree/Lecture-7-Task-1)
 [olemstrom][] |[x](https://github.com/olemstrom/lect7)
 [rafuke][] |
 [tariel][] | [x](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
