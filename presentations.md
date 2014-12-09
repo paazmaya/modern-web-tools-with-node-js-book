@@ -44,5 +44,5 @@ List of possible subjects, with approximate chronological order and grouped by s
 - [Coveralls.io](https://speakerdeck.com/jukra/coveralls-dot-io) (Jukka Rautanen - 4.11.2014)
 
 - CouchDB
-- MongoDB / Mongoose Markus, Marko 18.11.2014.
+- [MongoDB / Mongoose](https://github.com/Markoham/NodeJS-Presentation-MongoDB) Markus, Marko 18.11.2014.
 - Crypto (Oscar Lemström 18.11.2014)

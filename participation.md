@@ -153,7 +153,7 @@ Github username | Task 1-2
 [jhaap][] |
 [jukra][] | [x](https://github.com/jukra/hello-node-js/commit/ebf71c1145fb524c8b89bf3a27ab39a40c2519f8)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)
-[mpiivonen][] |
+[mpiivonen][] | [x] (https://github.com/mpiivonen/hello-node-js/tree/Lecture-7-Task-1)
 [olemstrom][] |[x](https://github.com/olemstrom/lect7)
 [rafuke][] |
 [tariel][] | [x](https://github.com/tariel/nodejs-session3/commit/34d26557ea0b417f39158d9c31f765254af40a5d)
@@ -191,7 +191,7 @@ Github username  | Task 1   | Task 2   | Task 3
 [jhaap][]        |   |   |
 [jukra][]        | [x](https://github.com/jukra/hello-node-js/commit/a98586743338e6878cba0083487b7a184abc3f31) | [x](https://github.com/justinanastos/staged-github-files/issues/1) | [x](https://github.com/jukra/hello-node-js/commit/157579bacd88f4f330e264dcea3981c8feba41f4)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)  |[x](https://github.com/jonschlinkert/template/issues/7) | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)
-[mpiivonen][]    |   |   |
+[mpiivonen][]    |  [x](https://github.com/mpiivonen/hello-node-js/blob/master/README.md) |[x](https://github.com/marsanla/sails-elasticsearch/issues/1)   |
 [olemstrom][]    |   |   |
 [rafuke][]       |   |   |
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/1b1616fc051499430d61e8be3763e61a176d0103)  | [x](https://github.com/andreareginato/simple-oauth2/pull/27) | [x](https://github.com/tariel/nodejs-session3/commit/56e1a8d7b0e375183da3e76c6d1e779d19832593)
