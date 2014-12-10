@@ -91,7 +91,7 @@ Github username | Task 1 | Task 2
 [jhaap][] |  |
 [jukra][] |  [x](https://github.com/jukra/hello-node-js) | [x](https://github.com/jukra/gulp-minify-css/commit/f59052132eccd2d85a6140e0c2db3756e8ed1cf2)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js) | [x](https://github.com/nenv/ncht/pull/1)
-[mpiivonen][] |[x](https://github.com/mpiivonen/hello-node-js/tree/Lecture-4-Task-1)  |
+[mpiivonen][] |[x](https://github.com/mpiivonen/hello-node-js/tree/Lecture-4-Task-1)  | [x](https://github.com/mpiivonen/async/blob/master/.jshintrc)
 [olemstrom][] |[x](https://github.com/olemstrom/lect4/blob/master/README.md)  |[x](https://github.com/olemstrom/Vocoder)
 [rafuke][] |  |
 [tariel][] |  | [x](https://github.com/tariel/nodejs-session3/commit/799af7aebecf4b793375cea5adc131bc84e3da3e)
