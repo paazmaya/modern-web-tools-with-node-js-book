@@ -8,7 +8,7 @@ This page should contain links to the projects that are made in order to complet
 * [First assignment description](2014-09-16.md)
 * [Second assignment description](2014-10-07.md)
 * [Third assignment description](2014-10-28.md)
-* [Fourth sssignment description](2014-11-18.md)
+* [Fourth assignment description](2014-11-18.md)
 
 ### Projects
 
