@@ -8,7 +8,7 @@ Each lesson should have two to three presentations.
 
 List of possible subjects, with approximate chronological order and grouped by subject:
 
-- Github forks and pull request - 2/9/2014 jhaap
+- GitHub forks and pull request - 2/9/2014 jhaap
 
 - npm - 9/9/2014 Oona [npm basics](https://speakerdeck.com/oona/npm-basics)
   - [Name expansions of `npm`](https://github.com/npm/npm-expansions/blob/master/index.json)

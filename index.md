@@ -16,7 +16,7 @@ Any questions that might come up during or between the lectures, please open an 
 that the subject would be useful for everyone.
 
 1. [26/08 - Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
-2. [02/09 - Github forks and pull requests](lectures/2014-09-02.md)
+2. [02/09 - GitHub forks and pull requests](lectures/2014-09-02.md)
 3. [09/09 - Modules and npm](lectures/2014-09-09.md)
 4. [16/09 - Code validation, conventions, linting](lectures/2014-09-16.md)
 5. [23/09 - HTTP, Connect, Express](lectures/2014-09-23.md)
@@ -36,7 +36,7 @@ that the subject would be useful for everyone.
 ## Assignments
 
 The course contains four assignments, which are given in three weeks cycles.
-Each assignment should be returned in two weeks when it has been given, preferably via Github.
+Each assignment should be returned in two weeks when it has been given, preferably via GitHub.
 
 1. [First assignment, given in 16th Sep](assignments/2014-09-16.md)
 2. [Second assignment, given in 7th Oct](assignments/2014-10-07.md)
@@ -63,7 +63,7 @@ Once a presentation has been held, the material should be linked in the above li
   Gulp, Bower and Jasmine in order to reduce the time used for repetitive tasks and to increase code quality.
 * The student can create small scripts and plugins that can be used via command line.
 * The student can publish their own tools and keep them up to date via version control systems.
-* The student learns how to use Github service for group work.
+* The student learns how to use GitHub service for group work.
 
 ## Evaluation criteria
 
