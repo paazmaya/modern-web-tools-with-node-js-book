@@ -46,3 +46,4 @@ List of possible subjects, with approximate chronological order and grouped by s
 - CouchDB
 - [MongoDB / Mongoose](https://github.com/Markoham/NodeJS-Presentation-MongoDB) Markus, Marko 18.11.2014.
 - Crypto (Oscar Lemström 18.11.2014)
+- [npm registry](http://slides.com/oonaluostarinen/npm-registry#/) (Oona - 9.2.2014)
