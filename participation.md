@@ -172,7 +172,7 @@ GitHub username  | Task 1   | Task 2
 [jhaap][]        |   |
 [jukra][]        | [x](https://github.com/jukra/hello-node-js/commit/623f8517d77a5c5d2bb8e7eb1f879650021ed863)   | [x](https://github.com/yuanfang829/html-compress/issues/1)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js)  | [x](https://github.com/chilijung/json-segment/issues/4)
-[mpiivonen][]    | [x](https://github.com/mpiivonen/hello-node-js/tree/Lecture-7-Task-1)  |
+[mpiivonen][]    | [x](https://github.com/mpiivonen/hello-node-js/tree/Lecture-7-Task-1)  | [x](https://github.com/marsanla/sails-elasticsearch/issues/2)
 [olemstrom][]    |   |
 [rafuke][]       |   |
 [tariel][]       | [x](https://github.com/tariel/nodejs-session3/commit/50c00db4618ec10de42b4f86ad31bb2fac89fa8c) | [x](https://github.com/andreareginato/simple-oauth2/pull/25)
@@ -210,7 +210,7 @@ GitHub username  | Front end 1   | Front end 2   | Code cover 1  | Code cover 2
 [jhaap][]        |   |   |   |
 [jukra][]        | [X](https://github.com/jukra/nodejsform)  | [X](https://github.com/jukra/hello-node-js/commit/d13cddf36c42547f5310eb1bbe15775bb3759f4e)  | [X](https://github.com/jukra/hello-node-js/commit/0c8e3c89cbd2f0e38a1b52ff4426e2daf3d2ca7b)   | [X](http://jukra.github.io/hello-node-js/)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/nodejsform)  | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)  | [x](https://github.com/merilainen-metropolia/hello-node-js)  | [x](http://merilainen-metropolia.github.io/hello-node-js/)
-[mpiivonen][]    |   |   |   |
+[mpiivonen][]    |   |   |[x](https://github.com/mpiivonen/hello-node-js/commit/787997b9dec10738b3623b0cab986b66615ac73a#diff-3)   | [x](http://mpiivonen.github.io/hello-node-js/)
 [olemstrom][]    |   [x](https://github.com/HeikkiAlanen/node-form-submit/pull/9)|   [x](https://github.com/olemstrom/lect3/blob/master/frontend_pkg_managers)|   [x](https://github.com/olemstrom/lect7)|[x](http://olemstrom.github.io/lect7/)
 [rafuke][]       |   |   |   |
 [tariel][]       | [x](https://github.com/tariel/connect-feedback/commit/7c235e26e56df851f2da0a33daca1f57c3e0aede) |   | [x](https://github.com/tariel/nodejs-session3/commit/a1830)  |
@@ -230,7 +230,7 @@ GitHub username  | Task 1   | Task 2
 [jhaap][]        |   |
 [jukra][]        |  [X](https://github.com/jukra/hello-node-js/commit/7c3e34da8cee3af1137ddcf943e4d2ca88229b4a)|[X](https://github.com/jukra/hello-node-js/commit/5dc824f6c0e619ea86ba4197aa8ace8df0ee1eb2)
 [merilainen-metropolia][] | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/README.md)  | [x](https://github.com/merilainen-metropolia/hello-node-js/blob/master/measure-site.js)
-[mpiivonen][]    |   |
+[mpiivonen][]    |[x](https://github.com/mpiivonen/hello-node-js)   | [x](https://github.com/mpiivonen/hello-node-js/blob/master/measure-site.js)
 [olemstrom][]    |   [x](https://github.com/olemstrom/lect3/blob/master/README.md)|[x](https://github.com/olemstrom/lect11_loadspeed)
 [rafuke][]       |   |
 [tariel][]       |   |
