@@ -56,6 +56,12 @@ students accoring to their own wishes. Please open a pull request for marking yo
 
 Once a presentation has been held, the material should be linked in the above list.
 
+## Pre-recorded presentations
+
+Each lecture contains one or two relevant presentations that are presented by inspiring people around the Node.js community.
+
+Based on the contents of the presentations, each subject has quizzes and excersices.
+
 ## Targets defined as course delivery
 
 * The student is able to recognise the possibilities available via Node.js in a user interface development.
@@ -82,7 +88,7 @@ and other studying activities during the lessons.
 
 ### Good
 
-- The student can publish their own tool to the NPM repository
+- The student can publish their own tool to the npm registry
 - The student can create tests for their own tools/plugins
 - The student can use the Node.js API efficiently and find methods that work for the given task
 

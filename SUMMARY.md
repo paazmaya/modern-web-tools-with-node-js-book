@@ -1,6 +1,6 @@
 # Summary
 
-* [Course Definition](index.md)
+* [Course Overview](overview.md)
 * Lectures
   * [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
   * [GitHub forks and pull requests](lectures/2014-09-02.md)
