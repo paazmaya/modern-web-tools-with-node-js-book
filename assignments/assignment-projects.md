@@ -27,7 +27,7 @@ Write in the format `* [First name Last name initial](link-to-repository "Projec
 * [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
   * [gulp-carpo-logger](https://github.com/Markoham/gulp-carpo-logger)
 * [Markus I](https://github.com/mpiivonen/twitter-data "To get twitter streams and preprocess them")
-  * []()
+  * [gulp-twitter-data](https://github.com/mpiivonen/gulp-twitter-data)
 * [Maxim D](https://github.com/tariel/trellotracker "Track time spent on your Trello cards")
   * []()
 * [Onni A](https://github.com/onnia/Local-upload-folder "Image folder that optimizes them to web gallery ")
