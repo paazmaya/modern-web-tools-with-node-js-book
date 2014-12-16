@@ -8,7 +8,7 @@ Each lesson should have two to three presentations.
 
 List of possible subjects, with approximate chronological order and grouped by subject:
 
-- Github forks and pull request - 2/9/2014 jhaap
+- GitHub forks and pull request - 2/9/2014 jhaap
 
 - npm - 9/9/2014 Oona [npm basics](https://speakerdeck.com/oona/npm-basics)
   - [Name expansions of `npm`](https://github.com/npm/npm-expansions/blob/master/index.json)
@@ -44,5 +44,6 @@ List of possible subjects, with approximate chronological order and grouped by s
 - [Coveralls.io](https://speakerdeck.com/jukra/coveralls-dot-io) (Jukka Rautanen - 4.11.2014)
 
 - CouchDB
-- MongoDB / Mongoose Markus, Marko 18.11.2014.
+- [MongoDB / Mongoose](https://github.com/Markoham/NodeJS-Presentation-MongoDB) Markus, Marko 18.11.2014.
 - Crypto (Oscar Lemström 18.11.2014)
+- [npm registry](http://slides.com/oonaluostarinen/npm-registry#/) (Oona - 9.2.2014)

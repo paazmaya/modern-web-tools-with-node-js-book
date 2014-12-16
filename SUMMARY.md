@@ -1,9 +1,9 @@
 # Summary
 
-* [Course Definition](index.md)
+* [Course Overview](overview.md)
 * Lectures
   * [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
-  * [Github forks and pull requests](lectures/2014-09-02.md)
+  * [GitHub forks and pull requests](lectures/2014-09-02.md)
   * [Modules and npm](lectures/2014-09-09.md)
   * [Code validation, conventions, linting](lectures/2014-09-16.md)
   * [HTTP, Connect, Express](lectures/2014-09-23.md)
@@ -32,6 +32,8 @@
   * [ESLint quiz](quizzes/eslint.md)
   * [Gulp](quizzes/gulp-tasks.md)
   * [JavaScript type quiz](quizzes/javascript-types.md)
+  * [JSLint and JSHint quiz](quizzes/jslint-jshint.md)
   * [npm basic commands quiz](quizzes/npm-commands.md)
   * [Sitespeed.io quiz](quizzes/sitespeedio-webperf.md)
+  * [Travis CI](quizzes/travis-ci.md)
 * [Participation](participation.md)
