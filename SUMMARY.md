@@ -1,9 +1,9 @@
 # Summary
 
-* [Course Definition](index.md)
+* [Course Overview](overview.md)
 * Lectures
   * [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
-  * [Github forks and pull requests](lectures/2014-09-02.md)
+  * [GitHub forks and pull requests](lectures/2014-09-02.md)
   * [Modules and npm](lectures/2014-09-09.md)
   * [Code validation, conventions, linting](lectures/2014-09-16.md)
   * [HTTP, Connect, Express](lectures/2014-09-23.md)
