@@ -166,7 +166,7 @@ GitHub username | Task 1-2
 GitHub username  | Task 1   | Task 2
 -----------------|----------|--------
 [HeikkiAlanen][] | [x](https://github.com/HeikkiAlanen/hello-node-js/commit/80548bdc6fa7df2b0de60d8b55881dba9c2479bc)  | [x](https://github.com/harthur/nomnom/issues/50)
-[Markoham][]     | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-8-Task-1) |
+[Markoham][]     | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-8-Task-1) | [x](https://github.com/aliaksandr-pasynkau/node-verifier/issues/1)
 [Oona][]         | [x](https://github.com/Oona/hello-node-js/commit/2673dc4b87b73457e8761f9c7ea9d75321395092)  | [x](https://github.com/atuttle/node-trello-slack/pull/2)
 [SkyFire-][]     |   |
 [jhaap][]        |   |
