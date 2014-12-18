@@ -85,7 +85,7 @@ GitHub username | Task 1 | Task 2 | Task 3 | Task 4 | Task 5-6
 GitHub username | Task 1 | Task 2
 ----------------|--------|---------
 [HeikkiAlanen][] |  [x](https://github.com/HeikkiAlanen/hello-node-js/commit/c8921ff6670904357745a92af0283713de4a3b32) |  [x](https://github.com/hacksparrow/node-easyimage/pull/39)
-[Markoham][] | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-4-Task-1) |
+[Markoham][] | [x](https://github.com/Markoham/hello-node-js/tree/Lecture-4-Task-1) | [x](https://github.com/Markoham/lodash/commit/93405e7dfceca7b11dcc67c134907d516c9738f4)
 [Oona][] | [x](https://github.com/Oona/hello-node-js/commit/4304af106ccf94c0a347682ef6dad7a3e83876ed) | [x](https://github.com/Oona/foundation/commit/1288017e9b32e702d54641eb7eb39e474a2c2f95)
 [SkyFire-][] |  |
 [jhaap][] |  |
