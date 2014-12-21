@@ -45,7 +45,7 @@ Package.json has following setting available
 | `dependencies`        |  [x]   |  [ ]   |
 | `testdependencies`    |  [ ]   |  [x]   |
 | `devdependencies`     |  [x]   |  [ ]   |
-| `debugdependencies    |  [ ]   |  [x]   |
+| `debugdependencies`   |  [ ]   |  [x]   |
 | `peerdependencies`    |  [x]   |  [ ]   |
 | `bundleddependencies` |  [x]   |  [ ]   |
 
