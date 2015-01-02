@@ -21,7 +21,7 @@ Write in the format `* [First name Last name initial](link-to-repository "Projec
 * [Jarkko T](https://github.com/tuunanen/camelton "Generate and synchronize data skeletons across files")
   * [grunt-camelton](https://github.com/tuunanen/grunt-camelton)
 * [Joonas M](https://github.com/merilainen-metropolia/trelloler "Automatically add necessary tasks into Trello")
-  * []()
+  * [grunt-trelloler](https://github.com/merilainen-metropolia/grunt-trelloler "Log tasks to trello")
 * [Jukka R](https://github.com/jukra/web-tweak-n-optimize "Optimize & tweak your css, js, html and image files")
   * [gulp-web-tweak-n-optimize](http://github.com/jukra/gulp-web-tweak-n-optimize)
 * [Marko H](https://github.com/Markoham/carpo-logger "Node.js Advanced Logger")
