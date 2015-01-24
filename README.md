@@ -33,3 +33,7 @@ Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96
 
 - [Awesome list about Node.js things, which most likely will help to find the correct tool any of the tasks in this book.](https://github.com/sindresorhus/awesome-nodejs "A curated list of delightful Node.js packages and resources")
 - [GitHub Student Developer Pack offer](https://education.github.com/pack "GitHub Student Developer Pack offer")
+
+## Contributing
+
+[Please refer to a GitHub blog post on how to create somewhat perfect pull request.](https://github.com/blog/1943-how-to-write-the-perfect-pull-request "How to write the perfect pull request")
