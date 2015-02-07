@@ -15,7 +15,7 @@ Please see [index.md](index.md) for further contents.
 
 [![Build Status](https://www.gitbook.io/button/status/book/paazmaya/modern-web-tools-with-node-js)](https://www.gitbook.io/book/paazmaya/modern-web-tools-with-node-js/activity)
 [![Dependency Status](https://img.shields.io/gemnasium/paazmaya/modern-web-tools-with-node-js-book.svg)](https://gemnasium.com/paazmaya/modern-web-tools-with-node-js-book)
-[![Analytics](https://ga-beacon.appspot.com/UA-2643697-15/modern-web-tools-with-node-js-book/index)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-2643697-15/modern-web-tools-with-node-js-book/index?flat)](https://github.com/igrigorik/ga-beacon)
 
 This project is a [Gitbook](https://www.gitbook.io/), which is published on each `git push` to
 [Modern Web tools with Node.js](http://paazmaya.gitbooks.io/modern-web-tools-with-node-js/ "Modern Web tools with Node.js").
