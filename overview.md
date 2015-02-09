@@ -15,33 +15,33 @@ Lectures are held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 
 Any questions that might come up during or between the lectures, please open an [issue][] if you feel
 that the subject would be useful for everyone.
 
-1. [26/08 - Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
-2. [02/09 - GitHub forks and pull requests](lectures/2014-09-02.md)
-3. [09/09 - Modules and npm](lectures/2014-09-09.md)
-4. [16/09 - Code validation, conventions, linting](lectures/2014-09-16.md)
-5. [23/09 - HTTP, Connect, Express](lectures/2014-09-23.md)
-7. [30/09 - Common task runners](lectures/2014-09-30.md)
-6. [07/10 - Unit testing, Jasmine, PhantomJS](lectures/2014-10-07.md)
-8. [14/10 - Automation and continuous integration](lectures/2014-10-14.md)
-9. [21/10 - Package dependencies](lectures/2014-10-21.md)
-10. [28/10 - Front end third party dependencies and Code coverage](lectures/2014-10-28.md)
-11. [04/11 - Web performance](lectures/2014-11-04.md)
-12. [11/11 - More about unit testing and code coverage](lectures/2014-11-11.md)
-13. [18/11 - Security](lectures/2014-11-18.md)
-14. [25/11 - Database](lectures/2014-11-25.md)
-15. [02/12 - Heroku and other free hosting services](lectures/2014-12-02.md)
-16. [09/12 - Examples for previous tasks](lectures/2014-12-09.md)
-17. [16/12 - Feedback on the projects](lectures/2014-12-16.md)
+1. [Introduction to Node.js and JavaScript](lectures/01-introduction.md)
+2. [GitHub forks and pull requests](lectures/02-github.md)
+3. [Modules and npm](lectures/03-npm.md)
+4. [Code validation, conventions, linting](lectures/04-linting.md)
+5. [HTTP, Connect, Express](lectures/05-express.md)
+7. [Common task runners](lectures/06-task-runners.md)
+6. [Unit testing, Jasmine, PhantomJS](lectures/07-unit-testing.md)
+8. [Automation and continuous integration](lectures/08-continuous-integration.md)
+9. [Package dependencies](lectures/09-package-dependencies.md)
+10. [Front end third party dependencies and Code coverage](lectures/10-front-end-dependencies.md)
+11. [Web performance](lectures/11-web-performance.md)
+12. [More about unit testing and code coverage](lectures/12-code-coverage.md)
+13. [Security](lectures/13-security.md)
+14. [Database](lectures/14-database.md)
+15. [Heroku and other free hosting services](lectures/15-heroku.md)
+16. [Examples for previous tasks](lectures/16-examples.md)
+17. [Feedback on the projects](lectures/17-projects.md)
 
 ## Assignments
 
 The course contains four assignments, which are given in three weeks cycles.
 Each assignment should be returned in two weeks when it has been given, preferably via GitHub.
 
-1. [First assignment, given in 16th Sep](assignments/2014-09-16.md)
-2. [Second assignment, given in 7th Oct](assignments/2014-10-07.md)
-3. [Third assignment, given in 28th Oct](assignments/2014-10-28.md)
-4. [Fourth assignment, given in 18th Nov](assignments/2014-11-18.md)
+1. [First assignment](assignments/1-command-line.md)
+2. [Second assignment](assignments/2-module.md)
+3. [Third assignment](assignments/3-code-coverage.md)
+4. [Fourth assignment](assignments/4-task-runner.md)
 
 [The projects which are used for completing the assignments, are listed here.](assignments/assignment-projects.md)
 
@@ -50,7 +50,7 @@ Each assignment should be returned in two weeks when it has been given, preferab
 Each lecture contains two presentations made by student. Each presentation can last about ~15 minutes.
 
 Presentation subjects are divided according to the themes of each lesson and assigned to the given
-students accoring to their own wishes. Please open a pull request for marking your presentation.
+students according to their own wishes. Please open a pull request for marking your presentation.
 
 [Subjects, presenters and dates.](presentations.md)
 
@@ -60,7 +60,7 @@ Once a presentation has been held, the material should be linked in the above li
 
 Each lecture contains one or two relevant presentations that are presented by inspiring people around the Node.js community.
 
-Based on the contents of the presentations, each subject has quizzes and excersices.
+Based on the contents of the presentations, each subject has quizzes and exercises.
 
 ## Targets defined as course delivery
 

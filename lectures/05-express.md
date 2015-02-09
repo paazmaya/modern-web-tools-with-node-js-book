@@ -101,6 +101,7 @@ Links to the project repositories, along with the group member names.
 * [`http` API documentation](http://nodejs.org/api/http.html "The HTTP interfaces in Node are designed to support many features of the protocol which have been traditionally difficult to use")
 * [GitHub Help - About gists](https://help.github.com/articles/about-gists "Gists are a great way to share your work")
 * [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/ "Express Routing - The Beginners Guide")
+* [Video: Fluent 2014 Introduction to ExpressJS](https://www.youtube.com/watch?v=LB32jTKzJkE "Fluent 2014 Introduction to ExpressJS")
 
 [rt]: https://github.com/expressjs/response-time "Response time header for node.js"
 [bp]: https://github.com/expressjs/body-parser "Node.js body parsing middleware"
