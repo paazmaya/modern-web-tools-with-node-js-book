@@ -40,19 +40,19 @@ var readPackages = function (users, baseDir) {
 
 var requirePackages = function (packages) {
   Object.keys(packages).forEach(function (key) {
-    util.puts();
+    console.log();
     var index = packages[key];
-    util.puts(key + ' - ' + index);
+    console.log(key + ' - ' + index);
 
     try {
       var ins = require(index);
-      util.puts(util.inspect(ins));
+      console.log(util.inspect(ins));
     }
     catch (error) {
-      util.puts(key + ' failed');
-      util.puts(error);
+      console.log(key + ' failed');
+      console.log(error);
     }
-    util.puts();
+    console.log();
   });
 };
 
@@ -62,7 +62,7 @@ util.log(baseDir);
 var users = getDirs(baseDir);
 var packages = readPackages(users, baseDir);
 
-util.puts(util.inspect(packages));
+console.log(util.inspect(packages));
 
 requirePackages(packages);
 

@@ -96,7 +96,7 @@ function checkFilesProperty(dir) {
   var feedbackFile = dir + '/../palaute.md';
   var feedback = '';
 
-  util.puts(util.inspect(pkg));
+  console.log(util.inspect(pkg));
 
   feedback += 'Files property ';
   if (typeof pkg.files === 'object' && pkg.files instanceof Array) {

@@ -3,7 +3,7 @@
  * commented or even starred this repository.
  *
  * Before running this script, make sure that the
- * Github authentication token is available:
+ * GitHub authentication token is available:
  * export GITHUB_TOKEN=...
  */
 
