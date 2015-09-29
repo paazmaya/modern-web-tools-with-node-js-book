@@ -14,6 +14,9 @@
     "email": "paazmaya@yahoo.com",
     "url": "http://paazmaya.divshot.io"
   },
+  "engines": {
+    "node": ">=0.12.0"
+  },
   "dependencies": {
     "gitbook-plugin-anchors": "~0.4",
     "gitbook-plugin-exercises": "~1.0",
