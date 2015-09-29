@@ -9,7 +9,11 @@
   "scripts": {
     "participants": "scripts/participants.js"
   },
-  "author": "Juga Paazmaya <paazmaya@yahoo.com>",
+  "author": {
+    "name": "Juga Paazmaya",
+    "email": "paazmaya@yahoo.com",
+    "url": "http://paazmaya.divshot.io"
+  },
   "dependencies": {
     "gitbook-plugin-anchors": "~0.4",
     "gitbook-plugin-exercises": "~1.0",
