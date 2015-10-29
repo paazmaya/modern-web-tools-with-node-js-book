@@ -6,7 +6,7 @@
  * npm i -g package-json-validator
  */
 
-var fs = require('fs'),
+const fs = require('fs'),
   path = require('path'),
   util = require('util'),
   exec = require('child_process').exec,
