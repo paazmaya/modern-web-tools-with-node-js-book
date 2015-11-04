@@ -5,10 +5,10 @@ This page should contain links to the projects that are made in order to complet
 
 ## Assignments
 
-* [First assignment description](2014-09-16.md)
-* [Second assignment description](2014-10-07.md)
-* [Third assignment description](2014-10-28.md)
-* [Fourth assignment description](2014-11-18.md)
+* [First assignment description](1-command-line.md)
+* [Second assignment description](2-module.md)
+* [Third assignment description](3-code_coverage.md)
+* [Fourth assignment description](4-task-runner.md)
 
 ### Projects
 

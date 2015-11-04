@@ -8,7 +8,7 @@ Held on every Tuesday at 16:40 - 20:15, class room U423 in Bulevard Campus of
 
 Lecturer [Jukka Paasonen](http://paazmaya.fi), `<first name . last name @ school name . country ISO code>`.
 
-Please see [index.md](index.md) for further contents.
+Please see the [`overview.md`](overview.md) for further contents.
 
 
 ## Gitbook

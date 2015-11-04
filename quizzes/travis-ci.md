@@ -20,7 +20,7 @@ What is Travis CI?
 
 How to use it?
 
-|                                                                      | `ture` | `false` |
+|                                                                      | `true` | `false` |
 | ---------------------------------------------------------------------| ------ | ------- |
 | `Simply activate your repos on Travis CI, and integration is done`   |   [x]  |   [ ]   |
 | `Insert configurations into travis.json file`                        |   [ ]  |   [x]   |
@@ -34,7 +34,7 @@ How to use it?
 
 What is the benefit of using Travis CI?
 
-|                                                            | `ture` | `false` |
+|                                                            | `true` | `false` |
 | -----------------------------------------------------------| ------ | ------- |
 | `It will automatically run tests and notify if they fail`  |   [x]  |   [ ]   |
 | `It will fix bugs`                                         |   [ ]  |   [x]   |

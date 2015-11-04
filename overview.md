@@ -76,8 +76,6 @@ Based on the contents of the presentations, each subject has quizzes and exercis
 Each student is evaluated according to the following criteria, based on their returned assignments, presentations
 and other studying activities during the lessons.
 
-[Student participation matrix](participation.md) should contain links to the relevant activities.
-
 ### Modest
 
 - The student can install Node.js and its related tools and applications
