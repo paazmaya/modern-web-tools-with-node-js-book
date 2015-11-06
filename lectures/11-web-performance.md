@@ -62,7 +62,7 @@ The tools originally designed for Web performance can be used to benefit a Node.
 * [Perf Rocks Tools](http://www.perf.rocks/tools/ "Analysis, optimization and monitoring tools including Grunt, Gulp and Brocoli plugins")
 * [Integrating performance tools into continuous delivery](https://speakerdeck.com/soulislove/integrating-performance-tools-into-continuous-delivery "Integrating performance tools into continuous delivery")
 * [Book: High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html "High Performance Browser Networking")
-* [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging "npm and front-end packaging")
+* [npm and front-end packaging](http://blog.npmjs.com/post/101775448305/npm-and-front-end-packaging "npm and front-end packaging")
 * [600 million downloads from @npmjs in the last 30 days](https://twitter.com/seldo/status/529814744014651392 "600 million downloads from @npmjs in the last 30 days")
 * [Presentation: The web is too slow](http://www.slideshare.net/AndyDavies/the-web-is-too-slow "The web is too slow")
 * [How to Make a Performance Budget](http://danielmall.com/articles/how-to-make-a-performance-budget/ "How to Make a Performance Budget")
@@ -89,7 +89,7 @@ for downloading the assets:
 var request = require('request');
 var cheerio = require('cheerio');
 
-var url = 'http://npmjs.org';
+var url = 'http://npmjs.com';
 
 request(url, function (error, response, body) {
   if (!error && response.statusCode == 200) {

@@ -32,7 +32,7 @@ Tools that could help in checking the above criteria:
 * [Debugging Node.js - How we found memory leaks and slow/infinite loops](https://medium.com/@Philmod/debugging-node-js-29b2097df36c "Debugging Node.js")
 * [Node.js Security Tips](https://blog.codeship.com/node-js-security-tips/ "Node.js Security Tips")
 * [Google Chrome - Gradually sunsetting SHA-1](http://googleonlinesecurity.blogspot.fi/2014/09/gradually-sunsetting-sha-1.html "Gradually sunsetting SHA-1")
-* [OWASP Node js Goat Project](https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project)
+* [OWASP NodeGoat Project](https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project)
 
 
 ## Example for creating brute force passwords
@@ -53,7 +53,7 @@ var time = function () {
 	return (new Date()).getTime() - start;
 };
 
-// from https://www.npmjs.org/package/char-range
+// from https://www.npmjs.com/package/char-range
 var range = function(start, stop) {
 	var result = [];
 	for (var idx = start.charCodeAt(0), end = stop.charCodeAt(0); idx <= end; ++idx) {

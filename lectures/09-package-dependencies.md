@@ -38,7 +38,7 @@ There are several other similar services, but they might not support `npm` speci
 ## Links related to the lecture subject
 
 * [Package.json dependencies done right](http://blog.nodejitsu.com/package-dependencies-done-right/ "Package.json dependencies done right")
-* [npm-ls - List installed packages](https://www.npmjs.org/doc/cli/npm-ls.html "List installed packages")
+* [npm-ls - List installed packages](https://www.npmjs.com/doc/cli/npm-ls.html "List installed packages")
 * [The semver parser for node (the one npm uses)](https://github.com/npm/node-semver "The semver parser for node (the one npm uses)")
 * [Continuous Updating with VersionEye at code.talks 2014](http://www.slideshare.net/robertreiz/continuous-updating-codetalks "Continuous Updating with VersionEye at code.talks 2014")
 * [More badges, Shields.IO](http://shields.io/ "Your Badge Service")

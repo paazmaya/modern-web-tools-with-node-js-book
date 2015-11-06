@@ -19,7 +19,7 @@ Thus running a command `node task-1.js` would run the code created in the first 
     - The main part of the application should format the given timestamp to match Finnish date and time format
     - The result is finally printed out.
 4. Fork the repository of your classmate and create a pull request on their task 3, by doing the following changes:
-    - Find an existing module from [npmjs.org][npm] that can be used for formatting the timestamp
+    - Find an existing module from [npmjs.com][npm] that can be used for formatting the timestamp
     - Replace the formatting functionality with one from the module found.
 5. Optional: Come up with a repetitive task that you might be doing every now and then, for example renaming files based on certain criteria, resizing images, trimming whitespace, etc.
     - Create an application that simplifies that work for you
@@ -47,7 +47,7 @@ Feel free to add any links below that were helpful for you when completing the a
 * [npm 1.0: Global vs Local installation](http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation "npm 1.0: Global vs Local installation")
 * [SemVer 0.y.z](http://www.forbeslindesay.co.uk/post/53849897522/semver-0-y-z "SemVer 0.y.z")
 
-[npm]: https://www.npmjs.org/ "Node Packaged Modules"
+[npm]: https://www.npmjs.com/ "Node Packaged Modules"
 [api]: http://nodejs.org/documentation/api/ "Node.js API Documentation"
 
 ## Code examples
@@ -111,7 +111,7 @@ module.exports = function(filename) {
 The above use synchronous method `fs.statSync()` returns [a statistics object](http://nodejs.org/api/fs.html#fs_class_fs_stats "Objects returned from fs.stat(), fs.lstat() and fs.fstat() and their synchronous counterparts are of this type")
 which provides the information needed in its `mstat` property.
 
-It should be noted that the returned value was mistakenly assumed to be a timestamp (number of seconds from 1.1.1970),
+It should be noted that the returned value was mistakenly assumed to be a timestamp (number of seconds from 1st January 1970),
 but it is in fact an instance of [the JavaScript Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date "Date objects are based on a time value that is the number of milliseconds since 1 January, 1970 UTC").
 
 Now the `last-mod.js` file can be used as a module, by requiring it in the same fashion as other modules.
@@ -144,7 +144,7 @@ else {
 
 ### Task 4
 
-Once the fork has been done at GitHub and cloned locally, `package.json` configuration file needs to be created, in order to define the required depencency.
+Once the fork has been done at GitHub and cloned locally, `package.json` configuration file needs to be created, in order to define the required dependency.
 
 ```sh
 npm init
@@ -210,7 +210,7 @@ else {
 }
 ```
 
-The modules downloaded from npmjs.org are placed in a directory called `node_modules`. In most cases that
+The modules downloaded from [npmjs.com][] are placed in a directory called `node_modules`. In most cases that
 folder should not be placed under version control, thus it should be ignored by Git.
 This can be achieved with the `.gitignore` file, which contains a list of files which will be ignored.
 
@@ -222,7 +222,7 @@ node_modules
 ```
 
 The file `.gitignore` itself should be under version control.
-It can be created and added to the reporitory with these commands:
+It can be created and added to the repository with these commands:
 
 ```sh
 touch .gitignore

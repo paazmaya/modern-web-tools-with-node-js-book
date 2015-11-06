@@ -161,7 +161,7 @@ app.listen(6500);
 
 ```sh
 npm start
-// https://www.npmjs.org/doc/cli/npm-start.html
+// https://www.npmjs.com/doc/cli/npm-start.html
 // http://browsenpm.org/package.json#scripts.start
 ```
 

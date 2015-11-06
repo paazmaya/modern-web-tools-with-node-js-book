@@ -89,5 +89,5 @@ seen at [the `analyze-css` module][analyze-css].
 [Bower]: http://bower.io/ "A package manager for the web"
 [Component]: https://github.com/componentjs/component "Component is a vertically integrated frontend solution, handling everything from package management to the build process, handling everything including HTML, JS, CSS, images, and fonts"
 [istanbul]: http://gotwarlost.github.io/istanbul/ "istanbul: A Javascript code coverage tool written in JS"
-[npm]: http://npmjs.org "Node Packaged Modules"
+[npm]: http://npmjs.com "Node Packaged Modules"
 [analyze-css]: https://github.com/macbre/analyze-css "CSS selectors complexity and performance analyzer"

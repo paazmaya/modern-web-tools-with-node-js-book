@@ -20,7 +20,7 @@ npm registry itself uses CouchDB, which will be queried in the example below.
 'use strict';
 
 var name = 'node-sass';
-var url = 'http://registry.npmjs.org';
+var url = 'http://registry.npmjs.com';
 
 var util = require('util');
 var nano = require('nano');
@@ -76,6 +76,6 @@ Latest version of nano is 6.0.2
 
 ## Links related to the lecture subject
 
-* [npm - The JavaScript Package Registry](https://www.npmjs.org/doc/misc/npm-registry.html "The JavaScript Package Registry")
-* [nano - minimalistic couchdb driver for node.js](https://www.npmjs.org/package/nano "minimalistic couchdb driver for node.js")
+* [npm - The JavaScript Package Registry](https://docs.npmjs.com/misc/registry "The JavaScript Package Registry")
+* [nano - minimalistic couchdb driver for node.js](https://www.npmjs.com/package/nano "minimalistic couchdb driver for node.js")
 * [CouchDB is a database that completely embraces the web](http://couchdb.apache.org/ "CouchDB is a database that completely embraces the web")
