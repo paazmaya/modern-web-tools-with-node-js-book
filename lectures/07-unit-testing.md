@@ -2,7 +2,7 @@
 
 > Date 07/10/2014
 
-[Second assignment is given.](../assignments/2014-10-07.md)
+[Second assignment is given.](../assignments/2-module.md)
 
 
 ## Unit testing in general

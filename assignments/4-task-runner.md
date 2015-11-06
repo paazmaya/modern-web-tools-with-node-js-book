@@ -2,8 +2,8 @@
 
 > Given in 18th Nov 2014, to be returned by 9th Dec 2014
 
-Extend your existing main project which was originally started in [the first assignment](2014-09-16.md),
-continued in [the second](2014-10-07.md) and [the third](2014-10-28.md) assignments.
+Extend your existing main project which was originally started in [the first assignment](1-command-line.md),
+continued in [the second](2-module.md) and [the third](3-code-coverage.md) assignments.
 
 Now that the project can be executed via command line and as a part of another application, it should be able to be executed via task runner.
 

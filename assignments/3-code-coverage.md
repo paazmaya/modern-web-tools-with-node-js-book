@@ -2,8 +2,8 @@
 
 > Given in 28th Oct 2014, to be returned by 18th Nov 2014
 
-Extend your existing project which was started in [the first assignment](2014-09-16.md)
-and continued further in [the second assignment](2014-10-07.md).
+Extend your existing project which was started in [the first assignment](1-command-line.md)
+and continued further in [the second assignment](2-module.md).
 
 Use the automated tests done in the second assignment and add code coverage testing on them.
 Push the results to [Coveralls.io][] and display the results in your projects `README.md`.

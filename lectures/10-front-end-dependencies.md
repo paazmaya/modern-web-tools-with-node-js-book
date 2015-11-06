@@ -2,7 +2,7 @@
 
 > Date 28/10/2014
 
-[Third assignment is given.](../assignments/2014-10-28.md)
+[Third assignment is given.](../assignments/3-code-coverage.md)
 
 ## Front end dependencies
 
@@ -13,7 +13,7 @@ in one of them, is also available in the two other.
 
 ### Tasks for front end dependencies
 
-1. In the project made in the [web server lecture](2014-09-23.md "HTTP, Connect, Express")
+1. In the project made in the [web server lecture](05-express.md "HTTP, Connect, Express")
   - Add a library for doing DOM selection and event handler binding by using a dependency manager
   - Use that library for putting the cursor in the first field when the user enter the feedback page
 2. Write in `hello-node-js` repository `README.md` file when would you use a front end package manager
@@ -63,7 +63,7 @@ seen at [the `analyze-css` module][analyze-css].
 ### Tasks for code coverage
 
 1. Make sure that the unit tests and the task runner made in the
-   [unit testing lecture](2014-10-07.md "Unit testing, Jasmine, PhantomJS") are working
+   [unit testing lecture](07-unit-testing.md "Unit testing, Jasmine, PhantomJS") are working
    - Add code coverage check via command line for the project
    - Configure the command so it can be excuted with `npm run-script coverage`
    - Use coverage report to find out areas where tests are not touching

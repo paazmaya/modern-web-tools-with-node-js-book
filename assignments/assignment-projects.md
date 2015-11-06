@@ -7,7 +7,7 @@ This page should contain links to the projects that are made in order to complet
 
 * [First assignment description](1-command-line.md)
 * [Second assignment description](2-module.md)
-* [Third assignment description](3-code_coverage.md)
+* [Third assignment description](3-code-coverage.md)
 * [Fourth assignment description](4-task-runner.md)
 
 ### Projects

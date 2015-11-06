@@ -2,7 +2,7 @@
 
 > Given in 7th Oct 2014, to be returned by 28th Oct 2014
 
-Extend your existing project which was created in [the first assignment](2014-09-16.md).
+Extend your existing project which was created in [the first assignment](1-command-line.md).
 
 Given that your application is triggered via command line as required in the first assignment,
 now separate the functionality so that it can be used programmatically.

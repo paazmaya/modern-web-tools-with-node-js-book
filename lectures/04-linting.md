@@ -2,7 +2,7 @@
 
 > Date 16/09/2014
 
-[First assignment is given.](../assignments/2014-09-16.md)
+[First assignment is given.](../assignments/1-command-line.md)
 
 ## Why code style, validation and linting matters?
 

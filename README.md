@@ -23,8 +23,8 @@ This project is a [Gitbook](https://www.gitbook.com/), which is published on eac
 Build locally, the `LC` variable seems to be needed in Mac, also `sudo` might be needed in Linux:
 
 ```sh
-npm install --global gitbook gitbook-plugin-anchors gitbook-plugin-exercises
-LC_CTYPE=en_US.UTF-8 gitbook build
+npm install --global gitbook-cli
+gitbook build
 ```
 
 Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96/583/97).
@@ -37,6 +37,8 @@ Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96
 ## Contributing
 
 [Please refer to a GitHub blog post on how to create somewhat perfect pull request.](https://github.com/blog/1943-how-to-write-the-perfect-pull-request "How to write the perfect pull request")
+
+[Please also see the `npm` Code of Conduct.](https://docs.npmjs.com/policies/conduct)
 
 ## License
 
