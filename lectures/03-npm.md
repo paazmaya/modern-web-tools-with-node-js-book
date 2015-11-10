@@ -36,6 +36,7 @@ Feel free to add any links below that were helpful for you when completing the a
 
 ## Links related to the lecture subject
 
+* [Understanding npm](https://unpm.nodesource.com/ "Understanding npm")
 * [Node.js API documentation][api]
 * [Setting up Node.js Package Manager (npm)](http://paazmaya.fi/setting-up-node.js-package-manager-npm "Setting up Node.js Package Manager (npm)")
 * [npm cheat sheet](http://browsenpm.org/help "npm cheat sheet")
@@ -46,6 +47,7 @@ Feel free to add any links below that were helpful for you when completing the a
 * [MIT License explained](https://tldrlegal.com/license/mit-license "A short, permissive software license")
 * [npm 1.0: Global vs Local installation](http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation "npm 1.0: Global vs Local installation")
 * [SemVer 0.y.z](http://www.forbeslindesay.co.uk/post/53849897522/semver-0-y-z "SemVer 0.y.z")
+* [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/ "Semver explained - why there's a caret (^) in my package.json?")
 
 [npm]: https://www.npmjs.com/ "Node Packaged Modules"
 [api]: http://nodejs.org/documentation/api/ "Node.js API Documentation"
