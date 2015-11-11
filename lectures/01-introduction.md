@@ -170,6 +170,9 @@ assert(arraySum([['A','B','C','easy as',1,2,3]], 1]) === 6);
 ```
 ---
 
+## Further testing your skills against next level of JavaScript
+
+How about trying [this quiz regarding ES2016?](http://perfectionkills.com/javascript-quiz-es6 "Javascript quiz. ES6 edition.")
 
 ## Testing Node.js in the cloud
 
