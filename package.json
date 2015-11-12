@@ -16,7 +16,7 @@
     "url": "http://paazmaya.fi"
   },
   "engines": {
-    "node": ">=0.12.0"
+    "node": ">=4.2.0"
   },
   "dependencies": {
     "gitbook-plugin-anchors": "~0.4",
