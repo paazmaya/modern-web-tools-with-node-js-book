@@ -39,4 +39,7 @@ all the relevant code is available at GitHub.
 Please create a pull request for adding a link to your project in
 [the assignment projects list](assignment-projects.md) before the dead line.
 
+A link that might be helpful:
+[Building command line tools with Node.js](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
+
 [npm]: https://www.npmjs.org/ "Node Packaged Modules"
