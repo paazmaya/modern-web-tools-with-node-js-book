@@ -46,6 +46,7 @@ create a pull request that would add your presentation subject and date #11.
 * [GIT FAQ](http://gitfaq.org/ "Help without manpages")
 * [Visualizing Git Concepts with D3](http://www.wei-wang.com/ExplainGitWithD3/ "Visualizing Git Concepts with D3")
 * [Git for Everyone](http://anotheruiguy.gitbooks.io/gitforeveryone/ "Git for Everyone")
+* [Git-it Challenges](http://jlord.us/git-it/)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet "A list of cool features of Git and GitHub")
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html "A Visual Git Reference")
 * [Using pull requests](https://help.github.com/articles/using-pull-requests "GitHub - Using pull requests")
