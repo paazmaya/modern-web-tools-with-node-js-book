@@ -19,7 +19,7 @@
     "node": ">=4.2.0"
   },
   "dependencies": {
-    "gitbook-plugin-anchors": "~0.4",
+    "gitbook-plugin-anchors": "~0.5",
     "gitbook-plugin-exercises": "~1.0",
     "gitbook-plugin-quizzes": "~1.0"
   },
