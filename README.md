@@ -42,6 +42,6 @@ Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96
 
 ## License
 
-Copyright (c) [Juga Paazmaya <paazmaya@yahoo.com>](http://paazmaya.fi)
+Copyright (c) [Juga Paazmaya](http://paazmaya.fi) <paazmaya@yahoo.com>
 
 Licensed under [the MIT license](LICENSE).
