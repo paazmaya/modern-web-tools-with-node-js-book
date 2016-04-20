@@ -93,7 +93,7 @@ Each student is evaluated according to the following criteria, based on their re
 - The tools that the student has published have continuous automated testing
 - The student is able to update their own tools via version control system
 - The student can grasp what third party plugins can achieve and can use them efficiently in their own project
-- The student is able to participate the development of other tools via pull requests
+- The student is able to take part in the development of other tools via pull requests
 
 
 [issue]: https://github.com/paazmaya/modern-web-tools-with-node-js-book/issues "Course book issues"
