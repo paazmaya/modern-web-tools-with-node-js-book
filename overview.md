@@ -5,7 +5,7 @@ Book for the Node.js course, that was held in the Metropolia University of Appli
 * [Questions, issues][issue]
 * [Tieto- ja viestintätekniikan tutkinto-ohjelman avoimen opintotarjonta Helsingin toimipisteessä](http://www.metropolia.fi/koulutusohjelmat/tieto-ja-viestintateknologia/avoin-amk/tietotekniikka-helsinki/)
 
-It should be noted that throughout this course, the Node.js version in question is `0.10.x`.
+It should be noted that throughout this course, the Node.js version in question is `4.2.x`.
 
 ## Lectures
 
