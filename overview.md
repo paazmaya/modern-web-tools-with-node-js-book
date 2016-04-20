@@ -1,4 +1,4 @@
-# Course Definition
+# Course Overview
 
 Book for the Node.js course, that was held in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014.
 
