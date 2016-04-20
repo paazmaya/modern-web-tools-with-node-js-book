@@ -11,8 +11,7 @@ It should be noted that throughout this course, the Node.js version in question 
 
 Lectures were held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 20:45.
 
-Any questions that might come up during or between the lectures, please open an [issue][] if you feel
-that the subject would be useful for everyone.
+Any questions that might come up during or between the lectures, please open an [issue][] if you feel that the subject would be useful for everyone.
 
 1. [Introduction to Node.js and JavaScript](lectures/01-introduction.md)
 2. [GitHub forks and pull requests](lectures/02-github.md)
