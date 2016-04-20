@@ -2,12 +2,9 @@
 
 > Date 25/11/2014
 
-Some projects require the use of database due to the need for persistent data,
-such as user account information, settings and other similar things that should be
-kept same between different sessions.
+Some projects need to use a database due to the need for some persistent data, such as user account information, settings and other similar things that should be kept same between different sessions.
 
-Node.js has several modules that provide bindings to native database libraries, and
-some written completely in JavaScript.
+Node.js has several modules that provide bindings to native database libraries, and some written completely in JavaScript.
 
 npm registry itself uses CouchDB, which will be queried in the example below.
 
