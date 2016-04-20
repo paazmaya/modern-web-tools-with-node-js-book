@@ -1,7 +1,6 @@
 # Course Definition
 
-Book for the Node.js course help in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014.
-Developed during the course, by all course participants.
+Book for the Node.js course, that was held in the Metropolia University of Applied Sciences, Helsinki, Finland, during Autumn 2014.
 
 * [Questions, issues][issue]
 * [Tieto- ja viestintätekniikan tutkinto-ohjelman avoimen opintotarjonta Helsingin toimipisteessä](http://www.metropolia.fi/koulutusohjelmat/tieto-ja-viestintateknologia/avoin-amk/tietotekniikka-helsinki/)
@@ -73,8 +72,7 @@ Based on the contents of the presentations, each subject has quizzes and exercis
 
 ## Evaluation criteria
 
-Each student is evaluated according to the following criteria, based on their returned assignments, presentations
-and other studying activities during the lessons.
+Each student is evaluated according to the following criteria, based on their returned assignments, presentations and other studying activities during the lessons.
 
 ### Modest
 
