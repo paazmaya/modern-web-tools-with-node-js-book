@@ -9,7 +9,7 @@ It should be noted that throughout this course, the Node.js version in question 
 
 ## Lectures
 
-Lectures are held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 20:45.
+Lectures were held in Bulevard Campus, class room U423, every Tuesday at 16:40 - 20:45.
 
 Any questions that might come up during or between the lectures, please open an [issue][] if you feel
 that the subject would be useful for everyone.
