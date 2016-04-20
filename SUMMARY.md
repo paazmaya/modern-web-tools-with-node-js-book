@@ -39,4 +39,3 @@
   * [npm registry](quizzes/npm-registry.md)
   * [Sitespeed.io Web Performance](quizzes/sitespeedio-webperf.md)
   * [Travis CI](quizzes/travis-ci.md)
-* [Participation](participation.md)
