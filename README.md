@@ -6,7 +6,7 @@ A course of using [Node.js](http://nodejs.org/) and related tools in Web develop
 Held on every Tuesday at 16:40 - 20:15, class room U423 in Bulevard Campus of
 [Metropolia University of Applied Sciences](http://www.metropolia.fi/en/ "Metropolia"), Helsinki, Finland.
 
-Lecturer [Jukka Paasonen](http://paazmaya.fi), `<first name . last name @ school name . country ISO code>`.
+Lecturer [Jukka Paasonen](https://paazmaya.fi), `<first name . last name @ school name . country ISO code>`.
 
 Please see the [`overview.md`](overview.md) for further contents.
 
@@ -42,6 +42,6 @@ Cover image shape created by [Toni Suni](http://fi.linkedin.com/pub/toni-suni/96
 
 ## License
 
-Copyright (c) [Juga Paazmaya](http://paazmaya.fi) <paazmaya@yahoo.com>
+Copyright (c) [Juga Paazmaya](https://paazmaya.fi) <paazmaya@yahoo.com>
 
 Licensed under [the MIT license](LICENSE).

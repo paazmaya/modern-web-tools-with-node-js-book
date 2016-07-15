@@ -39,7 +39,7 @@ Feel free to add any links below that were helpful for you when completing the a
 * [Understanding npm](https://unpm.nodesource.com/ "Understanding npm")
 * [Node.js API documentation][api]
 * [HowToNode.org blog](http://howtonode.org/)
-* [Setting up Node.js Package Manager (npm)](http://paazmaya.fi/setting-up-node.js-package-manager-npm "Setting up Node.js Package Manager (npm)")
+* [Setting up Node.js Package Manager (npm)](https://paazmaya.fi/setting-up-node.js-package-manager-npm "Setting up Node.js Package Manager (npm)")
 * [npm cheat sheet](http://browsenpm.org/help "npm cheat sheet")
 * [How to npm](https://www.npmjs.com/package/how-to-npm "A module to teach you how to module")
 * [Browserify handbook](https://github.com/substack/browserify-handbook "how to build modular applications with browserify")
