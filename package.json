@@ -24,7 +24,7 @@
     "gitbook-plugin-quizzes": "~1.0"
   },
   "devDependencies": {
-    "github": "~6.0",
+    "github": "~6.1",
     "object-merge": "~2.5"
   }
 }
