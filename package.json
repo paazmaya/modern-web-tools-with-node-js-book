@@ -20,11 +20,11 @@
   },
   "dependencies": {
     "gitbook-plugin-anchors": "~0.7",
-    "gitbook-plugin-exercises": "~2.1",
+    "gitbook-plugin-exercises": "~3.0",
     "gitbook-plugin-quizzes": "~1.0"
   },
   "devDependencies": {
-    "github": "~8.2",
+    "github": "~9.2",
     "object-merge": "~2.5"
   }
 }
