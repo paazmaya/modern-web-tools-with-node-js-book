@@ -34,6 +34,7 @@ There are several other similar services, but they might not support `npm` speci
 * [Oona @ node-trello-slack](https://github.com/atuttle/node-trello-slack/issues/3)
 * [Jukra @ staged-github-files](https://github.com/justinanastos/staged-github-files/issues/1)
 * [merilainen-metropolia @ template](https://github.com/jonschlinkert/template/issues/7)
+* [mpiivonen @ sails-elasticsearch](https://github.com/marsanla/sails-elasticsearch/issues/1)
 
 ## Links related to the lecture subject
 
