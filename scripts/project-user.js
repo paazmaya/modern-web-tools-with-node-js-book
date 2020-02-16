@@ -2,7 +2,7 @@
  * Get the base directory where project assignments are,
  * and try to use them programmatically.
  */
-'use strict';
+
 
 const fs = require('fs'),
   path = require('path'),
